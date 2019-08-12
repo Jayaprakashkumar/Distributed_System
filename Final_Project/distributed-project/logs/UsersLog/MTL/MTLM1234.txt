@@ -1,0 +1,160 @@
+
+[04/08/2019 13:46:01] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 13:46:01] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 13:46:29]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[04/08/2019 13:46:57] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123457 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 13:46:57] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event already exists , Updating booking capacity from: 0 to: 1
+
+[04/08/2019 13:46:57] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123457 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 13:47:09]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLM123457, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[04/08/2019 13:47:09]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[04/08/2019 13:47:09]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLM123457, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[04/08/2019 13:50:13] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 13:50:13] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 13:50:32]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[04/08/2019 13:50:59] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123457 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 13:50:59] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event already exists , Updating booking capacity from: 1 to: 2
+
+[04/08/2019 13:50:59] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123457 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 13:51:07]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[04/08/2019 13:51:07]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLM123457, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[04/08/2019 13:51:07]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLM123457, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[04/08/2019 13:51:54]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[04/08/2019 13:51:54]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[04/08/2019 13:51:54]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[04/08/2019 13:51:54]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[04/08/2019 13:51:54]Customer ID : MTLM1234 , MTLM123456 conferences,MTLM123457 conferences,
+[04/08/2019 13:51:54]Customer ID : MTLM1234 , MTLM123456 conferences,MTLM123457 conferences,
+[04/08/2019 14:07:39] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 14:07:39] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 14:08:34]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLM12346, Action Performed : Book Event  Message : Event has not been Booked
+
+[04/08/2019 14:09:18] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 14:09:18] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 14:09:29]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[04/08/2019 14:09:43] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event already exists , Updating booking capacity from: 1 to: 2
+
+[04/08/2019 14:09:43] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123457 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 14:09:43] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123457 , Action Performed : addEvent , Message : Event added successfully
+
+[04/08/2019 14:09:50]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[04/08/2019 14:09:50]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLM123457, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[04/08/2019 14:09:50]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLM123457, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[05/08/2019 21:43:29] Manager ID : MTLM1234 , Event type : seminars , EventId : MTLM100519 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 21:43:29] Manager ID : MTLM1234 , Event type : seminars , EventId : MTLM100519 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 21:44:28] Manager ID : MTLM1234 , Event type : seminars , Action Performed : listEventAvailability , Message : Event list - seminars - MTLM100519 5
+
+[05/08/2019 21:44:28] Manager ID : MTLM1234 , Event type : seminars , Action Performed : listEventAvailability , Message : Event list - seminars - MTLM100519 5
+
+[05/08/2019 21:46:32]Customer ID : MTLM1234 ,  Event type : seminars ,  EventId : MTLM100519, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[05/08/2019 21:47:00]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[05/08/2019 21:47:00]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[05/08/2019 21:47:00]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[05/08/2019 21:47:00]Customer ID : MTLM1234 , MTLM100519 seminars,
+[05/08/2019 21:50:55] Manager ID : MTLM1234 , Event type : seminars , EventId : MTLM100519 , Action Performed : addEvent , Message : Event already exists , Updating booking capacity from: 4 to: 5
+
+[05/08/2019 21:50:55] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLE100519 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 21:50:55] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLE100519 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 21:51:25]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLE100519, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[05/08/2019 21:51:25]Customer ID : MTLM1234 ,  Event type : seminars ,  EventId : MTLM100519, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[05/08/2019 21:51:25]Customer ID : MTLM1234 ,  Event type : conferences ,  EventId : MTLE100519, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[05/08/2019 21:51:49]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[05/08/2019 21:51:49]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[05/08/2019 21:51:49]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[05/08/2019 21:51:49]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[05/08/2019 21:51:49]Customer ID : MTLM1234 , MTLM100519 seminars,MTLE100519 conferences,
+[05/08/2019 21:51:49]Customer ID : MTLM1234 , MTLM100519 seminars,MTLE100519 conferences,
+[05/08/2019 21:54:40]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[05/08/2019 21:54:40]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[05/08/2019 21:54:40]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[05/08/2019 21:54:40]Customer ID : MTLM1234 , No customer with CustomerId MTLM1234
+[05/08/2019 21:54:40]Customer ID : MTLM1234 , MTLM100519 seminars,MTLE100519 conferences,
+[05/08/2019 21:54:40]Customer ID : MTLM1234 , MTLM100519 seminars,MTLE100519 conferences,
+[05/08/2019 22:38:16] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:38:16] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:40:03] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event already exists , Updating booking capacity from: 2 to: 2
+
+[05/08/2019 22:40:03] Manager ID : MTLM1234 , Event type : trade shows , EventId : MTLM123457 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:40:03] Manager ID : MTLM1234 , Event type : trade shows , EventId : MTLM123457 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:40:22] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event already exists , Updating booking capacity from: 2 to: 2
+
+[05/08/2019 22:40:22] Manager ID : MTLM1234 , Event type : seminars , EventId : MTLM123458 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:40:22] Manager ID : MTLM1234 , Event type : trade shows , EventId : MTLM123457 , Action Performed : addEvent , Message : Event already exists , Updating booking capacity from: 2 to: 2
+
+[05/08/2019 22:40:22] Manager ID : MTLM1234 , Event type : seminars , EventId : MTLM123458 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:40:37] Manager ID : MTLM1234 , Event ID : MTLM1234569 , Action Performed : check_event_id , Message : You have entered invalid event id.
+
+[05/08/2019 22:41:03] Manager ID : MTLM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - MTLM123456 2
+
+[05/08/2019 22:41:03] Manager ID : MTLM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - MTLM123456 2
+
+[05/08/2019 22:41:17] Manager ID : MTLM1234 , Event type : trade shows , Action Performed : listEventAvailability , Message : Event list - trade shows - MTLM123457 2
+
+[05/08/2019 22:41:17] Manager ID : MTLM1234 , Event type : trade shows , Action Performed : listEventAvailability , Message : Event list - trade shows - MTLM123457 2
+
+[05/08/2019 22:41:25] Manager ID : MTLM1234 , Event type : seminars , Action Performed : listEventAvailability , Message : Event list - seminars - MTLM123458 2
+
+[05/08/2019 22:41:25] Manager ID : MTLM1234 , Event type : seminars , Action Performed : listEventAvailability , Message : Event list - seminars - MTLM123458 2
+
+[05/08/2019 22:49:21] Event type : k , Action Performed : check_event , Message : You have entered invalid event type
+
+[05/08/2019 22:49:44] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM100519 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:49:44] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM100519 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:49:53] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLE100519 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:49:53] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLE100519 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:50:04] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLA100519 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:50:04] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLA100519 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:50:17] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLA123456 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:50:17] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLA123456 , Action Performed : addEvent , Message : Event added successfully
+
+[05/08/2019 22:50:41] Manager ID : MTLM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - MTLA123456 8, MTLE100519 9, MTLM100519 5, MTLA100519 6
+
+[05/08/2019 22:50:41] Manager ID : MTLM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - MTLA123456 8, MTLE100519 9, MTLM100519 5, MTLA100519 6
+
+[05/08/2019 22:58:10] Manager ID : MTLM1234 , Event type : seminars , EventId : MTLM100519 , Action Performed : addEvent , Message : Event added successfully

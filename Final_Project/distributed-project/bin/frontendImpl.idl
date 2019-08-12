@@ -1,0 +1,23 @@
+module frontendImpl {
+
+	interface frontendApp
+	{
+		// Manager methods
+		boolean addEvent(in string eventID, in string eventType, in long bookingCapacity, in string managerID, in boolean bugValue);
+
+		boolean removeEvent(in string eventID, in string eventType, in string managerID);
+
+		string listEventAvailability(in string eventType, in string managerID);
+
+		// Customer methods
+		boolean bookEvent(in string customerID, in string eventID, in string eventType, in boolean crashValue);
+
+		string getBookingSchedule(in string customerID);
+
+		boolean cancelEvent(in string customerID, in string eventID, in string eventType);
+
+		boolean swapEvent (in string customerID, in string newEventID, in string newEventType, in string oldEventID, in string oldEventType);
+		
+		oneway void shutdown();
+	};
+};

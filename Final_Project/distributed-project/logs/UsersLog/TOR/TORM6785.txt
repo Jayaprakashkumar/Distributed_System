@@ -1,0 +1,12 @@
+
+[08/07/2019 21:05:58] Manager ID : TORM6785 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - MTLA090619 2, OTWE110619 1, OTWE080619 1
+
+[08/07/2019 21:06:10] Manager ID : TORM6785 , Event type : trade shows , Action Performed : listEventAvailability , Message : Event list - trade shows - MTLA080619 2
+
+[08/07/2019 21:06:16] Manager ID : TORM6785 , Event type : seminars , Action Performed : listEventAvailability , Message : Event list - seminars - MTLE230719 1
+
+[08/07/2019 21:07:07] Customer ID :TORM6785 ,  EventId : MTLA090619 ,  Event Type conferences ,  Action Performed : Cancel Event   ,  Message : Event can't be cancelled
+
+[08/07/2019 21:08:24] Customer ID :TORM6785 ,  EventId : MTLA090619 ,  Event Type conferences ,  Action Performed : Cancel Event   ,  Message : Event can't be cancelled
+
+[08/07/2019 21:11:32] Manager ID : TORM6785 , Event type : conferences , EventId : MTLA080619 , Action Performed : removeEvent , Message : No such event found. Could not removed the event

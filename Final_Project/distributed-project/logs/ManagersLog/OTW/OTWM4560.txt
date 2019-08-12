@@ -1,0 +1,12 @@
+
+[08/07/2019 21:00:51] Manager ID : OTWM4560 , Event type : conferences , EventId : OTWE080619 , Action Performed : addEvent , Message : Event added successfully
+
+[08/07/2019 21:01:16] Manager ID : OTWM4560 , Event type : conferences , EventId : OTWE110619 , Action Performed : addEvent , Message : Event added successfully
+
+[08/07/2019 21:01:33] Manager ID : OTWM4560 , Event type : conferences , EventId : TORE050619 , Action Performed : addEvent , Message : You are not authorized to create this event
+
+[08/07/2019 21:14:09] Manager ID : OTWM4560 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - OTWE110619 1, OTWE080619 1, MTLA090619 2
+
+[08/07/2019 21:14:22] Manager ID : OTWM4560 , Event type : trade shows , Action Performed : listEventAvailability , Message : No events found
+
+[08/07/2019 21:14:53] Manager ID : OTWM4560 , Event type : seminars , Action Performed : listEventAvailability , Message : Event list - seminars - MTLE230719 1

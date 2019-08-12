@@ -1,0 +1,334 @@
+[INFO ] 2019-08-04 13:45:42.491 [Thread-11] montreal - RM 3: Montreal-UDP-Server Started on port: 6706
+[INFO ] 2019-08-04 13:46:01.244 [Thread-4] montreal - Request Type: Add Event
+[INFO ] 2019-08-04 13:46:01.245 [Thread-4] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-04 13:46:01.245 [Thread-4] montreal - Montral Hashmap size :0
+[INFO ] 2019-08-04 13:46:01.245 [Thread-4] montreal - Event Type : conferences
+Event ID : MTLM123456
+Booking capacity 1
+[INFO ] 2019-08-04 13:46:01.245 [Thread-4] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-04 13:46:29.952 [Thread-4] montreal - Request Type: Book Event
+[INFO ] 2019-08-04 13:46:29.953 [Thread-4] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-08-04 13:46:29.953 [Thread-4] montreal - Map Size is : 1
+city  eventId :MTLM123456
+city  eventId :MTLM123456
+[INFO ] 2019-08-04 13:46:29.953 [Thread-4] montreal - Customer:  customer ID  :MTLM1234
+ event type: conferences
+event ID : MTLM123456
+[INFO ] 2019-08-04 13:46:29.954 [Thread-4] montreal - {MTLM123456=EventsData [capacityOfBooking=1, seatsFilled=1, seatsLeft=0, bookingCity=, registerdCustomer=[MTLM1234]]}
+[INFO ] 2019-08-04 13:46:29.954 [Thread-4] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-08-04 13:46:29.954 [Thread-4] montreal - Book event ends
+[INFO ] 2019-08-04 13:46:57.193 [Thread-4] montreal - Request Type: Add Event
+[INFO ] 2019-08-04 13:46:57.193 [Thread-4] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-04 13:46:57.193 [Thread-4] montreal - Montral Hashmap size :1
+[INFO ] 2019-08-04 13:46:57.193 [Thread-4] montreal - Event Type : conferences
+Event ID : MTLM123457
+Booking capacity 2
+[INFO ] 2019-08-04 13:46:57.193 [Thread-4] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-04 13:47:09.696 [Thread-4] montreal - Request Type: Book Event
+[INFO ] 2019-08-04 13:47:09.697 [Thread-4] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-08-04 13:47:09.697 [Thread-4] montreal - Map Size is : 1
+city  eventId :MTLM123457
+city  eventId :MTLM123457
+[INFO ] 2019-08-04 13:47:09.697 [Thread-4] montreal - Customer:  customer ID  :MTLM1234
+ event type: conferences
+event ID : MTLM123457
+[INFO ] 2019-08-04 13:47:09.697 [Thread-4] montreal - {MTLM123456=EventsData [capacityOfBooking=1, seatsFilled=1, seatsLeft=0, bookingCity=, registerdCustomer=[MTLM1234]], MTLM123457=EventsData [capacityOfBooking=2, seatsFilled=1, seatsLeft=1, bookingCity=, registerdCustomer=[MTLM1234]]}
+[INFO ] 2019-08-04 13:47:09.697 [Thread-4] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-08-04 13:47:09.698 [Thread-4] montreal - Book event ends
+[INFO ] 2019-08-04 13:50:00.452 [Thread-11] montreal - RM 3: Montreal-UDP-Server Started on port: 6706
+[INFO ] 2019-08-04 13:50:13.418 [Thread-5] montreal - Request Type: Add Event
+[INFO ] 2019-08-04 13:50:13.419 [Thread-5] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-04 13:50:13.419 [Thread-5] montreal - Montral Hashmap size :0
+[INFO ] 2019-08-04 13:50:13.419 [Thread-5] montreal - Event Type : conferences
+Event ID : MTLM123456
+Booking capacity 2
+[INFO ] 2019-08-04 13:50:13.419 [Thread-5] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-04 13:50:32.415 [Thread-5] montreal - Request Type: Book Event
+[INFO ] 2019-08-04 13:50:32.415 [Thread-5] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-08-04 13:50:32.415 [Thread-5] montreal - Map Size is : 1
+city  eventId :MTLM123456
+city  eventId :MTLM123456
+[INFO ] 2019-08-04 13:50:32.415 [Thread-5] montreal - Customer:  customer ID  :MTLM1234
+ event type: conferences
+event ID : MTLM123456
+[INFO ] 2019-08-04 13:50:32.416 [Thread-5] montreal - {MTLM123456=EventsData [capacityOfBooking=2, seatsFilled=1, seatsLeft=1, bookingCity=, registerdCustomer=[MTLM1234]]}
+[INFO ] 2019-08-04 13:50:32.416 [Thread-5] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-08-04 13:50:32.417 [Thread-5] montreal - Book event ends
+[INFO ] 2019-08-04 13:50:59.143 [Thread-5] montreal - Request Type: Add Event
+[INFO ] 2019-08-04 13:50:59.144 [Thread-5] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-04 13:50:59.144 [Thread-5] montreal - Montral Hashmap size :1
+[INFO ] 2019-08-04 13:50:59.144 [Thread-5] montreal - Event Type : conferences
+Event ID : MTLM123457
+Booking capacity 2
+[INFO ] 2019-08-04 13:50:59.144 [Thread-5] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-04 13:51:07.023 [Thread-5] montreal - Request Type: Book Event
+[INFO ] 2019-08-04 13:51:07.023 [Thread-5] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-08-04 13:51:07.023 [Thread-5] montreal - Map Size is : 1
+city  eventId :MTLM123457
+city  eventId :MTLM123457
+[INFO ] 2019-08-04 13:51:07.023 [Thread-5] montreal - Customer:  customer ID  :MTLM1234
+ event type: conferences
+event ID : MTLM123457
+[INFO ] 2019-08-04 13:51:07.023 [Thread-5] montreal - {MTLM123456=EventsData [capacityOfBooking=2, seatsFilled=1, seatsLeft=1, bookingCity=, registerdCustomer=[MTLM1234]], MTLM123457=EventsData [capacityOfBooking=2, seatsFilled=1, seatsLeft=1, bookingCity=, registerdCustomer=[MTLM1234]]}
+[INFO ] 2019-08-04 13:51:07.023 [Thread-5] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-08-04 13:51:07.023 [Thread-5] montreal - Book event ends
+[INFO ] 2019-08-04 13:51:54.423 [Thread-5] montreal - Request Type: Get booking Schedule
+[INFO ] 2019-08-04 13:51:54.423 [Thread-5] montreal - Request Parameter: Customer ID
+[INFO ] 2019-08-04 13:51:54.462 [Thread-15] montreal - Request message sent from the client is : MTLM1234,getBooking
+[INFO ] 2019-08-04 13:51:54.463 [Thread-14] montreal - Message is : MTLM1234,getBooking
+[INFO ] 2019-08-04 13:51:54.465 [Thread-5] montreal -  The List of event for Customer ID : MTLM1234: MTLM123456 conferences,MTLM123457 conferences,
+[INFO ] 2019-08-04 14:05:52.978 [Thread-11] montreal - RM 3: Montreal-UDP-Server Started on port: 6706
+[INFO ] 2019-08-04 14:07:39.650 [Thread-4] montreal - Request Type: Add Event
+[INFO ] 2019-08-04 14:07:39.650 [Thread-4] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-04 14:07:39.650 [Thread-4] montreal - Montral Hashmap size :0
+[INFO ] 2019-08-04 14:07:39.651 [Thread-4] montreal - Event Type : conferences
+Event ID : MTLM123456
+Booking capacity 2
+[INFO ] 2019-08-04 14:07:39.651 [Thread-4] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-04 14:08:34.926 [Thread-4] montreal - Request Type: Book Event
+[INFO ] 2019-08-04 14:08:34.926 [Thread-4] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-08-04 14:08:34.926 [Thread-4] montreal - Map Size is : 1
+city  eventId :MTLM12346
+city  eventId :MTLM12346
+[INFO ] 2019-08-04 14:08:34.926 [Thread-4] montreal - EventType :conferences with Event ID : MTLM12346does not exist
+[INFO ] 2019-08-04 14:08:34.927 [Thread-4] montreal - Book event ends
+[INFO ] 2019-08-04 14:09:06.333 [Thread-11] montreal - RM 3: Montreal-UDP-Server Started on port: 6706
+[INFO ] 2019-08-04 14:09:18.209 [Thread-4] montreal - Request Type: Add Event
+[INFO ] 2019-08-04 14:09:18.209 [Thread-4] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-04 14:09:18.209 [Thread-4] montreal - Montral Hashmap size :0
+[INFO ] 2019-08-04 14:09:18.209 [Thread-4] montreal - Event Type : conferences
+Event ID : MTLM123456
+Booking capacity 2
+[INFO ] 2019-08-04 14:09:18.209 [Thread-4] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-04 14:09:29.293 [Thread-4] montreal - Request Type: Book Event
+[INFO ] 2019-08-04 14:09:29.293 [Thread-4] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-08-04 14:09:29.294 [Thread-4] montreal - Map Size is : 1
+city  eventId :MTLM123456
+city  eventId :MTLM123456
+[INFO ] 2019-08-04 14:09:29.294 [Thread-4] montreal - Customer:  customer ID  :MTLM1234
+ event type: conferences
+event ID : MTLM123456
+[INFO ] 2019-08-04 14:09:29.295 [Thread-4] montreal - {MTLM123456=EventsData [capacityOfBooking=2, seatsFilled=1, seatsLeft=1, bookingCity=, registerdCustomer=[MTLM1234]]}
+[INFO ] 2019-08-04 14:09:29.295 [Thread-4] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-08-04 14:09:29.296 [Thread-4] montreal - Book event ends
+[INFO ] 2019-08-04 14:09:43.726 [Thread-4] montreal - Request Type: Add Event
+[INFO ] 2019-08-04 14:09:43.726 [Thread-4] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-04 14:09:43.726 [Thread-4] montreal - Montral Hashmap size :1
+[INFO ] 2019-08-04 14:09:43.726 [Thread-4] montreal - Event Type : conferences
+Event ID : MTLM123457
+Booking capacity 2
+[INFO ] 2019-08-04 14:09:43.726 [Thread-4] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-04 14:09:50.454 [Thread-4] montreal - Request Type: Book Event
+[INFO ] 2019-08-04 14:09:50.454 [Thread-4] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-08-04 14:09:50.454 [Thread-4] montreal - Map Size is : 1
+city  eventId :MTLM123457
+city  eventId :MTLM123457
+[INFO ] 2019-08-04 14:09:50.454 [Thread-4] montreal - Customer:  customer ID  :MTLM1234
+ event type: conferences
+event ID : MTLM123457
+[INFO ] 2019-08-04 14:09:50.454 [Thread-4] montreal - {MTLM123456=EventsData [capacityOfBooking=2, seatsFilled=1, seatsLeft=1, bookingCity=, registerdCustomer=[MTLM1234]], MTLM123457=EventsData [capacityOfBooking=2, seatsFilled=1, seatsLeft=1, bookingCity=, registerdCustomer=[MTLM1234]]}
+[INFO ] 2019-08-04 14:09:50.454 [Thread-4] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-08-04 14:09:50.454 [Thread-4] montreal - Book event ends
+[INFO ] 2019-08-05 21:42:58.500 [Thread-11] montreal - RM 3: Montreal-UDP-Server Started on port: 6706
+[INFO ] 2019-08-05 21:43:29.717 [Thread-4] montreal - Request Type: Add Event
+[INFO ] 2019-08-05 21:43:29.718 [Thread-4] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-05 21:43:29.718 [Thread-4] montreal - Montral Hashmap size :0
+[INFO ] 2019-08-05 21:43:29.718 [Thread-4] montreal - Event Type : seminars
+Event ID : MTLM100519
+Booking capacity 5
+[INFO ] 2019-08-05 21:43:29.719 [Thread-4] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-05 21:44:27.989 [Thread-4] montreal - Request Type: List Event Availability
+[INFO ] 2019-08-05 21:44:27.989 [Thread-4] montreal - Request Parameter: Event Type
+[INFO ] 2019-08-05 21:44:27.990 [Thread-4] montreal - Event id is                  :MTLM100519
+[INFO ] 2019-08-05 21:44:27.990 [Thread-4] montreal - Event booking capacity is   :5
+[INFO ] 2019-08-05 21:44:27.990 [Thread-4] montreal - Event booking seat left is   :5
+[INFO ] 2019-08-05 21:44:27.990 [Thread-4] montreal - Event booking seat booked is :5
+[INFO ] 2019-08-05 21:44:28.058 [Thread-15] montreal - Message is : seminars,listEventAvailability
+[INFO ] 2019-08-05 21:44:28.058 [Thread-15] montreal - Request message sent from the client is : seminars,listEventAvailability
+[INFO ] 2019-08-05 21:44:28.060 [Thread-4] montreal -  The List of event for Event Type : seminars: seminars - MTLM100519 5
+[INFO ] 2019-08-05 21:46:32.016 [Thread-4] montreal - Request Type: Book Event
+[INFO ] 2019-08-05 21:46:32.017 [Thread-4] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-08-05 21:46:32.017 [Thread-4] montreal - Map Size is : 1
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-08-05 21:46:32.017 [Thread-4] montreal - Customer:  customer ID  :MTLM1234
+ event type: seminars
+event ID : MTLM100519
+[INFO ] 2019-08-05 21:46:32.019 [Thread-4] montreal - {MTLM100519=EventsData [capacityOfBooking=5, seatsFilled=1, seatsLeft=4, bookingCity=, registerdCustomer=[MTLM1234]]}
+[INFO ] 2019-08-05 21:46:32.019 [Thread-4] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-08-05 21:46:32.020 [Thread-4] montreal - Book event ends
+[INFO ] 2019-08-05 21:47:00.830 [Thread-4] montreal - Request Type: Get booking Schedule
+[INFO ] 2019-08-05 21:47:00.830 [Thread-4] montreal - Request Parameter: Customer ID
+[INFO ] 2019-08-05 21:47:00.833 [Thread-16] montreal - Message is : MTLM1234,getBooking
+[INFO ] 2019-08-05 21:47:00.835 [Thread-17] montreal - Request message sent from the client is : MTLM1234,getBooking
+[INFO ] 2019-08-05 21:47:00.837 [Thread-4] montreal -  The List of event for Customer ID : MTLM1234: MTLM100519 seminars,
+[INFO ] 2019-08-05 21:50:55.109 [Thread-4] montreal - Request Type: Add Event
+[INFO ] 2019-08-05 21:50:55.109 [Thread-4] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-05 21:50:55.109 [Thread-4] montreal - Montral Hashmap size :1
+[INFO ] 2019-08-05 21:50:55.109 [Thread-4] montreal - Event Type : conferences
+Event ID : MTLE100519
+Booking capacity 5
+[INFO ] 2019-08-05 21:50:55.109 [Thread-4] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-05 21:51:25.290 [Thread-4] montreal - Request Type: Book Event
+[INFO ] 2019-08-05 21:51:25.290 [Thread-4] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-08-05 21:51:25.290 [Thread-4] montreal - Map Size is : 2
+city  eventId :MTLE100519
+city  eventId :MTLE100519
+[INFO ] 2019-08-05 21:51:25.290 [Thread-4] montreal - Customer:  customer ID  :MTLM1234
+ event type: conferences
+event ID : MTLE100519
+[INFO ] 2019-08-05 21:51:25.291 [Thread-4] montreal - {MTLE100519=EventsData [capacityOfBooking=5, seatsFilled=1, seatsLeft=4, bookingCity=, registerdCustomer=[MTLM1234]]}
+[INFO ] 2019-08-05 21:51:25.291 [Thread-4] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-08-05 21:51:25.291 [Thread-4] montreal - Book event ends
+[INFO ] 2019-08-05 21:51:49.242 [Thread-4] montreal - Request Type: Get booking Schedule
+[INFO ] 2019-08-05 21:51:49.243 [Thread-4] montreal - Request Parameter: Customer ID
+[INFO ] 2019-08-05 21:51:49.244 [Thread-18] montreal - Message is : MTLM1234,getBooking
+[INFO ] 2019-08-05 21:51:49.246 [Thread-19] montreal - Request message sent from the client is : MTLM1234,getBooking
+[INFO ] 2019-08-05 21:51:49.248 [Thread-4] montreal -  The List of event for Customer ID : MTLM1234: MTLM100519 seminars,MTLE100519 conferences,
+[INFO ] 2019-08-05 21:54:40.432 [Thread-4] montreal - Request Type: Get booking Schedule
+[INFO ] 2019-08-05 21:54:40.432 [Thread-4] montreal - Request Parameter: Customer ID
+[INFO ] 2019-08-05 21:54:40.433 [Thread-20] montreal - Message is : MTLM1234,getBooking
+[INFO ] 2019-08-05 21:54:40.436 [Thread-21] montreal - Request message sent from the client is : MTLM1234,getBooking
+[INFO ] 2019-08-05 21:54:40.437 [Thread-4] montreal -  The List of event for Customer ID : MTLM1234: MTLM100519 seminars,MTLE100519 conferences,
+[INFO ] 2019-08-05 21:55:36.256 [Thread-11] montreal -  Recieved message :
+[INFO ] 2019-08-05 21:55:36.256 [Thread-11] montreal - Request Type :getBooking
+[INFO ] 2019-08-05 21:55:36.256 [Thread-11] montreal - Get booking Schedule: Inter server communication
+[INFO ] 2019-08-05 22:37:05.118 [Thread-11] montreal - RM 3: Montreal-UDP-Server Started on port: 6706
+[INFO ] 2019-08-05 22:37:43.495 [Thread-11] montreal - RM 3: Montreal-UDP-Server Started on port: 6706
+[INFO ] 2019-08-05 22:38:16.692 [Thread-4] montreal - Request Type: Add Event
+[INFO ] 2019-08-05 22:38:16.693 [Thread-4] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-05 22:38:16.693 [Thread-4] montreal - Montral Hashmap size :0
+[INFO ] 2019-08-05 22:38:16.693 [Thread-4] montreal - Event Type : conferences
+Event ID : MTLM123456
+Booking capacity 2
+[INFO ] 2019-08-05 22:38:16.693 [Thread-4] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-05 22:40:03.894 [Thread-4] montreal - Request Type: Add Event
+[INFO ] 2019-08-05 22:40:03.894 [Thread-4] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-05 22:40:03.894 [Thread-4] montreal - Montral Hashmap size :1
+[INFO ] 2019-08-05 22:40:03.895 [Thread-4] montreal - Event Type : trade shows
+Event ID : MTLM123457
+Booking capacity 2
+[INFO ] 2019-08-05 22:40:03.895 [Thread-4] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-05 22:40:22.179 [Thread-4] montreal - Request Type: Add Event
+[INFO ] 2019-08-05 22:40:22.180 [Thread-4] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-05 22:40:22.180 [Thread-4] montreal - Montral Hashmap size :2
+[INFO ] 2019-08-05 22:40:22.181 [Thread-4] montreal - Event Type : seminars
+Event ID : MTLM123458
+Booking capacity 2
+[INFO ] 2019-08-05 22:40:22.181 [Thread-4] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-05 22:41:03.557 [Thread-4] montreal - Request Type: List Event Availability
+[INFO ] 2019-08-05 22:41:03.557 [Thread-4] montreal - Request Parameter: Event Type
+[INFO ] 2019-08-05 22:41:03.557 [Thread-4] montreal - Event id is                  :MTLM123456
+[INFO ] 2019-08-05 22:41:03.557 [Thread-4] montreal - Event booking capacity is   :2
+[INFO ] 2019-08-05 22:41:03.557 [Thread-4] montreal - Event booking seat left is   :2
+[INFO ] 2019-08-05 22:41:03.558 [Thread-4] montreal - Event booking seat booked is :2
+[INFO ] 2019-08-05 22:41:03.624 [Thread-15] montreal - Message is : conferences,listEventAvailability
+[INFO ] 2019-08-05 22:41:03.625 [Thread-15] montreal - Request message sent from the client is : conferences,listEventAvailability
+[INFO ] 2019-08-05 22:41:03.626 [Thread-4] montreal -  The List of event for Event Type : conferences: conferences - MTLM123456 2
+[INFO ] 2019-08-05 22:41:17.272 [Thread-4] montreal - Request Type: List Event Availability
+[INFO ] 2019-08-05 22:41:17.272 [Thread-4] montreal - Request Parameter: Event Type
+[INFO ] 2019-08-05 22:41:17.273 [Thread-4] montreal - Event id is                  :MTLM123457
+[INFO ] 2019-08-05 22:41:17.273 [Thread-4] montreal - Event booking capacity is   :2
+[INFO ] 2019-08-05 22:41:17.273 [Thread-4] montreal - Event booking seat left is   :2
+[INFO ] 2019-08-05 22:41:17.273 [Thread-4] montreal - Event booking seat booked is :2
+[INFO ] 2019-08-05 22:41:17.274 [Thread-17] montreal - Message is : trade shows,listEventAvailability
+[INFO ] 2019-08-05 22:41:17.275 [Thread-17] montreal - Request message sent from the client is : trade shows,listEventAvailability
+[INFO ] 2019-08-05 22:41:17.280 [Thread-4] montreal -  The List of event for Event Type : trade shows: trade shows - MTLM123457 2
+[INFO ] 2019-08-05 22:41:25.601 [Thread-4] montreal - Request Type: List Event Availability
+[INFO ] 2019-08-05 22:41:25.601 [Thread-4] montreal - Request Parameter: Event Type
+[INFO ] 2019-08-05 22:41:25.601 [Thread-4] montreal - Event id is                  :MTLM123458
+[INFO ] 2019-08-05 22:41:25.601 [Thread-4] montreal - Event booking capacity is   :2
+[INFO ] 2019-08-05 22:41:25.601 [Thread-4] montreal - Event booking seat left is   :2
+[INFO ] 2019-08-05 22:41:25.602 [Thread-4] montreal - Event booking seat booked is :2
+[INFO ] 2019-08-05 22:41:25.605 [Thread-19] montreal - Message is : seminars,listEventAvailability
+[INFO ] 2019-08-05 22:41:25.606 [Thread-19] montreal - Request message sent from the client is : seminars,listEventAvailability
+[INFO ] 2019-08-05 22:41:25.607 [Thread-4] montreal -  The List of event for Event Type : seminars: seminars - MTLM123458 2
+[INFO ] 2019-08-05 22:48:47.215 [Thread-11] montreal - RM 3: Montreal-UDP-Server Started on port: 6706
+[INFO ] 2019-08-05 22:49:44.091 [Thread-5] montreal - Request Type: Add Event
+[INFO ] 2019-08-05 22:49:44.092 [Thread-5] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-05 22:49:44.092 [Thread-5] montreal - Montral Hashmap size :0
+[INFO ] 2019-08-05 22:49:44.092 [Thread-5] montreal - Event Type : conferences
+Event ID : MTLM100519
+Booking capacity 5
+[INFO ] 2019-08-05 22:49:44.092 [Thread-5] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-05 22:49:53.954 [Thread-5] montreal - Request Type: Add Event
+[INFO ] 2019-08-05 22:49:53.954 [Thread-5] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-05 22:49:53.954 [Thread-5] montreal - Montral Hashmap size :1
+[INFO ] 2019-08-05 22:49:53.955 [Thread-5] montreal - Event Type : conferences
+Event ID : MTLE100519
+Booking capacity 9
+[INFO ] 2019-08-05 22:49:53.955 [Thread-5] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-05 22:50:04.807 [Thread-5] montreal - Request Type: Add Event
+[INFO ] 2019-08-05 22:50:04.807 [Thread-5] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-05 22:50:04.807 [Thread-5] montreal - Montral Hashmap size :1
+[INFO ] 2019-08-05 22:50:04.808 [Thread-5] montreal - Event Type : conferences
+Event ID : MTLA100519
+Booking capacity 6
+[INFO ] 2019-08-05 22:50:04.808 [Thread-5] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-05 22:50:17.777 [Thread-5] montreal - Request Type: Add Event
+[INFO ] 2019-08-05 22:50:17.777 [Thread-5] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-05 22:50:17.778 [Thread-5] montreal - Montral Hashmap size :1
+[INFO ] 2019-08-05 22:50:17.778 [Thread-5] montreal - Event Type : conferences
+Event ID : MTLA123456
+Booking capacity 8
+[INFO ] 2019-08-05 22:50:17.778 [Thread-5] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-05 22:50:41.825 [Thread-5] montreal - Request Type: List Event Availability
+[INFO ] 2019-08-05 22:50:41.825 [Thread-5] montreal - Request Parameter: Event Type
+[INFO ] 2019-08-05 22:50:41.825 [Thread-5] montreal - Event id is                  :MTLA123456
+[INFO ] 2019-08-05 22:50:41.826 [Thread-5] montreal - Event booking capacity is   :8
+[INFO ] 2019-08-05 22:50:41.826 [Thread-5] montreal - Event booking seat left is   :8
+[INFO ] 2019-08-05 22:50:41.826 [Thread-5] montreal - Event booking seat booked is :8
+[INFO ] 2019-08-05 22:50:41.826 [Thread-5] montreal - Event id is                  :MTLE100519
+[INFO ] 2019-08-05 22:50:41.826 [Thread-5] montreal - Event booking capacity is   :9
+[INFO ] 2019-08-05 22:50:41.826 [Thread-5] montreal - Event booking seat left is   :9
+[INFO ] 2019-08-05 22:50:41.826 [Thread-5] montreal - Event booking seat booked is :9
+[INFO ] 2019-08-05 22:50:41.827 [Thread-5] montreal - Event id is                  :MTLM100519
+[INFO ] 2019-08-05 22:50:41.827 [Thread-5] montreal - Event booking capacity is   :5
+[INFO ] 2019-08-05 22:50:41.827 [Thread-5] montreal - Event booking seat left is   :5
+[INFO ] 2019-08-05 22:50:41.827 [Thread-5] montreal - Event booking seat booked is :5
+[INFO ] 2019-08-05 22:50:41.827 [Thread-5] montreal - Event id is                  :MTLA100519
+[INFO ] 2019-08-05 22:50:41.827 [Thread-5] montreal - Event booking capacity is   :6
+[INFO ] 2019-08-05 22:50:41.827 [Thread-5] montreal - Event booking seat left is   :6
+[INFO ] 2019-08-05 22:50:41.828 [Thread-5] montreal - Event booking seat booked is :6
+[INFO ] 2019-08-05 22:50:41.891 [Thread-15] montreal - Message is : conferences,listEventAvailability
+[INFO ] 2019-08-05 22:50:41.891 [Thread-15] montreal - Request message sent from the client is : conferences,listEventAvailability
+[INFO ] 2019-08-05 22:50:41.893 [Thread-5] montreal -  The List of event for Event Type : conferences: conferences - MTLA123456 8, MTLE100519 9, MTLM100519 5, MTLA100519 6
+[INFO ] 2019-08-05 23:39:18.807 [Thread-11] montreal - RM 3: Montreal-UDP-Server Started on port: 6706
+[INFO ] 2019-08-05 23:39:34.481 [Thread-6] montreal - Request Type: Add Event
+[INFO ] 2019-08-05 23:39:34.482 [Thread-6] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-05 23:39:34.482 [Thread-6] montreal - Montral Hashmap size :0
+[INFO ] 2019-08-05 23:39:34.482 [Thread-6] montreal - Event Type : seminars
+Event ID : MTLM123456
+Booking capacity 5
+[INFO ] 2019-08-05 23:39:34.482 [Thread-6] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-05 23:40:10.113 [Thread-6] montreal - Request Type: Book Event
+[INFO ] 2019-08-05 23:40:10.113 [Thread-6] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-08-05 23:40:10.114 [Thread-6] montreal - Map Size is : 1
+city  eventId :MTLM123456
+city  eventId :MTLM123456
+[INFO ] 2019-08-05 23:40:10.114 [Thread-6] montreal - EventType :conferences does not exist
+[INFO ] 2019-08-05 23:40:10.114 [Thread-6] montreal - Book event ends
+[INFO ] 2019-08-05 23:41:07.135 [Thread-11] montreal - RM 3: Montreal-UDP-Server Started on port: 6706
+[INFO ] 2019-08-05 23:41:23.573 [Thread-6] montreal - Request Type: Add Event
+[INFO ] 2019-08-05 23:41:23.574 [Thread-6] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-08-05 23:41:23.574 [Thread-6] montreal - Montral Hashmap size :0
+[INFO ] 2019-08-05 23:41:23.574 [Thread-6] montreal - Event Type : seminars
+Event ID : MTLM123456
+Booking capacity 5
+[INFO ] 2019-08-05 23:41:23.574 [Thread-6] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-08-05 23:41:37.491 [Thread-6] montreal - Request Type: Book Event
+[INFO ] 2019-08-05 23:41:37.491 [Thread-6] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-08-05 23:41:37.491 [Thread-6] montreal - Map Size is : 1
+city  eventId :MTLM123456
+city  eventId :MTLM123456
+[INFO ] 2019-08-05 23:41:37.492 [Thread-6] montreal - Customer:  customer ID  :MTLM1234
+ event type: seminars
+event ID : MTLM123456
+[INFO ] 2019-08-05 23:41:37.494 [Thread-6] montreal - {MTLM123456=EventsData [capacityOfBooking=5, seatsFilled=1, seatsLeft=4, bookingCity=, registerdCustomer=[MTLM1234]]}
+[INFO ] 2019-08-05 23:41:37.494 [Thread-6] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-08-05 23:41:37.495 [Thread-6] montreal - Book event ends
+[INFO ] 2019-08-05 23:41:51.002 [Thread-6] montreal - Request Type: Get booking Schedule
+[INFO ] 2019-08-05 23:41:51.002 [Thread-6] montreal - Request Parameter: Customer ID
+[INFO ] 2019-08-05 23:41:51.062 [Thread-14] montreal - Message is : MTLM1234,getBooking
+[INFO ] 2019-08-05 23:41:51.067 [Thread-15] montreal - Request message sent from the client is : MTLM1234,getBooking
+[INFO ] 2019-08-05 23:41:51.068 [Thread-6] montreal -  The List of event for Customer ID : MTLM1234: MTLM123456 seminars,
