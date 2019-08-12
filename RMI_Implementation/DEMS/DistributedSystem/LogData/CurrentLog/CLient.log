@@ -1,0 +1,2168 @@
+[INFO ] 2019-06-05 16:47:33.076 [main] client - In client
+[INFO ] 2019-06-06 12:14:48.602 [main] client - In client
+[INFO ] 2019-06-06 12:15:04.607 [main] client - In client
+[INFO ] 2019-06-06 12:18:07.089 [main] client - In client
+[INFO ] 2019-06-06 12:50:38.661 [main] client - In client
+[INFO ] 2019-06-06 13:15:18.149 [main] client - In client
+[INFO ] 2019-06-06 14:24:32.775 [main] client - In client
+[INFO ] 2019-06-06 14:24:32.791 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 14:24:32.791 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 14:33:41.323 [main] client - In client
+[INFO ] 2019-06-06 14:33:41.327 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 14:33:41.327 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 14:34:27.038 [main] client - City     :TOR
+[INFO ] 2019-06-06 14:34:27.038 [main] client - Login User :M
+[INFO ] 2019-06-06 14:34:27.051 [main] client - userNo   :12345
+[INFO ] 2019-06-06 14:34:27.343 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 14:34:27.344 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 14:34:27.344 [main] client - Please enter your option
+[INFO ] 2019-06-06 14:34:29.335 [main] client - Add Event
+[INFO ] 2019-06-06 14:34:29.335 [main] client - Enter the event ID
+[INFO ] 2019-06-06 14:34:34.765 [main] client - Enter the event Type
+[INFO ] 2019-06-06 14:34:34.766 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 14:34:37.207 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 14:34:41.347 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 14:34:41.347 [main] client - EventType : Swith Event ID : TORM100519  booked with capacity 5 from montreal server
+[INFO ] 2019-06-06 14:34:41.353 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 14:34:41.353 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 14:34:41.354 [main] client - Please enter your option
+[INFO ] 2019-06-06 14:56:29.192 [main] client - In client
+[INFO ] 2019-06-06 14:56:29.196 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 14:56:29.196 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 14:56:41.738 [main] client - City     :MTL
+[INFO ] 2019-06-06 14:56:41.739 [main] client - Login User :M
+[INFO ] 2019-06-06 14:56:41.739 [main] client - userNo   :12345
+[INFO ] 2019-06-06 14:56:42.032 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 14:56:42.032 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 14:56:42.033 [main] client - Please enter your option
+[INFO ] 2019-06-06 14:56:44.340 [main] client - Add Event
+[INFO ] 2019-06-06 14:56:44.341 [main] client - Enter the event ID
+[INFO ] 2019-06-06 14:56:48.357 [main] client - Enter the event Type
+[INFO ] 2019-06-06 14:56:48.357 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 14:56:54.039 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 14:56:57.507 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 14:56:57.508 [main] client - EventType : Swith Event ID : MTLM100519  booked with capacity 3 from montreal server
+[INFO ] 2019-06-06 14:56:57.512 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 14:56:57.513 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 14:56:57.513 [main] client - Please enter your option
+[INFO ] 2019-06-06 14:57:08.691 [main] client - Add Event
+[INFO ] 2019-06-06 14:57:08.692 [main] client - Enter the event ID
+[INFO ] 2019-06-06 14:57:13.639 [main] client - Enter the event Type
+[INFO ] 2019-06-06 14:57:13.639 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 14:57:15.896 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 14:57:18.062 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 14:57:18.062 [main] client - EventType : Cwith Event ID : MTLA121212  booked with capacity 1 from montreal server
+[INFO ] 2019-06-06 14:57:18.067 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 14:57:18.067 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 14:57:18.067 [main] client - Please enter your option
+[INFO ] 2019-06-06 14:57:25.886 [main] client - Add Event
+[INFO ] 2019-06-06 14:57:25.886 [main] client - Enter the event ID
+[INFO ] 2019-06-06 14:57:34.914 [main] client - Enter the event Type
+[INFO ] 2019-06-06 14:57:34.914 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 14:57:39.692 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 14:57:41.721 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 14:57:41.722 [main] client - EventType : Twith Event ID : MTLE1803  booked with capacity 3 from montreal server
+[INFO ] 2019-06-06 14:57:41.727 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 14:57:41.727 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 14:57:41.728 [main] client - Please enter your option
+[INFO ] 2019-06-06 14:58:29.813 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 14:58:29.813 [main] client - Book Event
+[INFO ] 2019-06-06 14:58:29.813 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 14:58:36.987 [main] client - Enter the event ID
+[INFO ] 2019-06-06 14:58:53.154 [main] client - Enter the event Type
+[INFO ] 2019-06-06 14:58:53.154 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 14:58:55.403 [main] client - Customer with customer ID  :MTLA21212 could not book a event type of  : S with event ID : MTLM12345
+[INFO ] 2019-06-06 14:58:55.409 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 14:58:55.409 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 14:58:55.414 [main] client - Please enter your option
+[INFO ] 2019-06-06 14:59:01.350 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 14:59:01.350 [main] client - Book Event
+[INFO ] 2019-06-06 14:59:01.350 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 14:59:11.659 [main] client - Enter the event ID
+[INFO ] 2019-06-06 14:59:16.893 [main] client - Enter the event Type
+[INFO ] 2019-06-06 14:59:16.894 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 14:59:19.932 [main] client - Customer with customer ID  :MTLM123456 booked event type of  : C with event ID : MTLA121212
+[INFO ] 2019-06-06 14:59:19.939 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 14:59:19.939 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 14:59:19.939 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:00:18.995 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 15:00:18.996 [main] client - Get Booking Schedule
+[INFO ] 2019-06-06 15:00:18.996 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 15:00:24.006 [main] client - cobj :MTLM123456 C MTLA121212
+[INFO ] 2019-06-06 15:00:24.006 [main] client - Customer ID : MTLM123456 Customer event type : C Customer event ID : MTLA121212
+[INFO ] 2019-06-06 15:00:24.006 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:00:24.006 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:00:24.007 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:01:06.696 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 15:01:06.696 [main] client - Book Event
+[INFO ] 2019-06-06 15:01:06.697 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 15:01:13.752 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:01:23.910 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:01:23.910 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:01:26.066 [main] client - Customer with customer ID  :MTLM123456 could not book a event type of  : C with event ID : MTLA121212
+[INFO ] 2019-06-06 15:01:26.069 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:01:26.069 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:01:26.070 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:08:03.772 [main] client - In client
+[INFO ] 2019-06-06 15:08:03.776 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 15:08:03.776 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 15:08:21.876 [main] client - City     :MTL
+[INFO ] 2019-06-06 15:08:21.876 [main] client - Login User :M
+[INFO ] 2019-06-06 15:08:21.877 [main] client - userNo   :12345
+[INFO ] 2019-06-06 15:08:22.171 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:08:22.171 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:08:22.172 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:08:24.077 [main] client - Add Event
+[INFO ] 2019-06-06 15:08:24.077 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:08:30.763 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:08:30.763 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:08:33.638 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 15:10:22.076 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 15:10:22.076 [main] client - EventType : Swith Event ID : MTLM100519  booked with capacity 1 from montreal server
+[INFO ] 2019-06-06 15:10:22.082 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:10:22.082 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:10:22.082 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:12:11.236 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 15:12:11.236 [main] client - Book Event
+[INFO ] 2019-06-06 15:12:11.236 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 15:12:19.619 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:12:27.406 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:12:27.406 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:12:31.810 [main] client - Customer with customer ID  :MTLM123456 booked event type of  : S with event ID : MTLM100519
+[INFO ] 2019-06-06 15:12:31.812 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:12:31.812 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:12:31.812 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:26:52.701 [main] client - In client
+[INFO ] 2019-06-06 15:26:52.705 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 15:26:52.706 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 15:34:23.460 [main] client - In client
+[INFO ] 2019-06-06 15:34:23.464 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 15:34:23.465 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 15:34:30.865 [main] client - City     :MTL
+[INFO ] 2019-06-06 15:34:30.865 [main] client - Login User :M
+[INFO ] 2019-06-06 15:34:30.865 [main] client - userNo   :12345
+[INFO ] 2019-06-06 15:34:32.060 [main] client - Client Exception: java.rmi.ConnectException: Connection refused to host: 192.168.2.15; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+[INFO ] 2019-06-06 15:37:37.766 [main] client - In client
+[INFO ] 2019-06-06 15:37:37.770 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 15:37:37.770 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 15:37:44.651 [main] client - City     :MTL
+[INFO ] 2019-06-06 15:37:44.651 [main] client - Login User :M
+[INFO ] 2019-06-06 15:37:44.651 [main] client - userNo   :12345
+[INFO ] 2019-06-06 15:37:44.956 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:37:44.956 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:37:44.956 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:37:47.103 [main] client - Add Event
+[INFO ] 2019-06-06 15:37:47.103 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:37:51.957 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:37:51.957 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:37:53.904 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 15:37:55.679 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 15:37:55.679 [main] client - EventType : Swith Event ID : MTLM100519  booked with capacity 2 from montreal server
+[INFO ] 2019-06-06 15:37:55.682 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:37:55.683 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:37:55.683 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:38:03.689 [main] client - Add Event
+[INFO ] 2019-06-06 15:38:03.689 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:38:07.754 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:38:07.754 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:38:09.705 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 15:38:11.312 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 15:38:11.313 [main] client - EventType : Cwith Event ID : MTLM121212  booked with capacity 3 from montreal server
+[INFO ] 2019-06-06 15:38:11.317 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:38:11.317 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:38:11.317 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:38:21.014 [main] client - Do you want to continue : yes / no
+[INFO ] 2019-06-06 15:38:22.609 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 15:38:22.610 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 15:38:28.662 [main] client - City     :TOR
+[INFO ] 2019-06-06 15:38:28.662 [main] client - Login User :M
+[INFO ] 2019-06-06 15:38:28.663 [main] client - userNo   :12345
+[INFO ] 2019-06-06 15:38:28.694 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:38:28.694 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:38:28.695 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:38:42.574 [main] client - Add Event
+[INFO ] 2019-06-06 15:38:42.574 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:38:59.020 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:38:59.020 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:39:00.522 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 15:39:02.247 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 15:39:02.247 [main] client - EventType : Swith Event ID : TORM100519  booked with capacity 3 from montreal server
+[INFO ] 2019-06-06 15:39:02.250 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:39:02.250 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:39:02.250 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:39:05.049 [main] client - Add Event
+[INFO ] 2019-06-06 15:39:05.049 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:39:12.708 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:39:12.708 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:39:14.254 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 15:39:16.106 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 15:39:16.106 [main] client - EventType : Cwith Event ID : TORA121212  booked with capacity 5 from montreal server
+[INFO ] 2019-06-06 15:39:16.109 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:39:16.110 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:39:16.110 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:39:20.462 [main] client - Do you want to continue : yes / no
+[INFO ] 2019-06-06 15:39:22.340 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 15:39:22.341 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 15:39:28.373 [main] client - City     :OTW
+[INFO ] 2019-06-06 15:39:28.373 [main] client - Login User :M
+[INFO ] 2019-06-06 15:39:28.373 [main] client - userNo   :12345
+[INFO ] 2019-06-06 15:39:28.404 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:39:28.404 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:39:28.404 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:39:37.682 [main] client - Add Event
+[INFO ] 2019-06-06 15:39:37.682 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:39:50.162 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:39:50.162 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:39:51.676 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 15:39:53.276 [main] client -  Event already exists! New Booking capacity is Updated
+[INFO ] 2019-06-06 15:39:53.276 [main] client - EventType : Swith Event ID : OTWA100519  booked with capacity 5 from montreal server
+[INFO ] 2019-06-06 15:39:53.278 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:39:53.278 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:39:53.278 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:40:00.283 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 15:40:00.283 [main] client - Book Event
+[INFO ] 2019-06-06 15:40:00.283 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 15:40:05.724 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:40:12.386 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:40:12.386 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:40:14.117 [main] client - Customer with customer ID  :OTWM100519 could not book a event type of  : S with event ID : OTWN5
+[INFO ] 2019-06-06 15:40:14.118 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:40:14.119 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:40:14.119 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:40:17.993 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 15:40:17.994 [main] client - Book Event
+[INFO ] 2019-06-06 15:40:17.994 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 15:40:24.283 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:40:30.235 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:40:30.235 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:40:31.964 [main] client - Customer with customer ID  :OTWM123456 could not book a event type of  : S with event ID : OTWM100519
+[INFO ] 2019-06-06 15:40:31.966 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:40:31.967 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:40:31.967 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:41:33.438 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 15:41:33.438 [main] client - Book Event
+[INFO ] 2019-06-06 15:41:33.449 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 15:41:37.066 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:41:39.930 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:41:39.930 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:41:42.354 [main] client - Customer with customer ID  :OTWM123456 booked event type of  : S with event ID : OTWA100519
+[INFO ] 2019-06-06 15:41:42.356 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:41:42.356 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:41:42.356 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:41:48.613 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 15:41:48.613 [main] client - Book Event
+[INFO ] 2019-06-06 15:41:48.613 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 15:41:54.485 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:42:22.758 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:42:22.758 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:42:24.734 [main] client - Customer with customer ID  :OTWM123456 booked event type of  : S with event ID : MTLM100519
+[INFO ] 2019-06-06 15:42:24.736 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:42:24.736 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:42:24.736 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:42:28.282 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 15:42:28.282 [main] client - Book Event
+[INFO ] 2019-06-06 15:42:28.282 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 15:42:37.642 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:43:08.756 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:43:08.757 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:43:44.249 [main] client - Customer with customer ID  :OTWM123456 booked event type of  : C with event ID : MTLM121212
+[INFO ] 2019-06-06 15:43:44.251 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:43:44.251 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:43:44.251 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:43:49.221 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 15:43:49.221 [main] client - Book Event
+[INFO ] 2019-06-06 15:43:49.221 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 15:44:01.762 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:44:23.809 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:44:23.810 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:44:26.911 [main] client - Customer with customer ID  :OTWM123456 booked event type of  : S with event ID : TORM100519
+[INFO ] 2019-06-06 15:44:26.913 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:44:26.913 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:44:26.913 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:44:32.905 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 15:44:32.905 [main] client - Book Event
+[INFO ] 2019-06-06 15:44:32.905 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 15:44:38.232 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:44:48.384 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:44:48.385 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:44:56.794 [main] client - Customer with customer ID  :OTWM123456 could not book a event type of  : C with event ID : TORA121212
+[INFO ] 2019-06-06 15:44:56.796 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:44:56.796 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:44:56.796 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:46:50.049 [main] client - Remove Event
+[INFO ] 2019-06-06 15:46:50.049 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:46:58.944 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:46:58.944 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:47:24.362 [main] client - EventType :Cwith Event ID :TORA121212 does not exist
+[INFO ] 2019-06-06 15:47:24.363 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:47:24.363 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:47:24.363 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:48:12.483 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 15:48:12.483 [main] client - Cancel Event
+[INFO ] 2019-06-06 15:48:12.483 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 15:48:19.537 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:48:19.537 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:48:19.537 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:48:28.934 [main] client - Enter the valid Event Type!!
+[INFO ] 2019-06-06 15:48:28.935 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:48:28.935 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:50:32.268 [main] client - Client Exception: java.lang.StringIndexOutOfBoundsException: String index out of range: 3
+[INFO ] 2019-06-06 15:51:03.266 [main] client - In client
+[INFO ] 2019-06-06 15:51:03.271 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 15:51:03.271 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 15:51:21.488 [main] client - City     :OTW
+[INFO ] 2019-06-06 15:51:21.489 [main] client - Login User :M
+[INFO ] 2019-06-06 15:51:21.489 [main] client - userNo   :12345
+[INFO ] 2019-06-06 15:51:21.773 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:51:21.773 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:51:21.773 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:51:24.112 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 15:51:24.112 [main] client - Cancel Event
+[INFO ] 2019-06-06 15:51:24.112 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 15:51:31.038 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:51:31.038 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:51:31.042 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:53:32.805 [main] client - Client Exception: java.lang.StringIndexOutOfBoundsException: String index out of range: 3
+[INFO ] 2019-06-06 15:53:48.510 [main] client - In client
+[INFO ] 2019-06-06 15:53:48.514 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 15:53:48.515 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 15:53:56.973 [main] client - City     :MTL
+[INFO ] 2019-06-06 15:53:56.973 [main] client - Login User :M
+[INFO ] 2019-06-06 15:53:56.974 [main] client - userNo   :12345
+[INFO ] 2019-06-06 15:53:57.244 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 15:53:57.244 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 15:53:57.245 [main] client - Please enter your option
+[INFO ] 2019-06-06 15:53:59.835 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 15:53:59.835 [main] client - Cancel Event
+[INFO ] 2019-06-06 15:53:59.836 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 15:54:05.692 [main] client - Enter the event ID
+[INFO ] 2019-06-06 15:54:14.448 [main] client - Enter the event Type
+[INFO ] 2019-06-06 15:54:14.448 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 15:54:16.252 [main] client - Client Exception: java.lang.NullPointerException
+[INFO ] 2019-06-06 16:03:14.703 [main] client - In client
+[INFO ] 2019-06-06 16:03:14.707 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 16:03:14.707 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 16:03:31.705 [main] client - City     :MTL
+[INFO ] 2019-06-06 16:03:31.705 [main] client - Login User :M
+[INFO ] 2019-06-06 16:03:31.705 [main] client - userNo   :12345
+[INFO ] 2019-06-06 16:03:32.009 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 16:03:32.009 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 16:03:32.010 [main] client - Please enter your option
+[INFO ] 2019-06-06 16:03:34.363 [main] client - Add Event
+[INFO ] 2019-06-06 16:03:34.363 [main] client - Enter the event ID
+[INFO ] 2019-06-06 16:03:38.300 [main] client - Enter the event Type
+[INFO ] 2019-06-06 16:03:38.301 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 16:03:40.147 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 16:03:43.868 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 16:03:43.868 [main] client - EventType : Swith Event ID : MTLM100519  booked with capacity 12 from montreal server
+[INFO ] 2019-06-06 16:03:43.871 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 16:03:43.871 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 16:03:43.871 [main] client - Please enter your option
+[INFO ] 2019-06-06 16:03:49.686 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 16:03:49.686 [main] client - Book Event
+[INFO ] 2019-06-06 16:03:49.686 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 16:03:53.349 [main] client - Enter the event ID
+[INFO ] 2019-06-06 16:04:09.939 [main] client - Enter the event Type
+[INFO ] 2019-06-06 16:04:09.939 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 16:04:11.981 [main] client - Customer with customer ID  :MTLM123456 booked event type of  : S with event ID : MTLM100519
+[INFO ] 2019-06-06 16:04:11.983 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 16:04:11.983 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 16:04:11.984 [main] client - Please enter your option
+[INFO ] 2019-06-06 16:04:16.057 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 16:04:16.058 [main] client - Cancel Event
+[INFO ] 2019-06-06 16:04:16.058 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 16:04:19.790 [main] client - Enter the event ID
+[INFO ] 2019-06-06 16:04:24.967 [main] client - Enter the event Type
+[INFO ] 2019-06-06 16:04:24.967 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 16:04:26.883 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 16:04:26.884 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 16:04:26.884 [main] client - Please enter your option
+[INFO ] 2019-06-06 16:05:32.466 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 16:05:32.467 [main] client - Get Booking Schedule
+[INFO ] 2019-06-06 16:05:32.467 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 16:05:37.979 [main] client - cobj :
+[INFO ] 2019-06-06 16:05:37.981 [main] client - Client Exception: java.lang.ArrayIndexOutOfBoundsException: 1
+[INFO ] 2019-06-06 16:30:01.265 [main] client - In client
+[INFO ] 2019-06-06 16:30:01.270 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 16:30:01.270 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 16:30:09.127 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 16:30:09.127 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 16:30:09.128 [main] client - Please enter your option
+[INFO ] 2019-06-06 16:30:10.429 [main] client - Add Event
+[INFO ] 2019-06-06 16:30:10.429 [main] client - Enter the event ID
+[INFO ] 2019-06-06 16:30:14.951 [main] client - Enter the event Type
+[INFO ] 2019-06-06 16:30:14.951 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 16:30:16.821 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 16:30:18.474 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 16:30:18.475 [main] client - EventType : Swith Event ID : MTLM100519  booked with capacity 5 from montreal server
+[INFO ] 2019-06-06 16:30:18.478 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 16:30:18.479 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 16:30:18.479 [main] client - Please enter your option
+[INFO ] 2019-06-06 16:30:22.164 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 16:30:22.164 [main] client - Book Event
+[INFO ] 2019-06-06 16:30:22.164 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 16:30:30.388 [main] client - Enter the event ID
+[INFO ] 2019-06-06 16:30:34.874 [main] client - Enter the event Type
+[INFO ] 2019-06-06 16:30:34.874 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 16:30:36.881 [main] client - Customer with customer ID  :MTLM123456 booked event type of  : S with event ID : MTLM100519
+[INFO ] 2019-06-06 16:30:36.883 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 16:30:36.883 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 16:30:36.884 [main] client - Please enter your option
+[INFO ] 2019-06-06 16:30:40.728 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 16:30:40.728 [main] client - Get Booking Schedule
+[INFO ] 2019-06-06 16:30:40.728 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 16:30:45.315 [main] client - hashObj :MTLM123456 S MTLM100519
+[INFO ] 2019-06-06 16:30:45.315 [main] client - Customer ID : MTLM123456 Customer event type : S Customer event ID : MTLM100519
+[INFO ] 2019-06-06 16:30:45.316 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 16:30:45.316 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 16:30:45.316 [main] client - Please enter your option
+[INFO ] 2019-06-06 16:31:18.426 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 16:31:18.426 [main] client - Cancel Event
+[INFO ] 2019-06-06 16:31:18.426 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 16:31:25.548 [main] client - Enter the event ID
+[INFO ] 2019-06-06 16:31:31.630 [main] client - Enter the event Type
+[INFO ] 2019-06-06 16:31:31.630 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 16:31:33.124 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 16:31:33.124 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 16:31:33.125 [main] client - Please enter your option
+[INFO ] 2019-06-06 16:31:41.439 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 16:31:41.439 [main] client - Get Booking Schedule
+[INFO ] 2019-06-06 16:31:41.439 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 16:31:45.916 [main] client - hashObj :
+[INFO ] 2019-06-06 16:31:45.916 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 16:31:45.916 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 16:31:45.918 [main] client - Please enter your option
+[INFO ] 2019-06-06 16:37:05.906 [main] client - In client
+[INFO ] 2019-06-06 16:37:05.911 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 16:37:05.911 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 16:37:11.943 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 16:37:11.944 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 16:37:11.944 [main] client - Please enter your option
+[INFO ] 2019-06-06 16:37:14.470 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 16:37:14.470 [main] client - Get Booking Schedule
+[INFO ] 2019-06-06 16:37:14.470 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 16:37:18.297 [main] client - There are no events for the customer with the id : MTLM123456
+[INFO ] 2019-06-06 16:37:18.297 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 16:37:18.297 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 16:37:18.297 [main] client - Please enter your option
+[INFO ] 2019-06-06 17:26:02.036 [main] client - In client
+[INFO ] 2019-06-06 17:26:02.039 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 17:26:02.040 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 17:26:27.435 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 17:26:27.435 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 17:26:27.436 [main] client - Please enter your option
+[INFO ] 2019-06-06 17:26:30.489 [main] client - Add Event
+[INFO ] 2019-06-06 17:26:30.489 [main] client - Enter the event ID
+[INFO ] 2019-06-06 17:26:38.608 [main] client - Enter the event Type
+[INFO ] 2019-06-06 17:26:38.608 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 17:26:40.059 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 17:26:43.043 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 17:26:43.043 [main] client - EventType : Swith Event ID : MTLM100516  booked with capacity 5 from montreal server
+[INFO ] 2019-06-06 17:26:43.045 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 17:26:43.047 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 17:26:43.047 [main] client - Please enter your option
+[INFO ] 2019-06-06 18:53:48.412 [main] client - In client
+[INFO ] 2019-06-06 18:53:48.421 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 18:53:48.422 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 18:53:56.307 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 18:53:56.308 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 18:53:56.308 [main] client - Please enter your option
+[INFO ] 2019-06-06 18:54:10.912 [main] client - Add Event
+[INFO ] 2019-06-06 18:54:10.912 [main] client - Enter the event ID
+[INFO ] 2019-06-06 18:54:16.944 [main] client - Enter the event Type
+[INFO ] 2019-06-06 18:54:16.944 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 18:54:18.996 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 18:54:20.850 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 18:54:20.850 [main] client - EventType : Swith Event ID : MTLM100519  booked with capacity 5 from montreal server
+[INFO ] 2019-06-06 18:54:20.853 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 18:54:20.853 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 18:54:20.853 [main] client - Please enter your option
+[INFO ] 2019-06-06 18:54:57.926 [main] client - Add Event
+[INFO ] 2019-06-06 18:54:57.926 [main] client - Enter the event ID
+[INFO ] 2019-06-06 18:55:04.854 [main] client - Enter the event Type
+[INFO ] 2019-06-06 18:55:04.856 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 18:55:06.862 [main] client - Enter the valid Event Type!!
+[INFO ] 2019-06-06 18:55:06.862 [main] client - Enter the event Type
+[INFO ] 2019-06-06 18:55:06.863 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 18:55:12.861 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 18:55:16.051 [main] client - Event Added Successfully
+[INFO ] 2019-06-06 18:55:16.051 [main] client - EventType : Swith Event ID : MTLA121212  booked with capacity 5 from montreal server
+[INFO ] 2019-06-06 18:55:16.054 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 18:55:16.054 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 18:55:16.054 [main] client - Please enter your option
+[INFO ] 2019-06-06 18:55:31.503 [main] client - Remove Event
+[INFO ] 2019-06-06 18:55:31.503 [main] client - Enter the event ID
+[INFO ] 2019-06-06 18:55:41.403 [main] client - Enter the event Type
+[INFO ] 2019-06-06 18:55:41.403 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 18:55:43.449 [main] client - EventType :Swith Event ID :MTLA121212 is removed
+[INFO ] 2019-06-06 18:55:43.452 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 18:55:43.452 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 18:55:43.453 [main] client - Please enter your option
+[INFO ] 2019-06-06 18:55:47.823 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 18:55:47.823 [main] client - List Avaliability
+[INFO ] 2019-06-06 18:55:47.824 [main] client - Enter the event Type
+[INFO ] 2019-06-06 18:55:47.827 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 18:55:50.015 [main] client - avaliableEvents size :1
+[INFO ] 2019-06-06 18:55:50.015 [main] client - Available Events
+[INFO ] 2019-06-06 18:55:50.015 [main] client - MTLM100519 5
+[INFO ] 2019-06-06 18:55:50.015 [main] client - Event Availablity Call Ended
+[INFO ] 2019-06-06 18:55:50.015 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 18:55:50.015 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 18:55:50.016 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:09:16.453 [main] client - In client
+[INFO ] 2019-06-06 19:09:16.460 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 19:09:16.460 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 19:09:35.752 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:09:35.752 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:09:35.753 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:09:37.522 [main] client - Add Event
+[INFO ] 2019-06-06 19:09:37.522 [main] client - Enter the event ID
+[INFO ] 2019-06-06 19:09:55.401 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:09:55.402 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:09:57.394 [main] client - Enter the valid Event Type!!
+[INFO ] 2019-06-06 19:09:57.395 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:09:57.395 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:10:02.472 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 19:10:09.964 [main] client - Event Added Successfully from montreal server
+[INFO ] 2019-06-06 19:10:09.964 [main] client - EventType : S
+Event ID : MTLM121212
+  booked with capacity 5
+[INFO ] 2019-06-06 19:10:09.968 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:10:09.969 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:10:09.969 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:18:58.351 [main] client - In client
+[INFO ] 2019-06-06 19:18:58.356 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 19:18:58.356 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 19:19:05.503 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:19:05.504 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:19:05.504 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:19:08.953 [main] client - Add Event
+[INFO ] 2019-06-06 19:19:08.953 [main] client - Enter the event ID
+[INFO ] 2019-06-06 19:19:17.841 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:19:17.841 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:19:19.477 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 19:19:21.355 [main] client -  Event already exists! New Booking capacity is Updated
+[INFO ] 2019-06-06 19:19:21.356 [main] client - EventType : S
+Event ID : OTWM121212
+  booked with capacity 5
+[INFO ] 2019-06-06 19:19:21.358 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:19:21.358 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:19:21.358 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:21:34.124 [main] client - In client
+[INFO ] 2019-06-06 19:21:34.127 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 19:21:34.127 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 19:21:38.923 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:21:38.923 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:21:38.923 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:21:40.615 [main] client - Add Event
+[INFO ] 2019-06-06 19:21:40.615 [main] client - Enter the event ID
+[INFO ] 2019-06-06 19:21:44.478 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:21:44.479 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:21:46.052 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 19:21:47.748 [main] client - Event Added Successfully from Toronto server
+[INFO ] 2019-06-06 19:21:47.748 [main] client - EventType : S
+Event ID : TORM121212
+  booked with capacity 5
+[INFO ] 2019-06-06 19:21:47.750 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:21:47.751 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:21:47.751 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:33:54.821 [main] client - In client
+[INFO ] 2019-06-06 19:33:54.825 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 19:33:54.826 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 19:34:02.081 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:34:02.081 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:34:02.081 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:34:06.495 [main] client - Add Event
+[INFO ] 2019-06-06 19:34:06.496 [main] client - Enter the event ID
+[INFO ] 2019-06-06 19:34:11.835 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:34:11.835 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:34:13.411 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 19:34:14.930 [main] client - Event Added Successfully from montreal server
+[INFO ] 2019-06-06 19:34:14.930 [main] client - EventType : S
+Event ID : MTLM100519
+  booked with capacity 5
+[INFO ] 2019-06-06 19:34:14.932 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:34:14.932 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:34:14.933 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:34:17.148 [main] client - Remove Event
+[INFO ] 2019-06-06 19:34:17.148 [main] client - Enter the event ID
+[INFO ] 2019-06-06 19:34:21.620 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:34:21.620 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:34:30.277 [main] client - EventType :S
+ with Event ID : MTLM100519
+
+[INFO ] 2019-06-06 19:34:30.277 [main] client - Successfully removed from Montreal server
+[INFO ] 2019-06-06 19:34:30.279 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:34:30.279 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:34:30.279 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:39:13.756 [main] client - In client
+[INFO ] 2019-06-06 19:39:13.761 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 19:39:13.761 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 19:39:18.398 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:39:18.398 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:39:18.398 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:39:19.707 [main] client - Add Event
+[INFO ] 2019-06-06 19:39:19.707 [main] client - Enter the event ID
+[INFO ] 2019-06-06 19:39:24.118 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:39:24.118 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:39:26.209 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 19:39:28.572 [main] client - Event Added Successfully from montreal server
+[INFO ] 2019-06-06 19:39:28.572 [main] client - EventType : S
+Event ID : MTLM121212
+  booked with capacity 5
+[INFO ] 2019-06-06 19:39:28.575 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:39:28.576 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:39:28.576 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:39:46.092 [main] client - Remove Event
+[INFO ] 2019-06-06 19:39:46.092 [main] client - Enter the event ID
+[INFO ] 2019-06-06 19:39:49.468 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:39:49.469 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:39:51.127 [main] client - EventType :S
+ with Event ID : MTLM121212
+
+[INFO ] 2019-06-06 19:39:51.127 [main] client - Successfully removed from Montreal server
+[INFO ] 2019-06-06 19:39:51.128 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:39:51.128 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:39:51.129 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:43:04.638 [main] client - In client
+[INFO ] 2019-06-06 19:43:04.645 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 19:43:04.645 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 19:43:07.516 [main] client - In client
+[INFO ] 2019-06-06 19:43:07.521 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 19:43:07.522 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 19:43:14.546 [main] client - Client Exception: java.rmi.ConnectException: Connection refused to host: 172.31.26.108; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+[INFO ] 2019-06-06 19:43:39.786 [main] client - In client
+[INFO ] 2019-06-06 19:43:39.792 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 19:43:39.793 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 19:43:46.022 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:43:46.022 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:43:46.023 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:43:47.387 [main] client - Add Event
+[INFO ] 2019-06-06 19:43:47.387 [main] client - Enter the event ID
+[INFO ] 2019-06-06 19:43:51.583 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:43:51.583 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:43:52.867 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 19:43:53.970 [main] client - Event Added Successfully from montreal server
+[INFO ] 2019-06-06 19:43:53.971 [main] client - EventType : S
+Event ID : MTLM121212
+  booked with capacity 5
+[INFO ] 2019-06-06 19:43:53.973 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:43:53.973 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:43:53.974 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:43:57.200 [main] client - Remove Event
+[INFO ] 2019-06-06 19:43:57.200 [main] client - Enter the event ID
+[INFO ] 2019-06-06 19:44:02.291 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:44:02.291 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:44:03.700 [main] client - EventType :S
+ with Event ID : MTLM121212
+
+[INFO ] 2019-06-06 19:44:03.700 [main] client - Successfully removed from Montreal server
+[INFO ] 2019-06-06 19:44:03.702 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:44:03.702 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:44:03.702 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:52:46.454 [main] client - In client
+[INFO ] 2019-06-06 19:52:46.458 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 19:52:46.458 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 19:52:51.160 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:52:51.160 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:52:51.161 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:52:53.388 [main] client - Add Event
+[INFO ] 2019-06-06 19:52:53.388 [main] client - Enter the event ID
+[INFO ] 2019-06-06 19:53:03.133 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:53:03.133 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:53:04.852 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 19:53:06.383 [main] client - Event Added Successfully from montreal server
+[INFO ] 2019-06-06 19:53:06.383 [main] client - EventType : S
+Event ID : MTLM121212
+  booked with capacity 5
+[INFO ] 2019-06-06 19:53:06.387 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:53:06.387 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:53:06.387 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:53:09.327 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 19:53:09.327 [main] client - Book Event
+[INFO ] 2019-06-06 19:53:09.327 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 19:53:13.090 [main] client - Enter the event ID
+[INFO ] 2019-06-06 19:53:17.744 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:53:17.744 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:53:19.953 [main] client - Customer with customer ID  :MTLM123456 booked event type of  : S with event ID : MTLM121212
+[INFO ] 2019-06-06 19:53:19.955 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:53:19.956 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:53:19.956 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:53:26.173 [main] client - Do you want to continue : yes / no
+[INFO ] 2019-06-06 19:53:28.106 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 19:53:28.107 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 19:53:32.474 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:53:32.474 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:53:32.477 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:53:34.264 [main] client - Add Event
+[INFO ] 2019-06-06 19:53:34.264 [main] client - Enter the event ID
+[INFO ] 2019-06-06 19:53:37.584 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:53:37.584 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:53:39.433 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 19:53:41.165 [main] client - Event Added Successfully from Toronto server
+[INFO ] 2019-06-06 19:53:41.166 [main] client - EventType : S
+Event ID : TORM121212
+  booked with capacity 5
+[INFO ] 2019-06-06 19:53:41.168 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:53:41.169 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:53:41.169 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:53:43.840 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 19:53:43.841 [main] client - Book Event
+[INFO ] 2019-06-06 19:53:43.841 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 19:53:49.916 [main] client - Enter the event ID
+[INFO ] 2019-06-06 19:53:54.338 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:53:54.338 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:53:55.702 [main] client - Customer with customer ID  :TORM123456 booked event type of  : S with event ID : TORM121212
+[INFO ] 2019-06-06 19:53:55.704 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:53:55.705 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:53:55.705 [main] client - Please enter your option
+[INFO ] 2019-06-06 19:54:01.389 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 19:54:01.389 [main] client - List Avaliability
+[INFO ] 2019-06-06 19:54:01.390 [main] client - Enter the event Type
+[INFO ] 2019-06-06 19:54:01.390 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 19:54:03.489 [main] client - avaliableEvents size :2
+[INFO ] 2019-06-06 19:54:03.489 [main] client - Available Events
+[INFO ] 2019-06-06 19:54:03.489 [main] client - MTLM121212 4
+[INFO ] 2019-06-06 19:54:03.490 [main] client - TORM121212 4
+[INFO ] 2019-06-06 19:54:03.490 [main] client - Event Availablity Call Ended
+[INFO ] 2019-06-06 19:54:03.490 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 19:54:03.490 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 19:54:03.490 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:11:55.802 [main] client - In client
+[INFO ] 2019-06-06 20:11:55.810 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 20:11:55.810 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 20:12:02.836 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:12:02.836 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:12:02.836 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:12:04.153 [main] client - Add Event
+[INFO ] 2019-06-06 20:12:04.153 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:12:08.449 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:12:08.449 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:12:10.054 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 20:12:11.660 [main] client - Event Added Successfully from montreal server
+[INFO ] 2019-06-06 20:12:11.660 [main] client - EventType : S
+Event ID : MTLM121212
+  booked with capacity 5
+[INFO ] 2019-06-06 20:12:11.662 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:12:11.662 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:12:11.662 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:12:18.135 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 20:12:18.135 [main] client - Book Event
+[INFO ] 2019-06-06 20:12:18.135 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 20:12:22.767 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:12:27.742 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:12:27.743 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:12:29.419 [main] client - Customer with customer ID  :MTLM123456 booked event type of  : S with event ID : MTLM121212
+[INFO ] 2019-06-06 20:12:29.423 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:12:29.423 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:12:29.424 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:12:33.383 [main] client - Do you want to continue : yes / no
+[INFO ] 2019-06-06 20:12:36.378 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 20:12:36.378 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 20:12:47.627 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:12:47.627 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:12:47.627 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:12:49.500 [main] client - Add Event
+[INFO ] 2019-06-06 20:12:49.501 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:12:53.680 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:12:53.680 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:12:55.250 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 20:12:58.174 [main] client - Event Added Successfully from Toronto server
+[INFO ] 2019-06-06 20:12:58.174 [main] client - EventType : S
+Event ID : TORM121212
+  booked with capacity 6
+[INFO ] 2019-06-06 20:12:58.176 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:12:58.176 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:12:58.177 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:13:00.979 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 20:13:00.980 [main] client - Book Event
+[INFO ] 2019-06-06 20:13:00.981 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 20:13:05.387 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:13:10.104 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:13:10.104 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:13:11.739 [main] client - Customer with customer ID  :TORM123456 booked event type of  : S with event ID : TORM121212
+[INFO ] 2019-06-06 20:13:11.740 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:13:11.740 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:13:11.740 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:13:15.997 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 20:13:15.997 [main] client - List Avaliability
+[INFO ] 2019-06-06 20:13:15.998 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:13:15.998 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:17:14.354 [main] client - Client Exception: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.net.SocketException: Connection reset
+[INFO ] 2019-06-06 20:17:41.891 [main] client - In client
+[INFO ] 2019-06-06 20:17:41.896 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 20:17:41.896 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 20:17:47.373 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:17:47.374 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:17:47.374 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:17:48.618 [main] client - Add Event
+[INFO ] 2019-06-06 20:17:48.619 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:17:52.312 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:17:52.312 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:17:53.439 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 20:17:55.430 [main] client - Event Added Successfully from montreal server
+[INFO ] 2019-06-06 20:17:55.430 [main] client - EventType : S
+Event ID : MTLM121212
+  booked with capacity 5
+[INFO ] 2019-06-06 20:17:55.434 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:17:55.435 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:17:55.435 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:17:59.151 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 20:17:59.151 [main] client - Book Event
+[INFO ] 2019-06-06 20:17:59.151 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 20:18:03.922 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:18:07.969 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:18:07.970 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:18:09.179 [main] client - Customer with customer ID  :MTLM123456 booked event type of  : S with event ID : MTLM121212
+[INFO ] 2019-06-06 20:18:09.181 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:18:09.182 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:18:09.182 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:18:12.612 [main] client - Do you want to continue : yes / no
+[INFO ] 2019-06-06 20:18:14.478 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 20:18:14.479 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 20:18:28.708 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:18:28.712 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:18:28.712 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:18:31.063 [main] client - Add Event
+[INFO ] 2019-06-06 20:18:31.063 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:18:34.382 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:18:34.383 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:18:35.715 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 20:18:37.475 [main] client - Event Added Successfully from Toronto server
+[INFO ] 2019-06-06 20:18:37.475 [main] client - EventType : S
+Event ID : TORM121212
+  booked with capacity 5
+[INFO ] 2019-06-06 20:18:37.477 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:18:37.477 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:18:37.477 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:18:41.389 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 20:18:41.389 [main] client - Book Event
+[INFO ] 2019-06-06 20:18:41.389 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 20:18:45.887 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:18:49.356 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:18:49.356 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:18:52.181 [main] client - Customer with customer ID  :TORM123456 booked event type of  : S with event ID : TORM121212
+[INFO ] 2019-06-06 20:18:52.184 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:18:52.184 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:18:52.184 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:18:57.279 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 20:18:57.279 [main] client - List Avaliability
+[INFO ] 2019-06-06 20:18:57.280 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:18:57.280 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:22:30.070 [main] client - In client
+[INFO ] 2019-06-06 20:22:30.075 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 20:22:30.076 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 20:22:39.515 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:22:39.516 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:22:39.516 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:22:45.381 [main] client - Add Event
+[INFO ] 2019-06-06 20:22:45.381 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:22:49.447 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:22:49.448 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:22:50.973 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 20:25:07.895 [main] client - In client
+[INFO ] 2019-06-06 20:25:07.903 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 20:25:07.903 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 20:25:12.858 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:25:12.859 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:25:12.859 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:25:14.574 [main] client - Add Event
+[INFO ] 2019-06-06 20:25:14.574 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:25:24.883 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:25:24.883 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:25:26.348 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 20:25:36.591 [main] client - Event Added Successfully from Toronto server
+[INFO ] 2019-06-06 20:25:36.591 [main] client - EventType : S
+Event ID : TORM121212
+  booked with capacity 4
+[INFO ] 2019-06-06 20:25:36.593 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:25:36.593 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:25:36.594 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:25:42.776 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 20:25:42.776 [main] client - Book Event
+[INFO ] 2019-06-06 20:25:42.777 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 20:25:46.359 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:25:49.907 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:25:49.907 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:25:51.507 [main] client - Customer with customer ID  :TORM123456 booked event type of  : S with event ID : TORM121212
+[INFO ] 2019-06-06 20:25:51.510 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:25:51.510 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:25:51.511 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:25:56.795 [main] client - Do you want to continue : yes / no
+[INFO ] 2019-06-06 20:25:59.481 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 20:25:59.481 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 20:26:07.326 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:26:07.326 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:26:07.331 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:26:09.708 [main] client - Add Event
+[INFO ] 2019-06-06 20:26:09.709 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:26:14.009 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:26:14.010 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:26:15.368 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 20:26:17.844 [main] client - Event Added Successfully from montreal server
+[INFO ] 2019-06-06 20:26:17.844 [main] client - EventType : S
+Event ID : MTLM121212
+  booked with capacity 6
+[INFO ] 2019-06-06 20:26:17.847 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:26:17.847 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:26:17.847 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:26:22.790 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 20:26:22.790 [main] client - List Avaliability
+[INFO ] 2019-06-06 20:26:22.791 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:26:22.791 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:26:25.592 [main] client - avaliableEvents size :2
+[INFO ] 2019-06-06 20:26:25.592 [main] client - Available Events
+[INFO ] 2019-06-06 20:26:25.592 [main] client - TORM121212 3
+[INFO ] 2019-06-06 20:26:25.592 [main] client - MTLM121212 6
+[INFO ] 2019-06-06 20:26:25.592 [main] client - Event Availablity Call Ended
+[INFO ] 2019-06-06 20:26:25.593 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:26:25.593 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:26:25.593 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:31:24.095 [main] client - Do you want to continue : yes / no
+[INFO ] 2019-06-06 20:31:25.872 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 20:31:25.872 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 20:31:28.785 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:31:28.785 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:31:28.785 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:31:30.751 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 20:31:30.752 [main] client - List Avaliability
+[INFO ] 2019-06-06 20:31:30.752 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:31:30.752 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:31:32.902 [main] client - avaliableEvents size :2
+[INFO ] 2019-06-06 20:31:32.902 [main] client - Available Events
+[INFO ] 2019-06-06 20:31:32.903 [main] client - MTLM121212 6
+[INFO ] 2019-06-06 20:31:32.904 [main] client - TORM121212 3
+[INFO ] 2019-06-06 20:31:32.904 [main] client - Event Availablity Call Ended
+[INFO ] 2019-06-06 20:31:32.904 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:31:32.904 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:31:32.904 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:52:34.819 [main] client - In client
+[INFO ] 2019-06-06 20:52:34.825 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 20:52:34.825 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 20:52:34.948 [main] client - In client
+[INFO ] 2019-06-06 20:52:34.952 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 20:52:34.953 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 20:52:39.836 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:52:39.837 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:52:39.837 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:52:45.664 [main] client - Add Event
+[INFO ] 2019-06-06 20:52:45.664 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:52:49.996 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:52:49.996 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:52:54.691 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 20:52:58.289 [main] client - Event Added Successfully from Toronto server
+[INFO ] 2019-06-06 20:52:58.291 [main] client - EventType : S
+Event ID : TORM121212
+  booked with capacity 5
+[INFO ] 2019-06-06 20:52:58.293 [main] client - Add event End
+[INFO ] 2019-06-06 20:52:58.293 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:52:58.294 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:52:58.294 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:53:23.537 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 20:53:23.538 [main] client - Book Event
+[INFO ] 2019-06-06 20:53:23.538 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 20:53:33.142 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:53:39.409 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:53:39.409 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:53:41.358 [main] client - Customer with customer ID  :TORM123456 booked event type of  : S with event ID : TORM121212
+[INFO ] 2019-06-06 20:53:41.359 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:53:41.359 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:53:41.359 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:54:37.832 [main] client - Do you want to continue : yes / no
+[INFO ] 2019-06-06 20:54:39.303 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 20:54:39.303 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 20:54:43.780 [main] client - Do you want to continue : yes / no
+[INFO ] 2019-06-06 20:54:49.490 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 20:54:49.490 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 20:54:57.065 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:54:57.066 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:54:57.066 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:54:59.175 [main] client - Add Event
+[INFO ] 2019-06-06 20:54:59.175 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:55:05.440 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:55:05.440 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:55:06.794 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 20:55:08.328 [main] client - Event Added Successfully from montreal server
+[INFO ] 2019-06-06 20:55:08.329 [main] client - EventType : S
+Event ID : MTLM121212
+  booked with capacity 5
+[INFO ] 2019-06-06 20:55:08.331 [main] client - Add event End
+[INFO ] 2019-06-06 20:55:08.331 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:55:08.331 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:55:08.331 [main] client - Please enter your option
+[INFO ] 2019-06-06 20:55:15.466 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 20:55:15.466 [main] client - Book Event
+[INFO ] 2019-06-06 20:55:15.467 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 20:55:23.485 [main] client - Enter the event ID
+[INFO ] 2019-06-06 20:55:26.885 [main] client - Enter the event Type
+[INFO ] 2019-06-06 20:55:26.885 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 20:55:28.265 [main] client - Customer with customer ID  :MTLM123456 booked event type of  : S with event ID : TORM121212
+[INFO ] 2019-06-06 20:55:28.267 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 20:55:28.268 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 20:55:28.268 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:10:31.008 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 21:10:31.009 [main] client - Cancel Event
+[INFO ] 2019-06-06 21:10:31.009 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 21:10:40.251 [main] client - Enter the event ID
+[INFO ] 2019-06-06 21:11:13.430 [main] client - Enter the event Type
+[INFO ] 2019-06-06 21:11:13.430 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 21:11:15.966 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:11:15.967 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:11:15.967 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:11:30.415 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 21:11:30.415 [main] client - Get Booking Schedule
+[INFO ] 2019-06-06 21:11:30.416 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 21:11:36.305 [main] client - There are no events for the customer with the id : MTLM123456
+[INFO ] 2019-06-06 21:11:36.305 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:11:36.305 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:11:36.306 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:55:08.898 [main] client - In client
+[INFO ] 2019-06-06 21:55:08.903 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 21:55:08.903 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 21:55:40.614 [main] client - In client
+[INFO ] 2019-06-06 21:55:40.620 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 21:55:40.620 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 21:55:47.253 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:55:47.253 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:55:47.253 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:55:48.879 [main] client - Add Event
+[INFO ] 2019-06-06 21:55:48.879 [main] client - Enter the event ID
+[INFO ] 2019-06-06 21:55:55.805 [main] client - Enter the event Type
+[INFO ] 2019-06-06 21:55:55.806 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 21:55:57.575 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 21:55:59.720 [main] client - Event Added Successfully from montreal server
+[INFO ] 2019-06-06 21:55:59.720 [main] client - EventType : S
+Event ID : MTLM100519
+  booked with capacity 5
+[INFO ] 2019-06-06 21:55:59.723 [main] client - Add event End
+[INFO ] 2019-06-06 21:55:59.724 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:55:59.724 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:55:59.724 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:56:01.800 [main] client - Add Event
+[INFO ] 2019-06-06 21:56:01.801 [main] client - Enter the event ID
+[INFO ] 2019-06-06 21:56:05.683 [main] client - Enter the event Type
+[INFO ] 2019-06-06 21:56:05.683 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 21:56:09.063 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 21:56:11.231 [main] client - Event Added Successfully from montreal server
+[INFO ] 2019-06-06 21:56:11.231 [main] client - EventType : C
+Event ID : MTLM121212
+  booked with capacity 2
+[INFO ] 2019-06-06 21:56:11.235 [main] client - Add event End
+[INFO ] 2019-06-06 21:56:11.235 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:56:11.236 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:56:11.236 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:56:30.591 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 21:56:30.592 [main] client - Book Event
+[INFO ] 2019-06-06 21:56:30.593 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 21:56:39.511 [main] client - Enter the event ID
+[INFO ] 2019-06-06 21:56:44.469 [main] client - Enter the event Type
+[INFO ] 2019-06-06 21:56:44.469 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 21:56:46.186 [main] client - Customer with customer ID  :MTLM123456 could not book a event type of  : S with event ID : MTLM121212
+[INFO ] 2019-06-06 21:56:46.195 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:56:46.196 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:56:46.196 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:56:53.880 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 21:56:53.881 [main] client - Book Event
+[INFO ] 2019-06-06 21:56:53.881 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 21:56:58.275 [main] client - Enter the event ID
+[INFO ] 2019-06-06 21:57:02.566 [main] client - Enter the event Type
+[INFO ] 2019-06-06 21:57:02.566 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 21:57:04.032 [main] client - Customer with customer ID  :MTLM123456 booked event type of  : C with event ID : MTLM121212
+[INFO ] 2019-06-06 21:57:04.034 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:57:04.034 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:57:04.034 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:57:10.421 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 21:57:10.422 [main] client - List Avaliability
+[INFO ] 2019-06-06 21:57:10.423 [main] client - Enter the event Type
+[INFO ] 2019-06-06 21:57:10.423 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 21:57:12.451 [main] client - avaliableEvents size :1
+[INFO ] 2019-06-06 21:57:12.451 [main] client - Available Events
+[INFO ] 2019-06-06 21:57:12.452 [main] client - MTLM100519 5
+[INFO ] 2019-06-06 21:57:12.452 [main] client - Event Availablity Call Ended
+[INFO ] 2019-06-06 21:57:12.452 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:57:12.452 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:57:12.452 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:57:23.526 [main] client - Do you want to continue : yes / no
+[INFO ] 2019-06-06 21:57:25.511 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 21:57:25.512 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 21:57:29.000 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:57:29.004 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:57:29.004 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:57:30.758 [main] client - Add Event
+[INFO ] 2019-06-06 21:57:30.758 [main] client - Enter the event ID
+[INFO ] 2019-06-06 21:57:37.117 [main] client - Enter the event Type
+[INFO ] 2019-06-06 21:57:37.118 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 21:57:38.567 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 21:57:40.083 [main] client - Event Added Successfully from Toronto server
+[INFO ] 2019-06-06 21:57:40.083 [main] client - EventType : S
+Event ID : TORM100519
+  booked with capacity 5
+[INFO ] 2019-06-06 21:57:40.086 [main] client - Add event End
+[INFO ] 2019-06-06 21:57:40.086 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:57:40.086 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:57:40.086 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:57:43.666 [main] client - Add Event
+[INFO ] 2019-06-06 21:57:43.666 [main] client - Enter the event ID
+[INFO ] 2019-06-06 21:57:47.874 [main] client - Enter the event Type
+[INFO ] 2019-06-06 21:57:47.875 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 21:57:50.230 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 21:57:52.079 [main] client - Event Added Successfully from Toronto server
+[INFO ] 2019-06-06 21:57:52.079 [main] client - EventType : C
+Event ID : TORM121212
+  booked with capacity 6
+[INFO ] 2019-06-06 21:57:52.082 [main] client - Add event End
+[INFO ] 2019-06-06 21:57:52.082 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:57:52.082 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:57:52.082 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:58:00.331 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 21:58:00.331 [main] client - Get Booking Schedule
+[INFO ] 2019-06-06 21:58:00.332 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 21:58:09.026 [main] client - There are no events for the customer with the id : TORM123456
+[INFO ] 2019-06-06 21:58:09.026 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:58:09.027 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:58:09.027 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:58:34.516 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 21:58:34.516 [main] client - Book Event
+[INFO ] 2019-06-06 21:58:34.516 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 21:58:38.260 [main] client - Enter the event ID
+[INFO ] 2019-06-06 21:58:42.374 [main] client - Enter the event Type
+[INFO ] 2019-06-06 21:58:42.375 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 21:58:44.045 [main] client - Customer with customer ID  :TORM123456 booked event type of  : S with event ID : TORM100519
+[INFO ] 2019-06-06 21:58:44.047 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:58:44.047 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:58:44.047 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:58:47.036 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 21:58:47.036 [main] client - Book Event
+[INFO ] 2019-06-06 21:58:47.036 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 21:58:56.331 [main] client - Enter the event ID
+[INFO ] 2019-06-06 21:59:01.621 [main] client - Enter the event Type
+[INFO ] 2019-06-06 21:59:01.621 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 21:59:03.196 [main] client - Customer with customer ID  :TORM123456 booked event type of  : C with event ID : MTLM121212
+[INFO ] 2019-06-06 21:59:03.200 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:59:03.200 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:59:03.200 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:59:07.843 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 21:59:07.844 [main] client - Get Booking Schedule
+[INFO ] 2019-06-06 21:59:07.844 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 21:59:12.393 [main] client - hashObj :TORM123456 C MTLM121212
+[INFO ] 2019-06-06 21:59:12.394 [main] client - Customer ID : TORM123456 Customer event type : C Customer event ID : MTLM121212
+[INFO ] 2019-06-06 21:59:12.394 [main] client - hashObj :TORM123456 S TORM100519
+[INFO ] 2019-06-06 21:59:12.395 [main] client - Customer ID : TORM123456 Customer event type : S Customer event ID : TORM100519
+[INFO ] 2019-06-06 21:59:12.395 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 21:59:12.395 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 21:59:12.395 [main] client - Please enter your option
+[INFO ] 2019-06-06 21:59:32.643 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 21:59:32.644 [main] client - Cancel Event
+[INFO ] 2019-06-06 21:59:32.644 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 21:59:41.815 [main] client - Enter the event ID
+[INFO ] 2019-06-06 21:59:47.572 [main] client - Enter the event Type
+[INFO ] 2019-06-06 21:59:47.572 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 21:59:50.654 [main] client - Client Exception: java.lang.NullPointerException
+[INFO ] 2019-06-06 22:01:24.832 [main] client - In client
+[INFO ] 2019-06-06 22:01:24.843 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 22:01:24.843 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 22:01:32.775 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:01:32.775 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 22:01:32.775 [main] client - Please enter your option
+[INFO ] 2019-06-06 22:01:34.698 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 22:01:34.699 [main] client - Get Booking Schedule
+[INFO ] 2019-06-06 22:01:34.700 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 22:01:38.792 [main] client - hashObj :TORM123456 C MTLM121212
+[INFO ] 2019-06-06 22:01:38.792 [main] client - Customer ID : TORM123456 Customer event type : C Customer event ID : MTLM121212
+[INFO ] 2019-06-06 22:01:38.793 [main] client - hashObj :TORM123456 S TORM100519
+[INFO ] 2019-06-06 22:01:38.793 [main] client - Customer ID : TORM123456 Customer event type : S Customer event ID : TORM100519
+[INFO ] 2019-06-06 22:01:38.793 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:01:38.793 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 22:01:38.794 [main] client - Please enter your option
+[INFO ] 2019-06-06 22:01:55.431 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 22:01:55.431 [main] client - Cancel Event
+[INFO ] 2019-06-06 22:01:55.432 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 22:01:59.153 [main] client - Enter the event ID
+[INFO ] 2019-06-06 22:02:01.605 [main] client - Enter the event Type
+[INFO ] 2019-06-06 22:02:01.605 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 22:02:11.047 [main] client - canvel event booking is done!! Status available in the respective server
+[INFO ] 2019-06-06 22:02:11.048 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:02:11.049 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 22:02:11.049 [main] client - Please enter your option
+[INFO ] 2019-06-06 22:02:20.408 [main] client - Inter Server Communication
+[INFO ] 2019-06-06 22:02:20.408 [main] client - Get Booking Schedule
+[INFO ] 2019-06-06 22:02:20.409 [main] client - Enter the customer ID
+[INFO ] 2019-06-06 22:02:25.568 [main] client - hashObj :TORM123456 C MTLM121212
+[INFO ] 2019-06-06 22:02:25.568 [main] client - Customer ID : TORM123456 Customer event type : C Customer event ID : MTLM121212
+[INFO ] 2019-06-06 22:02:25.569 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:02:25.569 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 22:02:25.569 [main] client - Please enter your option
+[INFO ] 2019-06-06 22:31:52.842 [main] client - In client
+[INFO ] 2019-06-06 22:31:52.858 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 22:31:52.858 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 22:31:58.781 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:31:58.781 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 22:31:58.792 [main] client - Please enter your option
+[INFO ] 2019-06-06 22:32:35.702 [main] client - In client
+[INFO ] 2019-06-06 22:32:35.702 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 22:32:35.702 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 22:32:42.250 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:32:42.250 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 22:32:42.264 [main] client - Please enter your option
+[INFO ] 2019-06-06 22:33:35.699 [main] client - In client
+[INFO ] 2019-06-06 22:33:35.699 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 22:33:35.699 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 22:33:40.564 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:33:40.564 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 22:33:40.579 [main] client - Please enter your option
+[INFO ] 2019-06-06 22:33:44.501 [main] client - Multithreading and synchronizaiton
+[INFO ] 2019-06-06 22:33:44.516 [Thread-2] client - Thread two fail
+[INFO ] 2019-06-06 22:33:44.516 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:33:44.516 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> Exit
+[INFO ] 2019-06-06 22:33:44.516 [main] client - Please enter your option
+[INFO ] 2019-06-06 22:39:01.893 [main] client - In client
+[INFO ] 2019-06-06 22:39:01.908 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 22:39:01.908 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 22:39:06.345 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:39:06.345 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> MultiThreading and Synchronization7-> Exit
+[INFO ] 2019-06-06 22:39:06.357 [main] client - Please enter your option
+[INFO ] 2019-06-06 22:39:49.377 [main] client - Add Event
+[INFO ] 2019-06-06 22:39:49.377 [main] client - Enter the event ID
+[INFO ] 2019-06-06 22:39:53.129 [main] client - Enter the event Type
+[INFO ] 2019-06-06 22:39:53.129 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 22:39:56.643 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 22:40:53.468 [main] client - Event Added Successfully from montreal server
+[INFO ] 2019-06-06 22:40:53.468 [main] client - EventType : S
+Event ID : MTLM123456
+  booked with capacity 1
+[INFO ] 2019-06-06 22:40:53.471 [main] client - Add event End
+[INFO ] 2019-06-06 22:40:53.471 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:40:53.471 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> MultiThreading and Synchronization7-> Exit
+[INFO ] 2019-06-06 22:40:53.471 [main] client - Please enter your option
+[INFO ] 2019-06-06 22:40:57.304 [main] client - Multithreading and synchronizaiton
+[INFO ] 2019-06-06 22:40:57.321 [Thread-2] client - Thread two fail
+[INFO ] 2019-06-06 22:40:57.321 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:40:57.321 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> MultiThreading and Synchronization7-> Exit
+[INFO ] 2019-06-06 22:40:57.321 [main] client - Please enter your option
+[INFO ] 2019-06-06 22:42:19.880 [main] client - In client
+[INFO ] 2019-06-06 22:42:19.895 [main] client - Welcome to Concordia Event Booking System
+[INFO ] 2019-06-06 22:42:19.895 [main] client - Please enter your unique identification number
+[INFO ] 2019-06-06 22:42:23.889 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:42:23.889 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> MultiThreading and Synchronization 
+8-> Exit
+[INFO ] 2019-06-06 22:42:23.889 [main] client - Please enter your option
+[INFO ] 2019-06-06 22:42:25.812 [main] client - Add Event
+[INFO ] 2019-06-06 22:42:25.812 [main] client - Enter the event ID
+[INFO ] 2019-06-06 22:42:33.313 [main] client - Enter the event Type
+[INFO ] 2019-06-06 22:42:33.313 [main] client - S->Seminar, C->Conference, T-> Trade Show
+[INFO ] 2019-06-06 22:42:34.745 [main] client - Enter the booking capacity
+[INFO ] 2019-06-06 22:42:36.570 [main] client - Event Added Successfully from montreal server
+[INFO ] 2019-06-06 22:42:36.570 [main] client - EventType : S
+Event ID : MTLM100519
+  booked with capacity 1
+[INFO ] 2019-06-06 22:42:36.572 [main] client - Add event End
+[INFO ] 2019-06-06 22:42:36.572 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:42:36.572 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> MultiThreading and Synchronization 
+8-> Exit
+[INFO ] 2019-06-06 22:42:36.572 [main] client - Please enter your option
+[INFO ] 2019-06-06 22:42:39.517 [main] client - Multithreading and synchronizaiton
+[INFO ] 2019-06-06 22:42:39.532 [Thread-1] client - Thread one pass
+[INFO ] 2019-06-06 22:42:39.532 [Thread-2] client - Thread two fail
+[INFO ] 2019-06-06 22:42:39.532 [main] client - Manager Menu:
+
+[INFO ] 2019-06-06 22:42:39.532 [main] client - 1->Add an Event
+2->Remove Event
+3->List Event Availability
+4->Book Event
+5-> Get Booking Schedule 
+6->Cancel Event 
+7-> MultiThreading and Synchronization 
+8-> Exit
+[INFO ] 2019-06-06 22:42:39.532 [main] client - Please enter your option

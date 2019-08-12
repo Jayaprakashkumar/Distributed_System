@@ -1,0 +1,793 @@
+[INFO ] 2019-06-05 16:39:12.142 [main] temp - In montreal server server
+[INFO ] 2019-06-05 16:40:07.674 [main] temp - In montreal server server
+[INFO ] 2019-06-05 18:17:57.055 [main] temp - In montreal server server
+[INFO ] 2019-06-06 11:47:46.538 [main] temp - In montreal server server
+[INFO ] 2019-06-06 11:48:06.964 [main] temp - In montreal server server
+[INFO ] 2019-06-06 12:12:41.903 [main] temp - In montreal server server
+[INFO ] 2019-06-06 12:13:23.436 [main] temp - In montreal server server
+[INFO ] 2019-06-06 12:17:34.865 [main] temp - In montreal server server
+[INFO ] 2019-06-06 12:50:19.817 [main] temp - Montreal Server is up and running.
+[INFO ] 2019-06-06 12:51:36.177 [RMI TCP Connection(2)-192.168.2.15] temp - Montreal Hashmap size :0
+[INFO ] 2019-06-06 12:51:36.177 [RMI TCP Connection(2)-192.168.2.15] temp - EventType : S with Event ID : MTLM100519  Added with capacity 5 from montreal server
+[INFO ] 2019-06-06 12:55:54.776 [main] temp - Montreal Server is up and running.
+[INFO ] 2019-06-06 12:55:54.964 [main] temp - Montreal Server Start up failed: 
+java.rmi.server.ExportException: Port already in use: 7080; nested exception is: 
+	java.net.BindException: Address already in use: JVM_Bind
+	at sun.rmi.transport.tcp.TCPTransport.listen(Unknown Source) ~[?:1.8.0_181]
+	at sun.rmi.transport.tcp.TCPTransport.exportObject(Unknown Source) ~[?:1.8.0_181]
+	at sun.rmi.transport.tcp.TCPEndpoint.exportObject(Unknown Source) ~[?:1.8.0_181]
+	at sun.rmi.transport.LiveRef.exportObject(Unknown Source) ~[?:1.8.0_181]
+	at sun.rmi.server.UnicastServerRef.exportObject(Unknown Source) ~[?:1.8.0_181]
+	at sun.rmi.registry.RegistryImpl.setup(Unknown Source) ~[?:1.8.0_181]
+	at sun.rmi.registry.RegistryImpl.<init>(Unknown Source) ~[?:1.8.0_181]
+	at java.rmi.registry.LocateRegistry.createRegistry(Unknown Source) ~[?:1.8.0_181]
+	at com.concordia.server.MontrealServer.MontrealServerImplementation.main(MontrealServerImplementation.java:41) [classes/:?]
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method) ~[?:1.8.0_181]
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source) ~[?:1.8.0_181]
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source) ~[?:1.8.0_181]
+	at java.net.PlainSocketImpl.bind(Unknown Source) ~[?:1.8.0_181]
+	at java.net.ServerSocket.bind(Unknown Source) ~[?:1.8.0_181]
+	at java.net.ServerSocket.<init>(Unknown Source) ~[?:1.8.0_181]
+	at java.net.ServerSocket.<init>(Unknown Source) ~[?:1.8.0_181]
+	at sun.rmi.transport.proxy.RMIDirectSocketFactory.createServerSocket(Unknown Source) ~[?:1.8.0_181]
+	at sun.rmi.transport.proxy.RMIMasterSocketFactory.createServerSocket(Unknown Source) ~[?:1.8.0_181]
+	at sun.rmi.transport.tcp.TCPEndpoint.newServerSocket(Unknown Source) ~[?:1.8.0_181]
+	... 9 more
+[INFO ] 2019-06-06 13:15:05.070 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 14:24:00.572 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 14:33:20.530 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 14:56:06.002 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 14:56:57.505 [RMI TCP Connection(3)-192.168.2.15] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 14:56:57.506 [RMI TCP Connection(3)-192.168.2.15] temp - Event Type : SEvent ID : MTLM100519  Booking capacity 3
+[INFO ] 2019-06-06 14:56:57.506 [RMI TCP Connection(3)-192.168.2.15] temp - Successfully Added
+[INFO ] 2019-06-06 14:56:57.509 [RMI TCP Connection(3)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 14:56:57.510 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 14:56:57.511 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 14:56:57.511 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :3
+[INFO ] 2019-06-06 14:56:57.511 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :3
+[INFO ] 2019-06-06 14:56:57.512 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 14:57:18.061 [RMI TCP Connection(3)-192.168.2.15] temp - Montral Hashmap size :1
+[INFO ] 2019-06-06 14:57:18.061 [RMI TCP Connection(3)-192.168.2.15] temp - Event Type : CEvent ID : MTLA121212  Booking capacity 1
+[INFO ] 2019-06-06 14:57:18.061 [RMI TCP Connection(3)-192.168.2.15] temp - Successfully Added
+[INFO ] 2019-06-06 14:57:18.063 [RMI TCP Connection(3)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 14:57:18.064 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 14:57:18.064 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 14:57:18.064 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :3
+[INFO ] 2019-06-06 14:57:18.064 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :3
+[INFO ] 2019-06-06 14:57:18.065 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 14:57:18.065 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :C
+[INFO ] 2019-06-06 14:57:18.065 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLA121212
+[INFO ] 2019-06-06 14:57:18.066 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :1
+[INFO ] 2019-06-06 14:57:18.066 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :1
+[INFO ] 2019-06-06 14:57:18.066 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 14:57:41.719 [RMI TCP Connection(3)-192.168.2.15] temp - Montral Hashmap size :2
+[INFO ] 2019-06-06 14:57:41.720 [RMI TCP Connection(3)-192.168.2.15] temp - Event Type : TEvent ID : MTLE1803  Booking capacity 3
+[INFO ] 2019-06-06 14:57:41.720 [RMI TCP Connection(3)-192.168.2.15] temp - Successfully Added
+[INFO ] 2019-06-06 14:57:41.723 [RMI TCP Connection(3)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 14:57:41.723 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 14:57:41.723 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 14:57:41.723 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :3
+[INFO ] 2019-06-06 14:57:41.724 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :3
+[INFO ] 2019-06-06 14:57:41.724 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 14:57:41.724 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :C
+[INFO ] 2019-06-06 14:57:41.724 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLA121212
+[INFO ] 2019-06-06 14:57:41.724 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :1
+[INFO ] 2019-06-06 14:57:41.725 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :1
+[INFO ] 2019-06-06 14:57:41.725 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 14:57:41.726 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :T
+[INFO ] 2019-06-06 14:57:41.726 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLE1803
+[INFO ] 2019-06-06 14:57:41.726 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :3
+[INFO ] 2019-06-06 14:57:41.726 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :3
+[INFO ] 2019-06-06 14:57:41.727 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 14:58:55.401 [RMI TCP Connection(3)-192.168.2.15] temp - Book Event Method Calling
+[INFO ] 2019-06-06 14:58:55.401 [RMI TCP Connection(3)-192.168.2.15] temp - Map Size is : 3
+[INFO ] 2019-06-06 14:58:55.402 [RMI TCP Connection(3)-192.168.2.15] temp - city  eventId :MTLM12345
+[INFO ] 2019-06-06 14:58:55.402 [RMI TCP Connection(3)-192.168.2.15] temp - City book event is :MTL
+[INFO ] 2019-06-06 14:58:55.402 [RMI TCP Connection(3)-192.168.2.15] temp - EventType :S with Event ID : MTLM12345does not exist
+[INFO ] 2019-06-06 14:58:55.402 [RMI TCP Connection(3)-192.168.2.15] temp - Book event ends
+[INFO ] 2019-06-06 14:58:55.404 [RMI TCP Connection(3)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 14:58:55.404 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 14:58:55.405 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 14:58:55.405 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :3
+[INFO ] 2019-06-06 14:58:55.406 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :3
+[INFO ] 2019-06-06 14:58:55.406 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 14:58:55.406 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :C
+[INFO ] 2019-06-06 14:58:55.406 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLA121212
+[INFO ] 2019-06-06 14:58:55.407 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :1
+[INFO ] 2019-06-06 14:58:55.407 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :1
+[INFO ] 2019-06-06 14:58:55.407 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 14:58:55.408 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :T
+[INFO ] 2019-06-06 14:58:55.408 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLE1803
+[INFO ] 2019-06-06 14:58:55.408 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :3
+[INFO ] 2019-06-06 14:58:55.408 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :3
+[INFO ] 2019-06-06 14:58:55.409 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 14:59:19.928 [RMI TCP Connection(3)-192.168.2.15] temp - Book Event Method Calling
+[INFO ] 2019-06-06 14:59:19.928 [RMI TCP Connection(3)-192.168.2.15] temp - Map Size is : 3
+[INFO ] 2019-06-06 14:59:19.928 [RMI TCP Connection(3)-192.168.2.15] temp - city  eventId :MTLA121212
+[INFO ] 2019-06-06 14:59:19.928 [RMI TCP Connection(3)-192.168.2.15] temp - City book event is :MTL
+[INFO ] 2019-06-06 14:59:19.929 [RMI TCP Connection(3)-192.168.2.15] temp - Customer:  customer ID  :MTLM123456 booked event type: Cevent ID : MTLA121212
+[INFO ] 2019-06-06 14:59:19.930 [RMI TCP Connection(3)-192.168.2.15] temp - {MTLA121212=EventsData [bookingCapacity=1, seatsFilled=1, seatsLeft=0, bookingLocation=, customerRegistered=[MTLM123456]]}
+[INFO ] 2019-06-06 14:59:19.931 [RMI TCP Connection(3)-192.168.2.15] temp - Book event ends
+[INFO ] 2019-06-06 14:59:19.932 [RMI TCP Connection(3)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 14:59:19.933 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 14:59:19.933 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 14:59:19.933 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :3
+[INFO ] 2019-06-06 14:59:19.933 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :3
+[INFO ] 2019-06-06 14:59:19.933 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 14:59:19.937 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :C
+[INFO ] 2019-06-06 14:59:19.937 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLA121212
+[INFO ] 2019-06-06 14:59:19.937 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :1
+[INFO ] 2019-06-06 14:59:19.937 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :0
+[INFO ] 2019-06-06 14:59:19.937 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :1
+[INFO ] 2019-06-06 14:59:19.938 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :T
+[INFO ] 2019-06-06 14:59:19.938 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLE1803
+[INFO ] 2019-06-06 14:59:19.938 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :3
+[INFO ] 2019-06-06 14:59:19.938 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :3
+[INFO ] 2019-06-06 14:59:19.938 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 15:00:23.999 [Thread-2] temp - Request message sent from the client is : MTLM123456,getBooking
+[INFO ] 2019-06-06 15:00:23.998 [Thread-1] temp - Message is : MTLM123456,getBooking
+[INFO ] 2019-06-06 15:00:24.001 [Thread-1] temp - Reuqest Type for server to server communication is :getBooking
+[INFO ] 2019-06-06 15:01:26.064 [RMI TCP Connection(3)-192.168.2.15] temp - Book Event Method Calling
+[INFO ] 2019-06-06 15:01:26.064 [RMI TCP Connection(3)-192.168.2.15] temp - Map Size is : 3
+[INFO ] 2019-06-06 15:01:26.065 [RMI TCP Connection(3)-192.168.2.15] temp - city  eventId :MTLA121212
+[INFO ] 2019-06-06 15:01:26.065 [RMI TCP Connection(3)-192.168.2.15] temp - City book event is :MTL
+[INFO ] 2019-06-06 15:01:26.065 [RMI TCP Connection(3)-192.168.2.15] temp - EventType :CEvent ID : MTLA121212does not have enough seats left
+[INFO ] 2019-06-06 15:01:26.065 [RMI TCP Connection(3)-192.168.2.15] temp - Book event ends
+[INFO ] 2019-06-06 15:01:26.066 [RMI TCP Connection(3)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 15:01:26.066 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 15:01:26.067 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 15:01:26.067 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :3
+[INFO ] 2019-06-06 15:01:26.067 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :3
+[INFO ] 2019-06-06 15:01:26.067 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 15:01:26.067 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :C
+[INFO ] 2019-06-06 15:01:26.067 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLA121212
+[INFO ] 2019-06-06 15:01:26.068 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :1
+[INFO ] 2019-06-06 15:01:26.068 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :0
+[INFO ] 2019-06-06 15:01:26.068 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :1
+[INFO ] 2019-06-06 15:01:26.068 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :T
+[INFO ] 2019-06-06 15:01:26.068 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLE1803
+[INFO ] 2019-06-06 15:01:26.069 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :3
+[INFO ] 2019-06-06 15:01:26.069 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :3
+[INFO ] 2019-06-06 15:01:26.069 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 15:07:31.464 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 15:10:22.073 [RMI TCP Connection(3)-192.168.2.15] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 15:10:22.075 [RMI TCP Connection(3)-192.168.2.15] temp - Event Type : SEvent ID : MTLM100519  Booking capacity 1
+[INFO ] 2019-06-06 15:10:22.075 [RMI TCP Connection(3)-192.168.2.15] temp - Successfully Added
+[INFO ] 2019-06-06 15:10:22.077 [RMI TCP Connection(3)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 15:10:22.079 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 15:10:22.079 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 15:10:22.080 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking cappacity   :1
+[INFO ] 2019-06-06 15:10:22.080 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :1
+[INFO ] 2019-06-06 15:10:22.080 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 15:12:31.804 [RMI TCP Connection(4)-192.168.2.15] temp - Book Event Method Calling
+[INFO ] 2019-06-06 15:12:31.806 [RMI TCP Connection(4)-192.168.2.15] temp - Map Size is : 1
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-06-06 15:12:31.806 [RMI TCP Connection(4)-192.168.2.15] temp - Customer:  customer ID  :MTLM123456 booked event type: Sevent ID : MTLM100519
+[INFO ] 2019-06-06 15:12:31.808 [RMI TCP Connection(4)-192.168.2.15] temp - {MTLM100519=EventsData [bookingCapacity=1, seatsFilled=1, seatsLeft=0, bookingLocation=, customerRegistered=[MTLM123456]]}
+[INFO ] 2019-06-06 15:12:31.809 [RMI TCP Connection(4)-192.168.2.15] temp - Book event ends
+[INFO ] 2019-06-06 15:12:31.810 [RMI TCP Connection(4)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 15:12:31.811 [RMI TCP Connection(4)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 15:12:31.811 [RMI TCP Connection(4)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 15:12:31.811 [RMI TCP Connection(4)-192.168.2.15] temp - Event booking cappacity   :1
+[INFO ] 2019-06-06 15:12:31.812 [RMI TCP Connection(4)-192.168.2.15] temp - Event booking seat left   :0
+[INFO ] 2019-06-06 15:12:31.812 [RMI TCP Connection(4)-192.168.2.15] temp - Event booking seat booked :1
+[INFO ] 2019-06-06 15:26:33.908 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 15:34:05.444 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 15:37:18.933 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 15:37:55.675 [RMI TCP Connection(2)-192.168.2.15] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 15:37:55.677 [RMI TCP Connection(2)-192.168.2.15] temp - Event Type : SEvent ID : MTLM100519  Booking capacity 2
+[INFO ] 2019-06-06 15:37:55.677 [RMI TCP Connection(2)-192.168.2.15] temp - Successfully Added
+[INFO ] 2019-06-06 15:37:55.681 [RMI TCP Connection(2)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 15:37:55.681 [RMI TCP Connection(2)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 15:37:55.681 [RMI TCP Connection(2)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 15:37:55.682 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking cappacity   :2
+[INFO ] 2019-06-06 15:37:55.682 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat left   :2
+[INFO ] 2019-06-06 15:37:55.682 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 15:38:11.311 [RMI TCP Connection(2)-192.168.2.15] temp - Montral Hashmap size :1
+[INFO ] 2019-06-06 15:38:11.312 [RMI TCP Connection(2)-192.168.2.15] temp - Event Type : CEvent ID : MTLM121212  Booking capacity 3
+[INFO ] 2019-06-06 15:38:11.312 [RMI TCP Connection(2)-192.168.2.15] temp - Successfully Added
+[INFO ] 2019-06-06 15:38:11.313 [RMI TCP Connection(2)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 15:38:11.314 [RMI TCP Connection(2)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 15:38:11.314 [RMI TCP Connection(2)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 15:38:11.315 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking cappacity   :2
+[INFO ] 2019-06-06 15:38:11.315 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat left   :2
+[INFO ] 2019-06-06 15:38:11.315 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 15:38:11.315 [RMI TCP Connection(2)-192.168.2.15] temp - The event type is              :C
+[INFO ] 2019-06-06 15:38:11.315 [RMI TCP Connection(2)-192.168.2.15] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 15:38:11.316 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking cappacity   :3
+[INFO ] 2019-06-06 15:38:11.316 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat left   :3
+[INFO ] 2019-06-06 15:38:11.316 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 15:42:24.729 [main] temp -  Recieved message :
+[INFO ] 2019-06-06 15:42:24.730 [main] temp - Request Type :bookEvent
+[INFO ] 2019-06-06 15:42:24.730 [main] temp - Book Event: Inter server communication
+[INFO ] 2019-06-06 15:42:24.730 [main] temp - Book Event Method Calling
+[INFO ] 2019-06-06 15:42:24.730 [main] temp - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-06-06 15:42:24.731 [main] temp - Customer:  customer ID  :OTWM123456 booked event type: Sevent ID : MTLM100519
+[INFO ] 2019-06-06 15:42:24.731 [main] temp - {MTLM100519=EventsData [bookingCapacity=2, seatsFilled=1, seatsLeft=1, bookingLocation=, customerRegistered=[OTWM123456]]}
+[INFO ] 2019-06-06 15:42:24.733 [main] temp - Book event ends
+[INFO ] 2019-06-06 15:43:44.246 [main] temp -  Recieved message :
+[INFO ] 2019-06-06 15:43:44.246 [main] temp - Request Type :bookEvent
+[INFO ] 2019-06-06 15:43:44.247 [main] temp - Book Event: Inter server communication
+[INFO ] 2019-06-06 15:43:44.247 [main] temp - Book Event Method Calling
+[INFO ] 2019-06-06 15:43:44.247 [main] temp - Map Size is : 2
+city  eventId :MTLM121212
+city  eventId :MTLM121212
+[INFO ] 2019-06-06 15:43:44.248 [main] temp - Customer:  customer ID  :OTWM123456 booked event type: Cevent ID : MTLM121212
+[INFO ] 2019-06-06 15:43:44.248 [main] temp - {MTLM121212=EventsData [bookingCapacity=3, seatsFilled=1, seatsLeft=2, bookingLocation=, customerRegistered=[OTWM123456]]}
+[INFO ] 2019-06-06 15:43:44.248 [main] temp - Book event ends
+[INFO ] 2019-06-06 16:01:33.284 [main] temp - Montreal Server Start up failed: java.rmi.server.ExportException: Port already in use: 1111; nested exception is: 
+	java.net.BindException: Address already in use: JVM_Bind
+[INFO ] 2019-06-06 16:02:25.767 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 16:03:43.865 [RMI TCP Connection(2)-192.168.2.15] temp - Montral Hashmap sizewxss :0
+[INFO ] 2019-06-06 16:03:43.866 [RMI TCP Connection(2)-192.168.2.15] temp - Event Type : SEvent ID : MTLM100519  Booking capacity 12
+[INFO ] 2019-06-06 16:03:43.866 [RMI TCP Connection(2)-192.168.2.15] temp - Successfully Added
+[INFO ] 2019-06-06 16:03:43.869 [RMI TCP Connection(2)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 16:03:43.869 [RMI TCP Connection(2)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 16:03:43.870 [RMI TCP Connection(2)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 16:03:43.870 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking cappacity   :12
+[INFO ] 2019-06-06 16:03:43.870 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat left   :12
+[INFO ] 2019-06-06 16:03:43.870 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 16:04:11.977 [RMI TCP Connection(2)-192.168.2.15] temp - Book Event Method Calling
+[INFO ] 2019-06-06 16:04:11.977 [RMI TCP Connection(2)-192.168.2.15] temp - Map Size is : 1
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-06-06 16:04:11.978 [RMI TCP Connection(2)-192.168.2.15] temp - Customer:  customer ID  :MTLM123456 booked event type: Sevent ID : MTLM100519
+[INFO ] 2019-06-06 16:04:11.979 [RMI TCP Connection(2)-192.168.2.15] temp - {MTLM100519=EventsData [bookingCapacity=12, seatsFilled=1, seatsLeft=11, bookingLocation=, customerRegistered=[MTLM123456]]}
+[INFO ] 2019-06-06 16:04:11.980 [RMI TCP Connection(2)-192.168.2.15] temp - Book event ends
+[INFO ] 2019-06-06 16:04:11.981 [RMI TCP Connection(2)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 16:04:11.982 [RMI TCP Connection(2)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 16:04:11.982 [RMI TCP Connection(2)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 16:04:11.982 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking cappacity   :12
+[INFO ] 2019-06-06 16:04:11.982 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat left   :11
+[INFO ] 2019-06-06 16:04:11.983 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat booked :1
+[INFO ] 2019-06-06 16:04:26.878 [RMI TCP Connection(2)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 16:04:26.879 [RMI TCP Connection(2)-192.168.2.15] temp - Customer with customer ID : MTLM123456cancelled the event with ID : MTLM100519
+[INFO ] 2019-06-06 16:04:26.879 [RMI TCP Connection(2)-192.168.2.15] temp - Successfully cancelled the event
+[INFO ] 2019-06-06 16:04:26.879 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking cappacity   :12
+[INFO ] 2019-06-06 16:04:26.880 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat left   :12
+[INFO ] 2019-06-06 16:04:26.880 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 16:04:26.881 [RMI TCP Connection(2)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 16:04:26.881 [RMI TCP Connection(2)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 16:04:26.882 [RMI TCP Connection(2)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 16:04:26.882 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking cappacity   :12
+[INFO ] 2019-06-06 16:04:26.882 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat left   :12
+[INFO ] 2019-06-06 16:04:26.882 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 16:05:37.972 [Thread-2] temp - Request message sent from the client is : MTLM123456,getBooking
+[INFO ] 2019-06-06 16:05:37.971 [Thread-1] temp - Message is : MTLM123456,getBooking
+[INFO ] 2019-06-06 16:05:37.976 [Thread-1] temp - Reuqest Type for server to server communication is :getBooking
+[INFO ] 2019-06-06 16:29:44.849 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 16:30:18.471 [RMI TCP Connection(2)-192.168.2.15] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 16:30:18.472 [RMI TCP Connection(2)-192.168.2.15] temp - Event Type : SEvent ID : MTLM100519  Booking capacity 5
+[INFO ] 2019-06-06 16:30:18.472 [RMI TCP Connection(2)-192.168.2.15] temp - Successfully Added
+[INFO ] 2019-06-06 16:30:18.476 [RMI TCP Connection(2)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 16:30:18.477 [RMI TCP Connection(2)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 16:30:18.477 [RMI TCP Connection(2)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 16:30:18.477 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking cappacity   :5
+[INFO ] 2019-06-06 16:30:18.478 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 16:30:18.478 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 16:30:36.877 [RMI TCP Connection(2)-192.168.2.15] temp - Book Event Method Calling
+[INFO ] 2019-06-06 16:30:36.877 [RMI TCP Connection(2)-192.168.2.15] temp - Map Size is : 1
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-06-06 16:30:36.878 [RMI TCP Connection(2)-192.168.2.15] temp - Customer:  customer ID  :MTLM123456 booked event type: Sevent ID : MTLM100519
+[INFO ] 2019-06-06 16:30:36.879 [RMI TCP Connection(2)-192.168.2.15] temp - {MTLM100519=EventsData [bookingCapacity=5, seatsFilled=1, seatsLeft=4, bookingLocation=, customerRegistered=[MTLM123456]]}
+[INFO ] 2019-06-06 16:30:36.880 [RMI TCP Connection(2)-192.168.2.15] temp - Book event ends
+[INFO ] 2019-06-06 16:30:36.881 [RMI TCP Connection(2)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 16:30:36.882 [RMI TCP Connection(2)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 16:30:36.882 [RMI TCP Connection(2)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 16:30:36.882 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking cappacity   :5
+[INFO ] 2019-06-06 16:30:36.882 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat left   :4
+[INFO ] 2019-06-06 16:30:36.883 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat booked :1
+[INFO ] 2019-06-06 16:30:45.309 [Thread-1] temp - Message is : MTLM123456,getBooking
+[INFO ] 2019-06-06 16:30:45.310 [Thread-2] temp - Request message sent from the client is : MTLM123456,getBooking
+[INFO ] 2019-06-06 16:30:45.312 [Thread-1] temp - Reuqest Type for server to server communication is :getBooking
+[INFO ] 2019-06-06 16:31:33.117 [RMI TCP Connection(2)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 16:31:33.117 [RMI TCP Connection(2)-192.168.2.15] temp - Customer with customer ID : MTLM123456cancelled the event with ID : MTLM100519
+[INFO ] 2019-06-06 16:31:33.117 [RMI TCP Connection(2)-192.168.2.15] temp - Successfully cancelled the event
+[INFO ] 2019-06-06 16:31:33.117 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking cappacity   :5
+[INFO ] 2019-06-06 16:31:33.117 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 16:31:33.117 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 16:31:33.121 [RMI TCP Connection(2)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 16:31:33.121 [RMI TCP Connection(2)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 16:31:33.122 [RMI TCP Connection(2)-192.168.2.15] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 16:31:33.122 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking cappacity   :5
+[INFO ] 2019-06-06 16:31:33.122 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 16:31:33.124 [RMI TCP Connection(2)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 16:31:45.907 [Thread-4] temp - Request message sent from the client is : MTLM123456,getBooking
+[INFO ] 2019-06-06 16:31:45.907 [Thread-3] temp - Message is : MTLM123456,getBooking
+[INFO ] 2019-06-06 16:31:45.911 [Thread-3] temp - Reuqest Type for server to server communication is :getBooking
+[INFO ] 2019-06-06 16:37:18.290 [Thread-6] temp - Request message sent from the client is : MTLM123456,getBooking
+[INFO ] 2019-06-06 16:37:18.290 [Thread-5] temp - Message is : MTLM123456,getBooking
+[INFO ] 2019-06-06 16:37:18.293 [Thread-5] temp - Reuqest Type for server to server communication is :getBooking
+[INFO ] 2019-06-06 17:25:38.575 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 17:26:43.041 [RMI TCP Connection(3)-192.168.2.15] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 17:26:43.041 [RMI TCP Connection(3)-192.168.2.15] temp - Event Type : SEvent ID : MTLM100516  Booking capacity 5
+[INFO ] 2019-06-06 17:26:43.041 [RMI TCP Connection(3)-192.168.2.15] temp - Successfully Added
+[INFO ] 2019-06-06 17:26:43.044 [RMI TCP Connection(3)-192.168.2.15] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 17:26:43.044 [RMI TCP Connection(3)-192.168.2.15] temp - The event type is              :S
+[INFO ] 2019-06-06 17:26:43.044 [RMI TCP Connection(3)-192.168.2.15] temp - The event id                  :MTLM100516
+[INFO ] 2019-06-06 17:26:43.045 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 17:26:43.045 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 17:26:43.045 [RMI TCP Connection(3)-192.168.2.15] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 18:53:31.830 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 18:54:20.848 [RMI TCP Connection(3)-172.31.26.108] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 18:54:20.849 [RMI TCP Connection(3)-172.31.26.108] temp - Event Type : SEvent ID : MTLM100519  Booking capacity 5
+[INFO ] 2019-06-06 18:54:20.850 [RMI TCP Connection(3)-172.31.26.108] temp - Successfully Added
+[INFO ] 2019-06-06 18:54:20.851 [RMI TCP Connection(3)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 18:54:20.851 [RMI TCP Connection(3)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 18:54:20.851 [RMI TCP Connection(3)-172.31.26.108] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 18:54:20.851 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 18:54:20.852 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 18:54:20.853 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 18:55:16.049 [RMI TCP Connection(3)-172.31.26.108] temp - Montral Hashmap size :1
+[INFO ] 2019-06-06 18:55:16.050 [RMI TCP Connection(3)-172.31.26.108] temp - Event Type : SEvent ID : MTLA121212  Booking capacity 5
+[INFO ] 2019-06-06 18:55:16.050 [RMI TCP Connection(3)-172.31.26.108] temp - Successfully Added
+[INFO ] 2019-06-06 18:55:16.051 [RMI TCP Connection(3)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 18:55:16.052 [RMI TCP Connection(3)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 18:55:16.052 [RMI TCP Connection(3)-172.31.26.108] temp - The event id                  :MTLA121212
+[INFO ] 2019-06-06 18:55:16.052 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 18:55:16.053 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 18:55:16.053 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 18:55:16.053 [RMI TCP Connection(3)-172.31.26.108] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 18:55:16.053 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 18:55:16.053 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 18:55:16.054 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 18:55:43.448 [RMI TCP Connection(3)-172.31.26.108] temp - EventType :S Event ID : MTLA121212
+[INFO ] 2019-06-06 18:55:43.449 [RMI TCP Connection(3)-172.31.26.108] temp - Removed Successfully
+[INFO ] 2019-06-06 18:55:43.449 [RMI TCP Connection(3)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 18:55:43.450 [RMI TCP Connection(3)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 18:55:43.450 [RMI TCP Connection(3)-172.31.26.108] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 18:55:43.452 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 18:55:43.452 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 18:55:43.452 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 18:55:50.006 [Thread-1] temp - Reuqest Type for server to server communication is :listEventAvailability
+[INFO ] 2019-06-06 18:55:50.010 [Thread-2] temp - Message is : S,listEventAvailability
+[INFO ] 2019-06-06 18:55:50.011 [Thread-2] temp - Request message sent from the client is : S,listEventAvailability
+[INFO ] 2019-06-06 18:55:50.013 [RMI TCP Connection(3)-172.31.26.108] temp - Event id is                  :MTLM100519
+[INFO ] 2019-06-06 18:55:50.013 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking capacity is   :5
+[INFO ] 2019-06-06 18:55:50.014 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat left is   :5
+[INFO ] 2019-06-06 18:55:50.014 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat booked is :5
+[INFO ] 2019-06-06 18:55:50.014 [RMI TCP Connection(3)-172.31.26.108] temp -  The final returning string :MTLM100519 5,
+[INFO ] 2019-06-06 19:09:11.595 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 19:10:09.961 [RMI TCP Connection(3)-172.31.26.108] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 19:10:09.962 [RMI TCP Connection(3)-172.31.26.108] temp - Event Type : S
+Event ID : MTLM121212
+Booking capacity 5
+[INFO ] 2019-06-06 19:10:09.963 [RMI TCP Connection(3)-172.31.26.108] temp - Montreal Server: Successfully Added
+[INFO ] 2019-06-06 19:10:09.965 [RMI TCP Connection(3)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 19:10:09.967 [RMI TCP Connection(3)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 19:10:09.967 [RMI TCP Connection(3)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 19:10:09.967 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 19:10:09.968 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 19:10:09.968 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 19:33:26.417 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 19:33:33.455 [main] temp - Montreal Server Start up failed: java.rmi.server.ExportException: Port already in use: 1111; nested exception is: 
+	java.net.BindException: Address already in use: JVM_Bind
+[INFO ] 2019-06-06 19:34:14.927 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Add Event
+[INFO ] 2019-06-06 19:34:14.928 [RMI TCP Connection(2)-172.31.26.108] temp - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-06-06 19:34:14.928 [RMI TCP Connection(2)-172.31.26.108] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 19:34:14.928 [RMI TCP Connection(2)-172.31.26.108] temp - Event Type : S
+Event ID : MTLM100519
+Booking capacity 5
+[INFO ] 2019-06-06 19:34:14.928 [RMI TCP Connection(2)-172.31.26.108] temp - Montreal Server: Successfully Added
+[INFO ] 2019-06-06 19:34:14.931 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 19:34:14.931 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 19:34:14.931 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 19:34:14.932 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 19:34:14.932 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 19:34:14.932 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 19:34:30.276 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Remove Event
+[INFO ] 2019-06-06 19:34:30.276 [RMI TCP Connection(2)-172.31.26.108] temp - Parameter: EventID, EventType
+[INFO ] 2019-06-06 19:34:30.276 [RMI TCP Connection(2)-172.31.26.108] temp - EventType :S
+ with Event ID : MTLM100519
+
+[INFO ] 2019-06-06 19:34:30.276 [RMI TCP Connection(2)-172.31.26.108] temp - Removed Successfully from Montreal Server
+[INFO ] 2019-06-06 19:34:30.278 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 19:34:30.278 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 19:39:06.854 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 19:39:28.567 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Add Event
+[INFO ] 2019-06-06 19:39:28.569 [RMI TCP Connection(2)-172.31.26.108] temp - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-06-06 19:39:28.569 [RMI TCP Connection(2)-172.31.26.108] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 19:39:28.569 [RMI TCP Connection(2)-172.31.26.108] temp - Event Type : S
+Event ID : MTLM121212
+Booking capacity 5
+[INFO ] 2019-06-06 19:39:28.570 [RMI TCP Connection(2)-172.31.26.108] temp - Montreal Server: Successfully Added
+[INFO ] 2019-06-06 19:39:28.574 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 19:39:28.574 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 19:39:28.574 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 19:39:28.575 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 19:39:28.575 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 19:39:28.575 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 19:39:51.126 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Remove Event
+[INFO ] 2019-06-06 19:39:51.126 [RMI TCP Connection(2)-172.31.26.108] temp - Parameter: EventID, EventType
+[INFO ] 2019-06-06 19:39:51.126 [RMI TCP Connection(2)-172.31.26.108] temp - EventType :S
+ with Event ID : MTLM121212
+
+[INFO ] 2019-06-06 19:39:51.126 [RMI TCP Connection(2)-172.31.26.108] temp - Removed Successfully from Montreal Server
+[INFO ] 2019-06-06 19:39:51.128 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 19:39:51.128 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 19:43:34.120 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 19:43:53.968 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Add Event
+[INFO ] 2019-06-06 19:43:53.968 [RMI TCP Connection(2)-172.31.26.108] temp - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-06-06 19:43:53.968 [RMI TCP Connection(2)-172.31.26.108] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 19:43:53.969 [RMI TCP Connection(2)-172.31.26.108] temp - Event Type : S
+Event ID : MTLM121212
+Booking capacity 5
+[INFO ] 2019-06-06 19:43:53.969 [RMI TCP Connection(2)-172.31.26.108] temp - Montreal Server: Successfully Added
+[INFO ] 2019-06-06 19:43:53.972 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 19:43:53.972 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 19:43:53.972 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 19:43:53.972 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 19:43:53.973 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 19:43:53.973 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 19:44:03.699 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Remove Event
+[INFO ] 2019-06-06 19:44:03.699 [RMI TCP Connection(2)-172.31.26.108] temp - Parameter: EventID, EventType
+[INFO ] 2019-06-06 19:44:03.699 [RMI TCP Connection(2)-172.31.26.108] temp - EventType :S
+ with Event ID : MTLM121212
+
+[INFO ] 2019-06-06 19:44:03.700 [RMI TCP Connection(2)-172.31.26.108] temp - Removed Successfully from Montreal Server
+[INFO ] 2019-06-06 19:44:03.701 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 19:44:03.701 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 19:52:36.089 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 19:53:06.379 [RMI TCP Connection(3)-172.31.26.108] temp - Request Type: Add Event
+[INFO ] 2019-06-06 19:53:06.381 [RMI TCP Connection(3)-172.31.26.108] temp - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-06-06 19:53:06.381 [RMI TCP Connection(3)-172.31.26.108] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 19:53:06.381 [RMI TCP Connection(3)-172.31.26.108] temp - Event Type : S
+Event ID : MTLM121212
+Booking capacity 5
+[INFO ] 2019-06-06 19:53:06.381 [RMI TCP Connection(3)-172.31.26.108] temp - Montreal Server: Successfully Added
+[INFO ] 2019-06-06 19:53:06.384 [RMI TCP Connection(3)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 19:53:06.385 [RMI TCP Connection(3)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 19:53:06.385 [RMI TCP Connection(3)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 19:53:06.385 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 19:53:06.386 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 19:53:06.386 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 19:53:19.949 [RMI TCP Connection(3)-172.31.26.108] temp - Book Event Method Calling
+[INFO ] 2019-06-06 19:53:19.950 [RMI TCP Connection(3)-172.31.26.108] temp - Map Size is : 1
+city  eventId :MTLM121212
+city  eventId :MTLM121212
+[INFO ] 2019-06-06 19:53:19.950 [RMI TCP Connection(3)-172.31.26.108] temp - Customer:  customer ID  :MTLM123456 booked event type: Sevent ID : MTLM121212
+[INFO ] 2019-06-06 19:53:19.951 [RMI TCP Connection(3)-172.31.26.108] temp - {MTLM121212=EventsData [capacityOfBooking=5, seatsFilled=1, seatsLeft=4, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-06-06 19:53:19.952 [RMI TCP Connection(3)-172.31.26.108] temp - Book event ends
+[INFO ] 2019-06-06 19:53:19.954 [RMI TCP Connection(3)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 19:53:19.954 [RMI TCP Connection(3)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 19:53:19.954 [RMI TCP Connection(3)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 19:53:19.955 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 19:53:19.955 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat left   :4
+[INFO ] 2019-06-06 19:53:19.955 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat booked :1
+[INFO ] 2019-06-06 19:54:03.485 [main] temp -  Recieved message :
+[INFO ] 2019-06-06 19:54:03.485 [main] temp - Request Type :listEventAvailability
+[INFO ] 2019-06-06 19:54:03.485 [main] temp - List event Avaialability: Inter server communication
+[INFO ] 2019-06-06 19:54:03.486 [main] temp - Event id is                  :MTLM121212
+[INFO ] 2019-06-06 19:54:03.486 [main] temp - Event booking capacity is   :5
+[INFO ] 2019-06-06 19:54:03.486 [main] temp - Event booking seat left is   :4
+[INFO ] 2019-06-06 19:54:03.486 [main] temp - Event booking seat booked is :4
+[INFO ] 2019-06-06 20:11:49.112 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 20:12:11.656 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Add Event
+[INFO ] 2019-06-06 20:12:11.658 [RMI TCP Connection(2)-172.31.26.108] temp - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-06-06 20:12:11.658 [RMI TCP Connection(2)-172.31.26.108] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 20:12:11.658 [RMI TCP Connection(2)-172.31.26.108] temp - Event Type : S
+Event ID : MTLM121212
+Booking capacity 5
+[INFO ] 2019-06-06 20:12:11.659 [RMI TCP Connection(2)-172.31.26.108] temp - Montreal Server: Successfully Added
+[INFO ] 2019-06-06 20:12:11.661 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 20:12:11.661 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 20:12:11.661 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 20:12:11.662 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 20:12:11.662 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 20:12:11.662 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 20:12:29.414 [RMI TCP Connection(2)-172.31.26.108] temp - Book Event Method Calling
+[INFO ] 2019-06-06 20:12:29.414 [RMI TCP Connection(2)-172.31.26.108] temp - Map Size is : 1
+city  eventId :MTLM121212
+city  eventId :MTLM121212
+[INFO ] 2019-06-06 20:12:29.415 [RMI TCP Connection(2)-172.31.26.108] temp - Customer:  customer ID  :MTLM123456 booked event type: Sevent ID : MTLM121212
+[INFO ] 2019-06-06 20:12:29.417 [RMI TCP Connection(2)-172.31.26.108] temp - {MTLM121212=EventsData [capacityOfBooking=5, seatsFilled=1, seatsLeft=4, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-06-06 20:12:29.419 [RMI TCP Connection(2)-172.31.26.108] temp - Book event ends
+[INFO ] 2019-06-06 20:12:29.421 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 20:12:29.421 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 20:12:29.422 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 20:12:29.422 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 20:12:29.423 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :4
+[INFO ] 2019-06-06 20:12:29.423 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :1
+[INFO ] 2019-06-06 20:13:17.718 [main] temp -  Recieved message :
+[INFO ] 2019-06-06 20:13:17.718 [main] temp - Request Type :listEventAvailability
+[INFO ] 2019-06-06 20:13:17.718 [main] temp - List event Avaialability: Inter server communication
+[INFO ] 2019-06-06 20:13:17.719 [main] temp - Event id is                  :MTLM121212
+[INFO ] 2019-06-06 20:13:17.719 [main] temp - Event booking capacity is   :5
+[INFO ] 2019-06-06 20:13:17.719 [main] temp - Event booking seat left is   :4
+[INFO ] 2019-06-06 20:13:17.719 [main] temp - Event booking seat booked is :4
+[INFO ] 2019-06-06 20:17:38.882 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 20:17:55.427 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Add Event
+[INFO ] 2019-06-06 20:17:55.428 [RMI TCP Connection(2)-172.31.26.108] temp - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-06-06 20:17:55.428 [RMI TCP Connection(2)-172.31.26.108] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 20:17:55.429 [RMI TCP Connection(2)-172.31.26.108] temp - Event Type : S
+Event ID : MTLM121212
+Booking capacity 5
+[INFO ] 2019-06-06 20:17:55.429 [RMI TCP Connection(2)-172.31.26.108] temp - Montreal Server: Successfully Added
+[INFO ] 2019-06-06 20:17:55.431 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 20:17:55.432 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 20:17:55.432 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 20:17:55.433 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 20:17:55.434 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 20:17:55.434 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 20:18:09.176 [RMI TCP Connection(2)-172.31.26.108] temp - Book Event Method Calling
+[INFO ] 2019-06-06 20:18:09.176 [RMI TCP Connection(2)-172.31.26.108] temp - Map Size is : 1
+city  eventId :MTLM121212
+city  eventId :MTLM121212
+[INFO ] 2019-06-06 20:18:09.176 [RMI TCP Connection(2)-172.31.26.108] temp - Customer:  customer ID  :MTLM123456 booked event type: Sevent ID : MTLM121212
+[INFO ] 2019-06-06 20:18:09.178 [RMI TCP Connection(2)-172.31.26.108] temp - {MTLM121212=EventsData [capacityOfBooking=5, seatsFilled=1, seatsLeft=4, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-06-06 20:18:09.179 [RMI TCP Connection(2)-172.31.26.108] temp - Book event ends
+[INFO ] 2019-06-06 20:18:09.180 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 20:18:09.180 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 20:18:09.181 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 20:18:09.181 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 20:18:09.181 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :4
+[INFO ] 2019-06-06 20:18:09.181 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :1
+[INFO ] 2019-06-06 20:19:00.525 [main] temp -  Recieved message :
+[INFO ] 2019-06-06 20:19:00.526 [main] temp - Request Type :listEventAvailability
+[INFO ] 2019-06-06 20:19:00.526 [main] temp - List event Avaialability: Inter server communication
+[INFO ] 2019-06-06 20:19:00.526 [main] temp - Event id is                  :MTLM121212
+[INFO ] 2019-06-06 20:19:00.526 [main] temp - Event booking capacity is   :5
+[INFO ] 2019-06-06 20:19:00.526 [main] temp - Event booking seat left is   :4
+[INFO ] 2019-06-06 20:19:00.526 [main] temp - Event booking seat booked is :4
+[INFO ] 2019-06-06 20:24:00.522 [main] temp - Montreal Server Start up failed: java.rmi.server.ExportException: Port already in use: 1111; nested exception is: 
+	java.net.BindException: Address already in use: JVM_Bind
+[INFO ] 2019-06-06 20:24:51.524 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 20:26:17.840 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Add Event
+[INFO ] 2019-06-06 20:26:17.842 [RMI TCP Connection(2)-172.31.26.108] temp - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-06-06 20:26:17.842 [RMI TCP Connection(2)-172.31.26.108] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 20:26:17.842 [RMI TCP Connection(2)-172.31.26.108] temp - Event Type : S
+Event ID : MTLM121212
+Booking capacity 6
+[INFO ] 2019-06-06 20:26:17.843 [RMI TCP Connection(2)-172.31.26.108] temp - Montreal Server: Successfully Added
+[INFO ] 2019-06-06 20:26:17.845 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 20:26:17.845 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 20:26:17.846 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 20:26:17.846 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :6
+[INFO ] 2019-06-06 20:26:17.846 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :6
+[INFO ] 2019-06-06 20:26:17.846 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 20:26:25.578 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: List Event Availability
+[INFO ] 2019-06-06 20:26:25.579 [RMI TCP Connection(2)-172.31.26.108] temp - Request Parameter: Event Type
+[INFO ] 2019-06-06 20:26:25.583 [Thread-1] temp - Reuqest Type for server to server communication is :listEventAvailability
+[INFO ] 2019-06-06 20:26:25.585 [Thread-2] temp - Message is : S,listEventAvailability
+[INFO ] 2019-06-06 20:26:25.586 [Thread-2] temp - Request message sent from the client is : S,listEventAvailability
+[INFO ] 2019-06-06 20:26:25.590 [RMI TCP Connection(2)-172.31.26.108] temp - Event id is                  :MTLM121212
+[INFO ] 2019-06-06 20:26:25.591 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity is   :6
+[INFO ] 2019-06-06 20:26:25.591 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left is   :6
+[INFO ] 2019-06-06 20:26:25.591 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked is :6
+[INFO ] 2019-06-06 20:26:25.591 [RMI TCP Connection(2)-172.31.26.108] temp -  The List of event for Event Type : S: TORM121212 3,MTLM121212 6,
+[INFO ] 2019-06-06 20:31:32.893 [main] temp -  Recieved message :
+[INFO ] 2019-06-06 20:31:32.893 [main] temp - Request Type :listEventAvailability
+[INFO ] 2019-06-06 20:31:32.893 [main] temp - List event Avaialability: Inter server communication
+[INFO ] 2019-06-06 20:31:32.894 [main] temp - Event id is                  :MTLM121212
+[INFO ] 2019-06-06 20:31:32.894 [main] temp - Event booking capacity is   :6
+[INFO ] 2019-06-06 20:31:32.894 [main] temp - Event booking seat left is   :6
+[INFO ] 2019-06-06 20:31:32.894 [main] temp - Event booking seat booked is :6
+[INFO ] 2019-06-06 20:52:29.478 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 20:55:08.326 [RMI TCP Connection(3)-172.31.26.108] temp - Request Type: Add Event
+[INFO ] 2019-06-06 20:55:08.326 [RMI TCP Connection(3)-172.31.26.108] temp - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-06-06 20:55:08.326 [RMI TCP Connection(3)-172.31.26.108] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 20:55:08.327 [RMI TCP Connection(3)-172.31.26.108] temp - Event Type : S
+Event ID : MTLM121212
+Booking capacity 5
+[INFO ] 2019-06-06 20:55:08.327 [RMI TCP Connection(3)-172.31.26.108] temp - Montreal Server: Successfully Added
+[INFO ] 2019-06-06 20:55:08.329 [RMI TCP Connection(3)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 20:55:08.329 [RMI TCP Connection(3)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 20:55:08.330 [RMI TCP Connection(3)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 20:55:08.330 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 20:55:08.330 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 20:55:08.330 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 20:55:28.256 [RMI TCP Connection(3)-172.31.26.108] temp - Request Type: Book Event
+[INFO ] 2019-06-06 20:55:28.257 [RMI TCP Connection(3)-172.31.26.108] temp - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-06-06 20:55:28.258 [RMI TCP Connection(3)-172.31.26.108] temp - Map Size is : 1
+city  eventId :TORM121212
+city  eventId :TORM121212
+[INFO ] 2019-06-06 20:55:28.258 [RMI TCP Connection(3)-172.31.26.108] temp -  Calling Tornoto Book Event from Montreal Server
+[INFO ] 2019-06-06 20:55:28.264 [RMI TCP Connection(3)-172.31.26.108] temp - Request message received by the client is : active                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+[INFO ] 2019-06-06 20:55:28.265 [RMI TCP Connection(3)-172.31.26.108] temp -  Oustide city count : 1
+[INFO ] 2019-06-06 20:55:28.265 [RMI TCP Connection(3)-172.31.26.108] temp - Book event ends
+[INFO ] 2019-06-06 20:55:28.266 [RMI TCP Connection(3)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 20:55:28.266 [RMI TCP Connection(3)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 20:55:28.266 [RMI TCP Connection(3)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 20:55:28.267 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 20:55:28.267 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 20:55:28.267 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 21:11:15.959 [RMI TCP Connection(8)-172.31.26.108] temp -  Calling Ottawa Book Event from Montreal Server
+[INFO ] 2019-06-06 21:11:15.961 [RMI TCP Connection(8)-172.31.26.108] temp - Request message sent : MTLM123456,TORM121212,cancelEvent
+[INFO ] 2019-06-06 21:11:15.965 [RMI TCP Connection(8)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 21:11:15.965 [RMI TCP Connection(8)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 21:11:15.966 [RMI TCP Connection(8)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 21:11:15.966 [RMI TCP Connection(8)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 21:11:15.966 [RMI TCP Connection(8)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 21:11:15.966 [RMI TCP Connection(8)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 21:11:36.296 [Thread-1] temp - Message is : MTLM123456,getBooking
+[INFO ] 2019-06-06 21:11:36.300 [Thread-1] temp - Reuqest Type for server to server communication is :getBooking
+[INFO ] 2019-06-06 21:11:36.303 [Thread-2] temp - Request message sent from the client is : MTLM123456,getBooking
+[INFO ] 2019-06-06 21:55:30.724 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 21:55:59.716 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Add Event
+[INFO ] 2019-06-06 21:55:59.717 [RMI TCP Connection(2)-172.31.26.108] temp - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-06-06 21:55:59.718 [RMI TCP Connection(2)-172.31.26.108] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 21:55:59.718 [RMI TCP Connection(2)-172.31.26.108] temp - Event Type : S
+Event ID : MTLM100519
+Booking capacity 5
+[INFO ] 2019-06-06 21:55:59.718 [RMI TCP Connection(2)-172.31.26.108] temp - Montreal Server: Successfully Added
+[INFO ] 2019-06-06 21:55:59.721 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 21:55:59.722 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 21:55:59.722 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 21:55:59.723 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 21:55:59.723 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 21:55:59.723 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 21:56:11.228 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Add Event
+[INFO ] 2019-06-06 21:56:11.229 [RMI TCP Connection(2)-172.31.26.108] temp - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-06-06 21:56:11.230 [RMI TCP Connection(2)-172.31.26.108] temp - Montral Hashmap size :1
+[INFO ] 2019-06-06 21:56:11.230 [RMI TCP Connection(2)-172.31.26.108] temp - Event Type : C
+Event ID : MTLM121212
+Booking capacity 2
+[INFO ] 2019-06-06 21:56:11.230 [RMI TCP Connection(2)-172.31.26.108] temp - Montreal Server: Successfully Added
+[INFO ] 2019-06-06 21:56:11.232 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 21:56:11.233 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 21:56:11.233 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 21:56:11.233 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 21:56:11.233 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 21:56:11.233 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 21:56:11.234 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :C
+[INFO ] 2019-06-06 21:56:11.234 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 21:56:11.234 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :2
+[INFO ] 2019-06-06 21:56:11.235 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :2
+[INFO ] 2019-06-06 21:56:11.235 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 21:56:46.184 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Book Event
+[INFO ] 2019-06-06 21:56:46.184 [RMI TCP Connection(2)-172.31.26.108] temp - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-06-06 21:56:46.185 [RMI TCP Connection(2)-172.31.26.108] temp - Map Size is : 2
+city  eventId :MTLM121212
+city  eventId :MTLM121212
+[INFO ] 2019-06-06 21:56:46.186 [RMI TCP Connection(2)-172.31.26.108] temp - EventType :S with Event ID : MTLM121212does not exist
+[INFO ] 2019-06-06 21:56:46.186 [RMI TCP Connection(2)-172.31.26.108] temp - Book event ends
+[INFO ] 2019-06-06 21:56:46.187 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 21:56:46.187 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 21:56:46.187 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 21:56:46.188 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 21:56:46.188 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 21:56:46.188 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 21:56:46.188 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :C
+[INFO ] 2019-06-06 21:56:46.188 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 21:56:46.188 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :2
+[INFO ] 2019-06-06 21:56:46.188 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :2
+[INFO ] 2019-06-06 21:56:46.188 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 21:57:04.027 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Book Event
+[INFO ] 2019-06-06 21:57:04.027 [RMI TCP Connection(2)-172.31.26.108] temp - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-06-06 21:57:04.028 [RMI TCP Connection(2)-172.31.26.108] temp - Map Size is : 2
+city  eventId :MTLM121212
+city  eventId :MTLM121212
+[INFO ] 2019-06-06 21:57:04.028 [RMI TCP Connection(2)-172.31.26.108] temp - Customer:  customer ID  :MTLM123456
+ event type: C
+event ID : MTLM121212
+[INFO ] 2019-06-06 21:57:04.029 [RMI TCP Connection(2)-172.31.26.108] temp - {MTLM121212=EventsData [capacityOfBooking=2, seatsFilled=1, seatsLeft=1, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-06-06 21:57:04.029 [RMI TCP Connection(2)-172.31.26.108] temp - Event booked Successfully in Montreal Location
+[INFO ] 2019-06-06 21:57:04.031 [RMI TCP Connection(2)-172.31.26.108] temp - Book event ends
+[INFO ] 2019-06-06 21:57:04.032 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 21:57:04.032 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 21:57:04.033 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 21:57:04.033 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :5
+[INFO ] 2019-06-06 21:57:04.033 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :5
+[INFO ] 2019-06-06 21:57:04.033 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 21:57:04.033 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :C
+[INFO ] 2019-06-06 21:57:04.033 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM121212
+[INFO ] 2019-06-06 21:57:04.033 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :2
+[INFO ] 2019-06-06 21:57:04.034 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :1
+[INFO ] 2019-06-06 21:57:04.034 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :1
+[INFO ] 2019-06-06 21:57:12.438 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: List Event Availability
+[INFO ] 2019-06-06 21:57:12.438 [RMI TCP Connection(2)-172.31.26.108] temp - Request Parameter: Event Type
+[INFO ] 2019-06-06 21:57:12.443 [Thread-2] temp - Message is : S,listEventAvailability
+[INFO ] 2019-06-06 21:57:12.444 [Thread-2] temp - Request message sent from the client is : S,listEventAvailability
+[INFO ] 2019-06-06 21:57:12.446 [Thread-1] temp - Reuqest Type for server to server communication is :listEventAvailability
+[INFO ] 2019-06-06 21:57:12.450 [RMI TCP Connection(2)-172.31.26.108] temp - Event id is                  :MTLM100519
+[INFO ] 2019-06-06 21:57:12.450 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity is   :5
+[INFO ] 2019-06-06 21:57:12.450 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left is   :5
+[INFO ] 2019-06-06 21:57:12.450 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked is :5
+[INFO ] 2019-06-06 21:57:12.451 [RMI TCP Connection(2)-172.31.26.108] temp -  The List of event for Event Type : S: MTLM100519 5,
+[INFO ] 2019-06-06 21:58:09.020 [main] temp -  Recieved message :
+[INFO ] 2019-06-06 21:58:09.020 [main] temp - Request Type :getBooking
+[INFO ] 2019-06-06 21:58:09.020 [main] temp - Get bookin Schedule: Inter server communication
+[INFO ] 2019-06-06 21:59:03.193 [main] temp -  Recieved message :
+[INFO ] 2019-06-06 21:59:03.194 [main] temp - Request Type :bookEvent
+[INFO ] 2019-06-06 21:59:03.194 [main] temp - Book Event: Inter server communication
+[INFO ] 2019-06-06 21:59:03.194 [main] temp - Request Type: Book Event
+[INFO ] 2019-06-06 21:59:03.194 [main] temp - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-06-06 21:59:03.195 [main] temp - Map Size is : 2
+city  eventId :MTLM121212
+city  eventId :MTLM121212
+[INFO ] 2019-06-06 21:59:03.195 [main] temp - Customer:  customer ID  :TORM123456
+ event type: C
+event ID : MTLM121212
+[INFO ] 2019-06-06 21:59:03.195 [main] temp - {MTLM121212=EventsData [capacityOfBooking=2, seatsFilled=2, seatsLeft=0, bookingCity=, registerdCustomer=[MTLM123456, TORM123456]]}
+[INFO ] 2019-06-06 21:59:03.195 [main] temp - Event booked Successfully in Montreal Location
+[INFO ] 2019-06-06 21:59:03.195 [main] temp - Book event ends
+[INFO ] 2019-06-06 21:59:12.389 [main] temp -  Recieved message :
+[INFO ] 2019-06-06 21:59:12.390 [main] temp - Request Type :getBooking
+[INFO ] 2019-06-06 21:59:12.390 [main] temp - Get bookin Schedule: Inter server communication
+[INFO ] 2019-06-06 22:01:38.786 [main] temp -  Recieved message :
+[INFO ] 2019-06-06 22:01:38.787 [main] temp - Request Type :getBooking
+[INFO ] 2019-06-06 22:01:38.787 [main] temp - Get bookin Schedule: Inter server communication
+[INFO ] 2019-06-06 22:02:25.565 [main] temp -  Recieved message :
+[INFO ] 2019-06-06 22:02:25.566 [main] temp - Request Type :getBooking
+[INFO ] 2019-06-06 22:02:25.566 [main] temp - Get bookin Schedule: Inter server communication
+[INFO ] 2019-06-06 22:31:44.475 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 22:33:29.435 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 22:33:44.508 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Book Event
+[INFO ] 2019-06-06 22:33:44.508 [RMI TCP Connection(2)-172.31.26.108] temp - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-06-06 22:33:44.514 [RMI TCP Connection(2)-172.31.26.108] temp - Map Size is : 0
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-06-06 22:33:44.514 [RMI TCP Connection(2)-172.31.26.108] temp - EventType :S does not exist
+[INFO ] 2019-06-06 22:33:44.515 [RMI TCP Connection(2)-172.31.26.108] temp - Book event ends
+[INFO ] 2019-06-06 22:33:44.515 [RMI TCP Connection(3)-172.31.26.108] temp - Request Type: Book Event
+[INFO ] 2019-06-06 22:33:44.516 [RMI TCP Connection(3)-172.31.26.108] temp - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-06-06 22:33:44.516 [RMI TCP Connection(3)-172.31.26.108] temp - Map Size is : 0
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-06-06 22:33:44.516 [RMI TCP Connection(3)-172.31.26.108] temp - EventType :S does not exist
+[INFO ] 2019-06-06 22:33:44.516 [RMI TCP Connection(3)-172.31.26.108] temp - Book event ends
+[INFO ] 2019-06-06 22:38:03.057 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 22:40:53.455 [RMI TCP Connection(3)-172.31.26.108] temp - Request Type: Add Event
+[INFO ] 2019-06-06 22:40:53.466 [RMI TCP Connection(3)-172.31.26.108] temp - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-06-06 22:40:53.466 [RMI TCP Connection(3)-172.31.26.108] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 22:40:53.467 [RMI TCP Connection(3)-172.31.26.108] temp - Event Type : S
+Event ID : MTLM123456
+Booking capacity 1
+[INFO ] 2019-06-06 22:40:53.467 [RMI TCP Connection(3)-172.31.26.108] temp - Montreal Server: Successfully Added
+[INFO ] 2019-06-06 22:40:53.469 [RMI TCP Connection(3)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 22:40:53.470 [RMI TCP Connection(3)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 22:40:53.470 [RMI TCP Connection(3)-172.31.26.108] temp - The event id                  :MTLM123456
+[INFO ] 2019-06-06 22:40:53.470 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking capacity   :1
+[INFO ] 2019-06-06 22:40:53.470 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat left   :1
+[INFO ] 2019-06-06 22:40:53.470 [RMI TCP Connection(3)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 22:40:57.315 [RMI TCP Connection(3)-172.31.26.108] temp - Request Type: Book Event
+[INFO ] 2019-06-06 22:40:57.315 [RMI TCP Connection(3)-172.31.26.108] temp - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-06-06 22:40:57.319 [RMI TCP Connection(3)-172.31.26.108] temp - Map Size is : 1
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-06-06 22:40:57.319 [RMI TCP Connection(3)-172.31.26.108] temp - EventType :S with Event ID : MTLM100519does not exist
+[INFO ] 2019-06-06 22:40:57.319 [RMI TCP Connection(3)-172.31.26.108] temp - Book event ends
+[INFO ] 2019-06-06 22:40:57.320 [RMI TCP Connection(4)-172.31.26.108] temp - Request Type: Book Event
+[INFO ] 2019-06-06 22:40:57.320 [RMI TCP Connection(4)-172.31.26.108] temp - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-06-06 22:40:57.321 [RMI TCP Connection(4)-172.31.26.108] temp - Map Size is : 1
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-06-06 22:40:57.321 [RMI TCP Connection(4)-172.31.26.108] temp - EventType :S with Event ID : MTLM100519does not exist
+[INFO ] 2019-06-06 22:40:57.321 [RMI TCP Connection(4)-172.31.26.108] temp - Book event ends
+[INFO ] 2019-06-06 22:42:15.001 [main] temp - In montreal server is up
+[INFO ] 2019-06-06 22:42:36.564 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Add Event
+[INFO ] 2019-06-06 22:42:36.568 [RMI TCP Connection(2)-172.31.26.108] temp - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-06-06 22:42:36.568 [RMI TCP Connection(2)-172.31.26.108] temp - Montral Hashmap size :0
+[INFO ] 2019-06-06 22:42:36.569 [RMI TCP Connection(2)-172.31.26.108] temp - Event Type : S
+Event ID : MTLM100519
+Booking capacity 1
+[INFO ] 2019-06-06 22:42:36.569 [RMI TCP Connection(2)-172.31.26.108] temp - Montreal Server: Successfully Added
+[INFO ] 2019-06-06 22:42:36.571 [RMI TCP Connection(2)-172.31.26.108] temp -  Printing Hash Map Details
+[INFO ] 2019-06-06 22:42:36.572 [RMI TCP Connection(2)-172.31.26.108] temp - The event type is              :S
+[INFO ] 2019-06-06 22:42:36.572 [RMI TCP Connection(2)-172.31.26.108] temp - The event id                  :MTLM100519
+[INFO ] 2019-06-06 22:42:36.572 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking capacity   :1
+[INFO ] 2019-06-06 22:42:36.572 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat left   :1
+[INFO ] 2019-06-06 22:42:36.572 [RMI TCP Connection(2)-172.31.26.108] temp - Event booking seat booked :0
+[INFO ] 2019-06-06 22:42:39.527 [RMI TCP Connection(2)-172.31.26.108] temp - Request Type: Book Event
+[INFO ] 2019-06-06 22:42:39.527 [RMI TCP Connection(2)-172.31.26.108] temp - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-06-06 22:42:39.530 [RMI TCP Connection(2)-172.31.26.108] temp - Map Size is : 1
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-06-06 22:42:39.530 [RMI TCP Connection(2)-172.31.26.108] temp - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-06-06 22:42:39.531 [RMI TCP Connection(2)-172.31.26.108] temp - {MTLM100519=EventsData [capacityOfBooking=1, seatsFilled=1, seatsLeft=0, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-06-06 22:42:39.531 [RMI TCP Connection(2)-172.31.26.108] temp - Event booked Successfully in Montreal Location
+[INFO ] 2019-06-06 22:42:39.532 [RMI TCP Connection(2)-172.31.26.108] temp - Book event ends
+[INFO ] 2019-06-06 22:42:39.532 [RMI TCP Connection(3)-172.31.26.108] temp - Request Type: Book Event
+[INFO ] 2019-06-06 22:42:39.532 [RMI TCP Connection(3)-172.31.26.108] temp - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-06-06 22:42:39.532 [RMI TCP Connection(3)-172.31.26.108] temp - Map Size is : 1
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-06-06 22:42:39.532 [RMI TCP Connection(3)-172.31.26.108] temp - EventType :SEvent ID : MTLM100519does not have enough seats left
+[INFO ] 2019-06-06 22:42:39.532 [RMI TCP Connection(3)-172.31.26.108] temp - Book event ends
