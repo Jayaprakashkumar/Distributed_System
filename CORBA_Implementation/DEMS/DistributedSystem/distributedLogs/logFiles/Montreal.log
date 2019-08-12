@@ -1,0 +1,1792 @@
+[INFO ] 2019-07-07 21:20:29.610 [main] montreal - In montreal server is up
+[INFO ] 2019-07-07 21:50:30.504 [main] montreal - Montreal Server Start up failed: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+[INFO ] 2019-07-07 21:51:22.141 [main] montreal - In montreal server is up
+[INFO ] 2019-07-07 21:56:08.334 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-07 21:56:08.334 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-07 21:56:08.334 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-07 21:56:08.334 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 5
+[INFO ] 2019-07-07 21:56:08.334 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-07 21:56:08.343 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-07 21:56:08.344 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-07 21:56:08.344 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-07 21:56:08.344 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-07 21:56:08.344 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-07 21:56:08.344 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-07 21:56:20.095 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-07 21:56:20.100 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-07 21:56:20.102 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-07 21:56:20.102 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLA100519
+Booking capacity 10
+[INFO ] 2019-07-07 21:56:20.102 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-07 21:56:20.112 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-07 21:56:20.113 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-07 21:56:20.113 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-07 21:56:20.113 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-07 21:56:20.113 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-07 21:56:20.113 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-07 21:56:20.113 [p: default-threadpool; w: Idle] montreal - The event type is              :C
+[INFO ] 2019-07-07 21:56:20.113 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-07 21:56:20.113 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :10
+[INFO ] 2019-07-07 21:56:20.113 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :10
+[INFO ] 2019-07-07 21:56:20.113 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-07 21:56:53.275 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-07 21:56:53.277 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-07 21:56:53.278 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :2
+[INFO ] 2019-07-07 21:56:53.278 [p: default-threadpool; w: Idle] montreal - Event Type : T
+Event ID : MTLE100519
+Booking capacity 60
+[INFO ] 2019-07-07 21:56:53.278 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-07 21:56:53.283 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - The event type is              :C
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :10
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :10
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - The event type is              :T
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE100519
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :60
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :60
+[INFO ] 2019-07-07 21:56:53.284 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-07 21:59:56.783 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-07 21:59:56.785 [Thread-1] montreal - Request Type :bookEvent
+[INFO ] 2019-07-07 21:59:56.786 [Thread-1] montreal - Book Event: Inter server communication
+[INFO ] 2019-07-07 21:59:56.787 [Thread-1] montreal - Request Type: Book Event
+[INFO ] 2019-07-07 21:59:56.787 [Thread-1] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-07 21:59:56.787 [Thread-1] montreal - Map Size is : 3
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-07 21:59:56.787 [Thread-1] montreal - Customer:  customer ID  :OTWM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-07 21:59:56.787 [Thread-1] montreal - {MTLM100519=EventsData [capacityOfBooking=5, seatsFilled=1, seatsLeft=4, bookingCity=, registerdCustomer=[OTWM123456]]}
+[INFO ] 2019-07-07 21:59:56.787 [Thread-1] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-07 21:59:56.803 [Thread-1] montreal - Book event ends
+[INFO ] 2019-07-07 22:02:57.023 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-07 22:02:57.025 [Thread-1] montreal - Request Type :bookEvent
+[INFO ] 2019-07-07 22:02:57.026 [Thread-1] montreal - Book Event: Inter server communication
+[INFO ] 2019-07-07 22:02:57.027 [Thread-1] montreal - Request Type: Book Event
+[INFO ] 2019-07-07 22:02:57.027 [Thread-1] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-07 22:02:57.027 [Thread-1] montreal - Map Size is : 3
+city  eventId :MTLA100519
+city  eventId :MTLA100519
+[INFO ] 2019-07-07 22:02:57.027 [Thread-1] montreal - Customer:  customer ID  :OTWM123456
+ event type: C
+event ID : MTLA100519
+[INFO ] 2019-07-07 22:02:57.027 [Thread-1] montreal - {MTLA100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[OTWM123456]]}
+[INFO ] 2019-07-07 22:02:57.027 [Thread-1] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-07 22:02:57.027 [Thread-1] montreal - Book event ends
+[INFO ] 2019-07-07 22:07:04.598 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-07 22:07:04.600 [Thread-1] montreal - Request Type :bookEvent
+[INFO ] 2019-07-07 22:07:04.601 [Thread-1] montreal - Book Event: Inter server communication
+[INFO ] 2019-07-07 22:07:04.602 [Thread-1] montreal - Request Type: Book Event
+[INFO ] 2019-07-07 22:07:04.602 [Thread-1] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-07 22:07:04.602 [Thread-1] montreal - Map Size is : 3
+city  eventId :MTLE100519
+city  eventId :MTLE100519
+[INFO ] 2019-07-07 22:07:04.602 [Thread-1] montreal - Customer:  customer ID  :OTWM123456
+ event type: T
+event ID : MTLE100519
+[INFO ] 2019-07-07 22:07:04.602 [Thread-1] montreal - {MTLE100519=EventsData [capacityOfBooking=60, seatsFilled=1, seatsLeft=59, bookingCity=, registerdCustomer=[OTWM123456]]}
+[INFO ] 2019-07-07 22:07:04.602 [Thread-1] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-07 22:07:04.602 [Thread-1] montreal - Book event ends
+[INFO ] 2019-07-07 22:12:06.709 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 10:44:45.945 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 10:47:13.644 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 10:48:08.541 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 10:48:08.543 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 10:48:08.544 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 10:48:08.545 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 5
+[INFO ] 2019-07-08 10:48:08.546 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 10:48:08.550 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 10:48:08.551 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-08 10:48:08.552 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 10:48:08.553 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 10:48:08.554 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 10:48:08.555 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 10:48:35.721 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 10:48:35.726 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 10:48:35.727 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 10:48:35.728 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLA100519
+Booking capacity 10
+[INFO ] 2019-07-08 10:48:35.729 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 10:48:35.733 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 10:48:35.734 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-08 10:48:35.735 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 10:48:35.735 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 10:48:35.736 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 10:48:35.737 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 10:48:35.738 [p: default-threadpool; w: Idle] montreal - The event type is              :C
+[INFO ] 2019-07-08 10:48:35.739 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 10:48:35.740 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :10
+[INFO ] 2019-07-08 10:48:35.741 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :10
+[INFO ] 2019-07-08 10:48:35.741 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 10:48:55.057 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 10:48:55.058 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 10:48:55.059 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :2
+[INFO ] 2019-07-08 10:48:55.060 [p: default-threadpool; w: Idle] montreal - Event Type : T
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 10:48:55.061 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 10:48:55.064 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 10:48:55.065 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-08 10:48:55.066 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 10:48:55.067 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 10:48:55.068 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 10:48:55.069 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 10:48:55.070 [p: default-threadpool; w: Idle] montreal - The event type is              :C
+[INFO ] 2019-07-08 10:48:55.071 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 10:48:55.072 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :10
+[INFO ] 2019-07-08 10:48:55.072 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :10
+[INFO ] 2019-07-08 10:48:55.073 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 10:48:55.074 [p: default-threadpool; w: Idle] montreal - The event type is              :T
+[INFO ] 2019-07-08 10:48:55.075 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE100519
+[INFO ] 2019-07-08 10:48:55.076 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :10
+[INFO ] 2019-07-08 10:48:55.077 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :10
+[INFO ] 2019-07-08 10:48:55.078 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:00:15.881 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 11:00:15.882 [Thread-1] montreal - Request Type :bookEvent
+[INFO ] 2019-07-08 11:00:15.883 [Thread-1] montreal - Book Event: Inter server communication
+[INFO ] 2019-07-08 11:00:15.884 [Thread-1] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 11:00:15.885 [Thread-1] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 11:00:15.886 [Thread-1] montreal - Map Size is : 3
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 11:00:15.887 [Thread-1] montreal - Customer:  customer ID  :OTWM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 11:00:15.889 [Thread-1] montreal - {MTLM100519=EventsData [capacityOfBooking=5, seatsFilled=1, seatsLeft=4, bookingCity=, registerdCustomer=[OTWM123456]]}
+[INFO ] 2019-07-08 11:00:15.890 [Thread-1] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 11:00:15.912 [Thread-1] montreal - Book event ends
+[INFO ] 2019-07-08 11:08:07.405 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 11:08:20.239 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 11:08:20.240 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 11:08:20.241 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 11:08:20.242 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 5
+[INFO ] 2019-07-08 11:08:20.243 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 11:08:20.247 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 11:08:20.248 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-08 11:08:20.249 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 11:08:20.250 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 11:08:20.251 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 11:08:20.252 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:08:43.110 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 11:08:43.111 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 11:08:43.112 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 11:08:43.113 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLA100519
+Booking capacity 1
+[INFO ] 2019-07-08 11:08:43.113 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 11:08:43.118 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 11:08:43.119 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-08 11:08:43.120 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 11:08:43.121 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 11:08:43.122 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 11:08:43.123 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:08:43.123 [p: default-threadpool; w: Idle] montreal - The event type is              :C
+[INFO ] 2019-07-08 11:08:43.124 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 11:08:43.125 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :1
+[INFO ] 2019-07-08 11:08:43.126 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 11:08:43.127 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:08:57.174 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 11:08:57.175 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 11:08:57.176 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :2
+[INFO ] 2019-07-08 11:08:57.176 [p: default-threadpool; w: Idle] montreal - Event Type : T
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 11:08:57.177 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 11:08:57.181 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 11:08:57.182 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-08 11:08:57.183 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 11:08:57.184 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 11:08:57.185 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 11:08:57.185 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:08:57.186 [p: default-threadpool; w: Idle] montreal - The event type is              :C
+[INFO ] 2019-07-08 11:08:57.187 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 11:08:57.188 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :1
+[INFO ] 2019-07-08 11:08:57.189 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 11:08:57.190 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:08:57.191 [p: default-threadpool; w: Idle] montreal - The event type is              :T
+[INFO ] 2019-07-08 11:08:57.192 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE100519
+[INFO ] 2019-07-08 11:08:57.193 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :10
+[INFO ] 2019-07-08 11:08:57.194 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :10
+[INFO ] 2019-07-08 11:08:57.194 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:18:53.511 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 11:18:53.513 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 11:18:53.513 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :TORM100519
+city  eventId :TORM100519
+[INFO ] 2019-07-08 11:18:53.514 [p: default-threadpool; w: Idle] montreal -  Calling Tornoto Book Event from Montreal Server
+[INFO ] 2019-07-08 11:18:53.555 [p: default-threadpool; w: Idle] montreal - Request message received by the client is : t                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+[INFO ] 2019-07-08 11:18:53.556 [p: default-threadpool; w: Idle] montreal -  Oustide city count : null
+[INFO ] 2019-07-08 11:18:53.557 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 11:18:53.560 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 11:18:53.561 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-08 11:18:53.562 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 11:18:53.563 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 11:18:53.564 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 11:18:53.565 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:18:53.566 [p: default-threadpool; w: Idle] montreal - The event type is              :C
+[INFO ] 2019-07-08 11:18:53.566 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 11:18:53.567 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :1
+[INFO ] 2019-07-08 11:18:53.568 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 11:18:53.569 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:18:53.570 [p: default-threadpool; w: Idle] montreal - The event type is              :T
+[INFO ] 2019-07-08 11:18:53.571 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE100519
+[INFO ] 2019-07-08 11:18:53.571 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :10
+[INFO ] 2019-07-08 11:18:53.572 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :10
+[INFO ] 2019-07-08 11:18:53.573 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:21:45.623 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 11:21:45.624 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 11:21:45.625 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :TORA100519
+city  eventId :TORA100519
+[INFO ] 2019-07-08 11:21:45.626 [p: default-threadpool; w: Idle] montreal -  Calling Tornoto Book Event from Montreal Server
+[INFO ] 2019-07-08 11:21:45.636 [p: default-threadpool; w: Idle] montreal - Request message received by the client is : t                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+[INFO ] 2019-07-08 11:21:45.637 [p: default-threadpool; w: Idle] montreal -  Oustide city count : null
+[INFO ] 2019-07-08 11:21:45.638 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 11:21:45.641 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 11:21:45.642 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-08 11:21:45.643 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 11:21:45.644 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 11:21:45.645 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 11:21:45.646 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:21:45.646 [p: default-threadpool; w: Idle] montreal - The event type is              :C
+[INFO ] 2019-07-08 11:21:45.647 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 11:21:45.648 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :1
+[INFO ] 2019-07-08 11:21:45.649 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 11:21:45.650 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:21:45.651 [p: default-threadpool; w: Idle] montreal - The event type is              :T
+[INFO ] 2019-07-08 11:21:45.652 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE100519
+[INFO ] 2019-07-08 11:21:45.652 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :10
+[INFO ] 2019-07-08 11:21:45.653 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :10
+[INFO ] 2019-07-08 11:21:45.654 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:22:00.167 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 11:22:00.168 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 11:22:00.169 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :TORE100519
+city  eventId :TORE100519
+[INFO ] 2019-07-08 11:22:00.170 [p: default-threadpool; w: Idle] montreal -  Calling Tornoto Book Event from Montreal Server
+[INFO ] 2019-07-08 11:22:00.179 [p: default-threadpool; w: Idle] montreal - Request message received by the client is : t                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+[INFO ] 2019-07-08 11:22:00.180 [p: default-threadpool; w: Idle] montreal -  Oustide city count : null
+[INFO ] 2019-07-08 11:22:00.181 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 11:22:00.184 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 11:22:00.184 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-08 11:22:00.185 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 11:22:00.186 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 11:22:00.187 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 11:22:00.188 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:22:00.189 [p: default-threadpool; w: Idle] montreal - The event type is              :C
+[INFO ] 2019-07-08 11:22:00.190 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 11:22:00.190 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :1
+[INFO ] 2019-07-08 11:22:00.191 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 11:22:00.192 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:22:00.193 [p: default-threadpool; w: Idle] montreal - The event type is              :T
+[INFO ] 2019-07-08 11:22:00.194 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE100519
+[INFO ] 2019-07-08 11:22:00.195 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :10
+[INFO ] 2019-07-08 11:22:00.195 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :10
+[INFO ] 2019-07-08 11:22:00.196 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:22:20.159 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 11:22:20.160 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 11:22:20.161 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :OTWM100519
+city  eventId :OTWM100519
+[INFO ] 2019-07-08 11:22:20.161 [p: default-threadpool; w: Idle] montreal - Calling Ottawa Book Event from Montreal Location
+[INFO ] 2019-07-08 11:22:20.163 [p: default-threadpool; w: Idle] montreal - Request message sent from the client is : MTLM123456,OTWM100519,S,bookEvent
+[INFO ] 2019-07-08 11:22:20.187 [p: default-threadpool; w: Idle] montreal -  Oustide city count is : null
+[INFO ] 2019-07-08 11:22:20.188 [p: default-threadpool; w: Idle] montreal - success
+[INFO ] 2019-07-08 11:22:20.188 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 11:22:20.191 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 11:22:20.192 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-08 11:22:20.193 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 11:22:20.194 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 11:22:20.195 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 11:22:20.196 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:22:20.197 [p: default-threadpool; w: Idle] montreal - The event type is              :C
+[INFO ] 2019-07-08 11:22:20.197 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 11:22:20.198 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :1
+[INFO ] 2019-07-08 11:22:20.199 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 11:22:20.200 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:22:20.201 [p: default-threadpool; w: Idle] montreal - The event type is              :T
+[INFO ] 2019-07-08 11:22:20.202 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE100519
+[INFO ] 2019-07-08 11:22:20.203 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :10
+[INFO ] 2019-07-08 11:22:20.203 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :10
+[INFO ] 2019-07-08 11:22:20.204 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:51:01.773 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 11:51:29.553 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 11:51:29.554 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 11:51:29.555 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 11:51:29.556 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 5
+[INFO ] 2019-07-08 11:51:29.557 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 11:51:29.561 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 11:51:29.562 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-08 11:51:29.563 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 11:51:29.564 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 11:51:29.565 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 11:51:29.566 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:51:54.646 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 11:51:54.647 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 11:51:54.648 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 11:51:54.649 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLA100519
+Booking capacity 5
+[INFO ] 2019-07-08 11:51:54.650 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 11:51:54.654 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 11:51:54.655 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-08 11:51:54.656 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 11:51:54.657 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 11:51:54.657 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 11:51:54.658 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:51:54.659 [p: default-threadpool; w: Idle] montreal - The event type is              :C
+[INFO ] 2019-07-08 11:51:54.660 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 11:51:54.661 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 11:51:54.662 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 11:51:54.663 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:52:55.974 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 11:52:55.975 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 11:52:55.976 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :2
+[INFO ] 2019-07-08 11:52:55.977 [p: default-threadpool; w: Idle] montreal - Event Type : T
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 11:52:55.978 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 11:52:55.982 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 11:52:55.982 [p: default-threadpool; w: Idle] montreal - The event type is              :S
+[INFO ] 2019-07-08 11:52:55.983 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 11:52:55.984 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 11:52:55.985 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 11:52:55.986 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:52:55.987 [p: default-threadpool; w: Idle] montreal - The event type is              :C
+[INFO ] 2019-07-08 11:52:55.988 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 11:52:55.989 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 11:52:55.990 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 11:52:55.990 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 11:52:55.991 [p: default-threadpool; w: Idle] montreal - The event type is              :T
+[INFO ] 2019-07-08 11:52:55.992 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE100519
+[INFO ] 2019-07-08 11:52:55.993 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :10
+[INFO ] 2019-07-08 11:52:55.994 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :10
+[INFO ] 2019-07-08 11:52:55.995 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 12:01:02.406 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 12:01:02.407 [Thread-1] montreal - Request Type :bookEvent
+[INFO ] 2019-07-08 12:01:02.408 [Thread-1] montreal - Book Event: Inter server communication
+[INFO ] 2019-07-08 12:01:02.409 [Thread-1] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 12:01:02.410 [Thread-1] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 12:01:02.411 [Thread-1] montreal - Map Size is : 3
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 12:01:02.412 [Thread-1] montreal - Customer:  customer ID  :OTWM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 12:01:02.414 [Thread-1] montreal - {MTLM100519=EventsData [capacityOfBooking=5, seatsFilled=1, seatsLeft=4, bookingCity=, registerdCustomer=[OTWM123456]]}
+[INFO ] 2019-07-08 12:01:02.415 [Thread-1] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 12:01:02.433 [Thread-1] montreal - Book event ends
+[INFO ] 2019-07-08 12:05:23.142 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 12:05:46.888 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 12:05:46.889 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 12:05:46.890 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 12:05:46.891 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 5
+[INFO ] 2019-07-08 12:05:46.892 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 12:05:46.896 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 12:05:46.897 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 12:05:46.898 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 12:05:46.899 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 12:05:46.900 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 12:05:46.900 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 12:05:59.034 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 12:05:59.035 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 12:05:59.036 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 12:05:59.037 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLA100519
+Booking capacity 5
+[INFO ] 2019-07-08 12:05:59.038 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 12:05:59.042 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 12:05:59.043 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 12:05:59.044 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 12:05:59.045 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 12:05:59.045 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 12:05:59.046 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 12:05:59.047 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 12:05:59.048 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 12:05:59.049 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 12:05:59.050 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 12:05:59.051 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 12:06:18.025 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 12:06:18.026 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 12:06:18.027 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :2
+[INFO ] 2019-07-08 12:06:18.028 [p: default-threadpool; w: Idle] montreal - Event Type : T
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 12:06:18.029 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 12:06:18.033 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 12:06:18.034 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 12:06:18.034 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 12:06:18.035 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 12:06:18.036 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 12:06:18.037 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 12:06:18.038 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 12:06:18.039 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 12:06:18.040 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 12:06:18.041 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 12:06:18.041 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 12:06:18.042 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 12:06:18.043 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE100519
+[INFO ] 2019-07-08 12:06:18.044 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :10
+[INFO ] 2019-07-08 12:06:18.045 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :10
+[INFO ] 2019-07-08 12:06:18.046 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 12:09:57.847 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 12:09:57.848 [Thread-1] montreal - Request Type :bookEvent
+[INFO ] 2019-07-08 12:09:57.849 [Thread-1] montreal - Book Event: Inter server communication
+[INFO ] 2019-07-08 12:09:57.850 [Thread-1] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 12:09:57.851 [Thread-1] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 12:09:57.852 [Thread-1] montreal - Map Size is : 3
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 12:09:57.853 [Thread-1] montreal - Customer:  customer ID  :TORM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 12:09:57.855 [Thread-1] montreal - {MTLM100519=EventsData [capacityOfBooking=5, seatsFilled=1, seatsLeft=4, bookingCity=, registerdCustomer=[TORM123456]]}
+[INFO ] 2019-07-08 12:09:57.856 [Thread-1] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 12:09:57.874 [Thread-1] montreal - Book event ends
+[INFO ] 2019-07-08 12:12:28.855 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 12:12:28.856 [Thread-1] montreal - Request Type :bookEvent
+[INFO ] 2019-07-08 12:12:28.857 [Thread-1] montreal - Book Event: Inter server communication
+[INFO ] 2019-07-08 12:12:28.858 [Thread-1] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 12:12:28.859 [Thread-1] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 12:12:28.860 [Thread-1] montreal - Map Size is : 3
+city  eventId :MTLA100519
+city  eventId :MTLA100519
+[INFO ] 2019-07-08 12:12:28.861 [Thread-1] montreal - Customer:  customer ID  :TORM123456
+ event type: C
+event ID : MTLA100519
+[INFO ] 2019-07-08 12:12:28.861 [Thread-1] montreal - {MTLA100519=EventsData [capacityOfBooking=5, seatsFilled=1, seatsLeft=4, bookingCity=, registerdCustomer=[TORM123456]]}
+[INFO ] 2019-07-08 12:12:28.862 [Thread-1] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 12:12:28.863 [Thread-1] montreal - Book event ends
+[INFO ] 2019-07-08 12:12:39.911 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 12:12:39.911 [Thread-1] montreal - Request Type :bookEvent
+[INFO ] 2019-07-08 12:12:39.912 [Thread-1] montreal - Book Event: Inter server communication
+[INFO ] 2019-07-08 12:12:39.913 [Thread-1] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 12:12:39.914 [Thread-1] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 12:12:39.915 [Thread-1] montreal - Map Size is : 3
+city  eventId :MTLE100519
+city  eventId :MTLE100519
+[INFO ] 2019-07-08 12:12:39.916 [Thread-1] montreal - Customer:  customer ID  :TORM123456
+ event type: T
+event ID : MTLE100519
+[INFO ] 2019-07-08 12:12:39.916 [Thread-1] montreal - {MTLE100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[TORM123456]]}
+[INFO ] 2019-07-08 12:12:39.917 [Thread-1] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 12:12:39.918 [Thread-1] montreal - Book event ends
+[INFO ] 2019-07-08 12:15:12.423 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 12:15:12.424 [Thread-1] montreal - Request Type :cancelEvent
+[INFO ] 2019-07-08 12:15:12.425 [Thread-1] montreal - Cancel Event : Inter server Communication
+[INFO ] 2019-07-08 12:15:12.426 [Thread-1] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 12:15:12.427 [Thread-1] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 12:15:12.428 [Thread-1] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 12:15:12.429 [Thread-1] montreal - Customer with customer ID : TORM123456cancelled the event with ID : MTLM100519
+[INFO ] 2019-07-08 12:15:12.429 [Thread-1] montreal - Successfully cancelled the event
+[INFO ] 2019-07-08 12:15:12.430 [Thread-1] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 12:15:12.431 [Thread-1] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 12:15:12.432 [Thread-1] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 12:15:24.035 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 12:15:24.036 [Thread-1] montreal - Request Type :getBooking
+[INFO ] 2019-07-08 12:15:24.037 [Thread-1] montreal - Get bookin Schedule: Inter server communication
+[INFO ] 2019-07-08 12:17:22.328 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 12:17:22.328 [Thread-1] montreal - Request Type :cancelEvent
+[INFO ] 2019-07-08 12:17:22.329 [Thread-1] montreal - Cancel Event : Inter server Communication
+[INFO ] 2019-07-08 12:17:22.330 [Thread-1] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 12:17:22.331 [Thread-1] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 12:17:22.332 [Thread-1] montreal - The event id                  :MTLE100519
+[INFO ] 2019-07-08 12:17:22.333 [Thread-1] montreal - Customer with customer ID : TORM123456cancelled the event with ID : MTLE100519
+[INFO ] 2019-07-08 12:17:22.334 [Thread-1] montreal - Successfully cancelled the event
+[INFO ] 2019-07-08 12:17:22.334 [Thread-1] montreal - Event booking capacity   :10
+[INFO ] 2019-07-08 12:17:22.335 [Thread-1] montreal - Event booking seat left   :10
+[INFO ] 2019-07-08 12:17:22.336 [Thread-1] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 12:17:28.914 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 12:17:28.915 [Thread-1] montreal - Request Type :getBooking
+[INFO ] 2019-07-08 12:17:28.916 [Thread-1] montreal - Get bookin Schedule: Inter server communication
+[INFO ] 2019-07-08 12:17:50.489 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 12:17:50.490 [Thread-1] montreal - Request Type :getBooking
+[INFO ] 2019-07-08 12:17:50.490 [Thread-1] montreal - Get bookin Schedule: Inter server communication
+[INFO ] 2019-07-08 12:19:12.898 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 12:19:12.899 [Thread-1] montreal - Request Type :listEventAvailability
+[INFO ] 2019-07-08 12:19:12.900 [Thread-1] montreal - List event Avaialability: Inter server communication
+[INFO ] 2019-07-08 12:19:12.901 [Thread-1] montreal - Event id is                  :MTLM100519
+[INFO ] 2019-07-08 12:19:12.902 [Thread-1] montreal - Event booking capacity is   :5
+[INFO ] 2019-07-08 12:19:12.903 [Thread-1] montreal - Event booking seat left is   :5
+[INFO ] 2019-07-08 12:19:12.904 [Thread-1] montreal - Event booking seat booked is :5
+[INFO ] 2019-07-08 12:19:30.416 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 12:19:30.417 [Thread-1] montreal - Request Type :listEventAvailability
+[INFO ] 2019-07-08 12:19:30.418 [Thread-1] montreal - List event Avaialability: Inter server communication
+[INFO ] 2019-07-08 12:19:30.419 [Thread-1] montreal - Event id is                  :MTLA100519
+[INFO ] 2019-07-08 12:19:30.420 [Thread-1] montreal - Event booking capacity is   :5
+[INFO ] 2019-07-08 12:19:30.421 [Thread-1] montreal - Event booking seat left is   :4
+[INFO ] 2019-07-08 12:19:30.421 [Thread-1] montreal - Event booking seat booked is :4
+[INFO ] 2019-07-08 12:19:40.601 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 12:19:40.603 [Thread-1] montreal - Request Type :listEventAvailability
+[INFO ] 2019-07-08 12:19:40.604 [Thread-1] montreal - List event Avaialability: Inter server communication
+[INFO ] 2019-07-08 12:19:40.605 [Thread-1] montreal - Event id is                  :MTLE100519
+[INFO ] 2019-07-08 12:19:40.605 [Thread-1] montreal - Event booking capacity is   :10
+[INFO ] 2019-07-08 12:19:40.606 [Thread-1] montreal - Event booking seat left is   :10
+[INFO ] 2019-07-08 12:19:40.607 [Thread-1] montreal - Event booking seat booked is :10
+[INFO ] 2019-07-08 12:46:52.368 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 14:31:53.262 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 14:37:13.134 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 14:37:13.135 [Thread-1] montreal - Request Type :getBooking
+[INFO ] 2019-07-08 14:37:13.137 [Thread-1] montreal - Get booking Schedule: Inter server communication
+[INFO ] 2019-07-08 14:37:13.138 [Thread-1] montreal - no registered customers
+[INFO ] 2019-07-08 14:48:37.198 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 14:48:37.199 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 14:48:37.200 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 14:48:37.201 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM110519
+Booking capacity 3
+[INFO ] 2019-07-08 14:48:37.205 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 14:48:37.209 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 14:48:37.210 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 14:48:37.211 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 14:48:37.212 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:48:37.213 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :3
+[INFO ] 2019-07-08 14:48:37.214 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 14:48:49.494 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 14:48:49.495 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 14:48:49.496 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 14:48:49.497 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLA110519
+Booking capacity 6
+[INFO ] 2019-07-08 14:48:49.498 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 14:48:49.502 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 14:48:49.503 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 14:48:49.504 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 14:48:49.504 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:48:49.505 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :3
+[INFO ] 2019-07-08 14:48:49.506 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 14:48:49.507 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 14:48:49.508 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 14:48:49.509 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :6
+[INFO ] 2019-07-08 14:48:49.510 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :6
+[INFO ] 2019-07-08 14:48:49.510 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 14:49:41.649 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 14:49:41.651 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 14:49:41.652 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :2
+[INFO ] 2019-07-08 14:49:41.652 [p: default-threadpool; w: Idle] montreal - Event Type : T
+Event ID : MTLE110519
+Booking capacity 3
+[INFO ] 2019-07-08 14:49:41.653 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 14:49:41.657 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 14:49:41.658 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 14:49:41.659 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 14:49:41.660 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:49:41.661 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :3
+[INFO ] 2019-07-08 14:49:41.662 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 14:49:41.662 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 14:49:41.663 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 14:49:41.664 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :6
+[INFO ] 2019-07-08 14:49:41.665 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :6
+[INFO ] 2019-07-08 14:49:41.666 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 14:49:41.667 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 14:49:41.668 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 14:49:41.668 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:49:41.669 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :3
+[INFO ] 2019-07-08 14:49:41.670 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 14:50:41.587 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 14:50:41.589 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 14:50:41.589 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :MTLM110519
+city  eventId :MTLM110519
+[INFO ] 2019-07-08 14:50:41.590 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLC123456
+ event type: S
+event ID : MTLM110519
+[INFO ] 2019-07-08 14:50:41.593 [p: default-threadpool; w: Idle] montreal - {MTLM110519=EventsData [capacityOfBooking=3, seatsFilled=1, seatsLeft=2, bookingCity=, registerdCustomer=[MTLC123456]]}
+[INFO ] 2019-07-08 14:50:41.594 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 14:50:41.607 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 14:50:41.610 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 14:50:41.611 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 14:50:41.612 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 14:50:41.613 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:50:41.614 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 14:50:41.615 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 14:50:41.616 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 14:50:41.617 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 14:50:41.617 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :6
+[INFO ] 2019-07-08 14:50:41.618 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :6
+[INFO ] 2019-07-08 14:50:41.619 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 14:50:41.620 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 14:50:41.621 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 14:50:41.622 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:50:41.622 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :3
+[INFO ] 2019-07-08 14:50:41.623 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 14:50:58.650 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 14:50:58.651 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 14:50:58.652 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :MTLA110519
+city  eventId :MTLA110519
+[INFO ] 2019-07-08 14:50:58.653 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLC123456
+ event type: C
+event ID : MTLA110519
+[INFO ] 2019-07-08 14:50:58.654 [p: default-threadpool; w: Idle] montreal - {MTLA110519=EventsData [capacityOfBooking=6, seatsFilled=1, seatsLeft=5, bookingCity=, registerdCustomer=[MTLC123456]]}
+[INFO ] 2019-07-08 14:50:58.655 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 14:50:58.656 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 14:50:58.660 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 14:50:58.660 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 14:50:58.661 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 14:50:58.662 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:50:58.663 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 14:50:58.665 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 14:50:58.666 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 14:50:58.666 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 14:50:58.667 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :6
+[INFO ] 2019-07-08 14:50:58.668 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 14:50:58.669 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 14:50:58.670 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 14:50:58.670 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 14:50:58.671 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:50:58.672 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :3
+[INFO ] 2019-07-08 14:50:58.673 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 14:51:23.267 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 14:51:23.268 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 14:51:23.269 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :OTWM120319
+city  eventId :OTWM120319
+[INFO ] 2019-07-08 14:51:23.270 [p: default-threadpool; w: Idle] montreal - Calling Ottawa Book Event from Montreal Location
+[INFO ] 2019-07-08 14:51:23.272 [p: default-threadpool; w: Idle] montreal - Request message sent from the client is : MTLC123456,OTWM120319,C,bookEvent
+[INFO ] 2019-07-08 14:51:23.281 [p: default-threadpool; w: Idle] montreal -  Oustide city count is : 1
+[INFO ] 2019-07-08 14:51:23.282 [p: default-threadpool; w: Idle] montreal - success
+[INFO ] 2019-07-08 14:51:23.283 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 14:51:23.286 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 14:51:23.287 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 14:51:23.288 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 14:51:23.289 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:51:23.289 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 14:51:23.290 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 14:51:23.291 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 14:51:23.292 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 14:51:23.293 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :6
+[INFO ] 2019-07-08 14:51:23.293 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 14:51:23.294 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 14:51:23.295 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 14:51:23.296 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 14:51:23.297 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:51:23.297 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :3
+[INFO ] 2019-07-08 14:51:23.298 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 14:53:09.222 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 14:53:09.223 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 14:53:09.224 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :OTWA120319
+city  eventId :OTWA120319
+[INFO ] 2019-07-08 14:53:09.225 [p: default-threadpool; w: Idle] montreal - Calling Ottawa Book Event from Montreal Location
+[INFO ] 2019-07-08 14:53:09.227 [p: default-threadpool; w: Idle] montreal - Request message sent from the client is : MTLC123456,OTWA120319,T,bookEvent
+[INFO ] 2019-07-08 14:53:09.235 [p: default-threadpool; w: Idle] montreal -  Oustide city count is : 2
+[INFO ] 2019-07-08 14:53:09.236 [p: default-threadpool; w: Idle] montreal - success
+[INFO ] 2019-07-08 14:53:09.237 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 14:53:09.240 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 14:53:09.241 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 14:53:09.242 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 14:53:09.243 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:53:09.244 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 14:53:09.245 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 14:53:09.245 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 14:53:09.246 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 14:53:09.247 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :6
+[INFO ] 2019-07-08 14:53:09.248 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 14:53:09.249 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 14:53:09.250 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 14:53:09.250 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 14:53:09.251 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:53:09.252 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :3
+[INFO ] 2019-07-08 14:53:09.253 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 14:53:27.350 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 14:53:27.351 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 14:53:27.353 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :OTWE110319
+city  eventId :OTWE110319
+[INFO ] 2019-07-08 14:53:27.353 [p: default-threadpool; w: Idle] montreal - Calling Ottawa Book Event from Montreal Location
+[INFO ] 2019-07-08 14:53:27.355 [p: default-threadpool; w: Idle] montreal - Request message sent from the client is : MTLC123456,OTWE110319,T,bookEvent
+[INFO ] 2019-07-08 14:53:27.365 [p: default-threadpool; w: Idle] montreal -  Oustide city count is : 3
+[INFO ] 2019-07-08 14:53:27.365 [p: default-threadpool; w: Idle] montreal - success
+[INFO ] 2019-07-08 14:53:27.366 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 14:53:27.370 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 14:53:27.371 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 14:53:27.371 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 14:53:27.372 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:53:27.373 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 14:53:27.374 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 14:53:27.375 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 14:53:27.376 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 14:53:27.377 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :6
+[INFO ] 2019-07-08 14:53:27.377 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 14:53:27.378 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 14:53:27.379 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 14:53:27.380 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 14:53:27.381 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :3
+[INFO ] 2019-07-08 14:53:27.382 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :3
+[INFO ] 2019-07-08 14:53:27.382 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 15:11:24.141 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 15:11:24.142 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 15:11:24.143 [p: default-threadpool; w: Idle] montreal -  Calling Ottawa Book Event from Montreal Server
+[INFO ] 2019-07-08 15:11:24.145 [p: default-threadpool; w: Idle] montreal - Request message sent : MTLC123456,OTWA120319,cancelEvent
+[INFO ] 2019-07-08 15:11:24.157 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 15:11:24.158 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 15:11:24.159 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :TORA120419
+city  eventId :TORA120419
+[INFO ] 2019-07-08 15:11:24.160 [p: default-threadpool; w: Idle] montreal -  Calling Tornoto Book Event from Montreal Server
+[INFO ] 2019-07-08 15:11:24.167 [p: default-threadpool; w: Idle] montreal - Request message received by the client is : f                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+[INFO ] 2019-07-08 15:11:24.169 [p: default-threadpool; w: Idle] montreal -  Oustide city count is : 1
+[INFO ] 2019-07-08 15:11:24.169 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 15:11:24.170 [p: default-threadpool; w: Idle] montreal - Event is couldn't able to swapped
+[INFO ] 2019-07-08 15:27:12.560 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 15:27:33.451 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 15:27:33.452 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 15:27:33.453 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 15:27:33.454 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 5
+[INFO ] 2019-07-08 15:27:33.455 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 15:27:33.459 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 15:27:33.460 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 15:27:33.461 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 15:27:33.462 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 15:27:33.463 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 15:27:33.464 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 15:27:44.245 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 15:27:44.246 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 15:27:44.248 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 15:27:44.249 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLA100519
+Booking capacity 2
+[INFO ] 2019-07-08 15:27:44.250 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 15:27:44.254 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 15:27:44.255 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 15:27:44.256 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 15:27:44.257 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 15:27:44.258 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 15:27:44.259 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 15:27:44.260 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 15:27:44.261 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 15:27:44.261 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 15:27:44.262 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 15:27:44.263 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 15:27:53.309 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 15:27:53.310 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 15:27:53.311 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :2
+[INFO ] 2019-07-08 15:27:53.312 [p: default-threadpool; w: Idle] montreal - Event Type : T
+Event ID : MTLE100519
+Booking capacity 6
+[INFO ] 2019-07-08 15:27:53.313 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 15:27:53.316 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 15:27:53.317 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 15:27:53.318 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 15:27:53.319 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 15:27:53.320 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 15:27:53.321 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 15:27:53.321 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 15:27:53.322 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA100519
+[INFO ] 2019-07-08 15:27:53.323 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 15:27:53.324 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 15:27:53.325 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 15:27:53.326 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 15:27:53.326 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE100519
+[INFO ] 2019-07-08 15:27:53.327 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :6
+[INFO ] 2019-07-08 15:27:53.328 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :6
+[INFO ] 2019-07-08 15:27:53.329 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 15:32:04.060 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 15:32:04.062 [Thread-1] montreal - Request Type :getBooking
+[INFO ] 2019-07-08 15:32:04.063 [Thread-1] montreal - Get booking Schedule: Inter server communication
+[INFO ] 2019-07-08 15:32:04.063 [Thread-1] montreal - no registered customers
+[INFO ] 2019-07-08 15:35:15.601 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 15:35:15.602 [Thread-1] montreal - Request Type :getBooking
+[INFO ] 2019-07-08 15:35:15.603 [Thread-1] montreal - Get booking Schedule: Inter server communication
+[INFO ] 2019-07-08 15:35:15.604 [Thread-1] montreal - no registered customers
+[INFO ] 2019-07-08 15:40:12.240 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 15:40:12.241 [Thread-1] montreal - Request Type :bookEvent
+[INFO ] 2019-07-08 15:40:12.241 [Thread-1] montreal - Book Event: Inter server communication
+[INFO ] 2019-07-08 15:40:12.242 [Thread-1] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 15:40:12.243 [Thread-1] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 15:40:12.244 [Thread-1] montreal - Map Size is : 3
+city  eventId :MTLA100519
+city  eventId :MTLA100519
+[INFO ] 2019-07-08 15:40:12.245 [Thread-1] montreal - Customer:  customer ID  :OTWC123456
+ event type: C
+event ID : MTLA100519
+[INFO ] 2019-07-08 15:40:12.248 [Thread-1] montreal - {MTLA100519=EventsData [capacityOfBooking=2, seatsFilled=1, seatsLeft=1, bookingCity=, registerdCustomer=[OTWC123456]]}
+[INFO ] 2019-07-08 15:40:12.248 [Thread-1] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 15:40:12.264 [Thread-1] montreal - Book event ends
+[INFO ] 2019-07-08 15:40:37.583 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 15:40:37.584 [Thread-1] montreal - Request Type :getBooking
+[INFO ] 2019-07-08 15:40:37.585 [Thread-1] montreal - Get booking Schedule: Inter server communication
+[INFO ] 2019-07-08 16:00:29.059 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 16:00:29.061 [Thread-1] montreal - Request Type :getBooking
+[INFO ] 2019-07-08 16:00:29.062 [Thread-1] montreal - Get booking Schedule: Inter server communication
+[INFO ] 2019-07-08 16:54:30.663 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 16:55:33.236 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 16:55:33.237 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 16:55:33.238 [p: default-threadpool; w: Idle] montreal - Map Size is : 0
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 16:55:33.239 [p: default-threadpool; w: Idle] montreal - EventType :S does not exist
+[INFO ] 2019-07-08 16:55:33.240 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 16:55:33.240 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 16:55:33.241 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 16:55:33.242 [p: default-threadpool; w: Idle] montreal - Map Size is : 0
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 16:55:33.243 [p: default-threadpool; w: Idle] montreal - EventType :S does not exist
+[INFO ] 2019-07-08 16:55:33.244 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:00:24.749 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 17:00:40.046 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:00:40.047 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:00:40.048 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 17:00:40.049 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:00:40.050 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:00:40.051 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 17:00:40.052 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:00:40.053 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:00:40.057 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:00:40.058 [p: default-threadpool; w: Idle] montreal - Map Size is : 1
+city  eventId :MTLE100519
+city  eventId :MTLE100519
+[INFO ] 2019-07-08 17:00:40.059 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: C
+event ID : MTLE100519
+[INFO ] 2019-07-08 17:00:40.061 [p: default-threadpool; w: Idle] montreal - {MTLE100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:00:40.062 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:00:40.074 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:00:40.075 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:00:40.077 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:00:40.078 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 17:00:40.079 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:00:40.079 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:00:40.082 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:00:40.082 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:00:40.083 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:00:40.084 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:00:40.086 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:00:40.087 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:00:40.088 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:01:21.576 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 17:01:36.051 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:01:36.052 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:01:36.053 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 17:01:36.054 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:01:36.055 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:01:36.055 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 17:01:36.057 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:01:36.058 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:01:36.059 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:01:36.059 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 17:01:36.060 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:01:36.061 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:01:36.062 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:01:36.063 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:01:36.064 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLE100519
+city  eventId :MTLE100519
+[INFO ] 2019-07-08 17:01:36.065 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: C
+event ID : MTLE100519
+[INFO ] 2019-07-08 17:01:36.067 [p: default-threadpool; w: Idle] montreal - {MTLE100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:01:36.068 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:01:36.075 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:01:36.075 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:01:36.076 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:01:36.077 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:01:36.078 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:01:36.079 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:01:36.080 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:01:36.081 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:04:33.512 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 17:04:50.635 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:04:50.636 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:04:50.637 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 17:04:50.638 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:04:50.638 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:04:50.639 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 17:04:50.641 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:04:50.641 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:04:50.643 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:04:50.643 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 17:04:50.644 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:04:50.645 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:04:50.646 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:04:50.647 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:04:50.648 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:04:50.649 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:04:50.651 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:04:50.652 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:04:50.658 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:04:50.659 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:04:50.660 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:04:50.660 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLE100519
+city  eventId :MTLE100519
+[INFO ] 2019-07-08 17:04:50.661 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: C
+event ID : MTLE100519
+[INFO ] 2019-07-08 17:04:50.662 [p: default-threadpool; w: Idle] montreal - {MTLE100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:04:50.663 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:04:50.664 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:07:23.771 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 17:07:38.976 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 17:07:38.977 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:07:38.981 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:07:38.982 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:07:38.983 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 17:07:38.984 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:07:38.988 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:07:38.989 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:07:38.990 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:07:38.991 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 17:07:38.992 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:07:38.993 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:07:38.994 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:07:38.995 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:07:38.996 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLE100519
+city  eventId :MTLE100519
+[INFO ] 2019-07-08 17:07:38.997 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: C
+event ID : MTLE100519
+[INFO ] 2019-07-08 17:07:38.999 [p: default-threadpool; w: Idle] montreal - {MTLE100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:07:39.000 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:07:39.006 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:07:39.007 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:07:39.008 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:07:39.009 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:07:39.010 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:07:39.011 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:07:39.012 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:07:39.013 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:10:46.134 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 17:11:07.749 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 17:11:07.750 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:11:07.754 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:11:07.755 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:11:07.756 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 17:11:07.757 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:11:07.758 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:11:07.761 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:11:07.762 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:11:07.763 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 17:11:07.764 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:11:07.765 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:11:07.766 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:11:07.767 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:11:07.768 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:11:07.769 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:11:07.771 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:11:07.772 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:11:07.778 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:11:07.779 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:11:07.780 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:11:07.781 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLE100519
+city  eventId :MTLE100519
+[INFO ] 2019-07-08 17:11:07.782 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: C
+event ID : MTLE100519
+[INFO ] 2019-07-08 17:11:07.782 [p: default-threadpool; w: Idle] montreal - {MTLE100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:11:07.783 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:11:07.784 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:17:51.299 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 17:18:23.366 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 17:18:23.367 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:18:23.398 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:18:23.399 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:18:23.403 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 17:18:23.404 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:18:23.405 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:18:23.406 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:18:23.407 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:18:23.408 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 17:18:23.409 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:18:23.409 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:18:23.410 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:18:23.412 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:18:23.412 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLE100519
+city  eventId :MTLE100519
+[INFO ] 2019-07-08 17:18:23.413 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: C
+event ID : MTLE100519
+[INFO ] 2019-07-08 17:18:23.416 [p: default-threadpool; w: Idle] montreal - {MTLE100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:18:23.417 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:18:23.431 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:18:23.432 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:18:23.433 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:18:23.433 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:18:23.434 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:18:23.436 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:18:23.436 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:18:23.437 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:32:15.557 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 17:32:43.157 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 17:32:43.158 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:32:43.163 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:32:43.164 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:32:43.165 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 17:32:43.166 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:32:43.167 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:32:43.168 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:32:43.169 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:32:43.170 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 17:32:43.171 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:32:43.172 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:32:43.173 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:32:43.174 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:32:43.175 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLE100519
+city  eventId :MTLE100519
+[INFO ] 2019-07-08 17:32:43.176 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: C
+event ID : MTLE100519
+[INFO ] 2019-07-08 17:32:43.179 [p: default-threadpool; w: Idle] montreal - {MTLE100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:32:43.179 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:32:43.186 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:32:43.187 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:32:43.187 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:32:43.188 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:32:43.189 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:32:43.190 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:32:43.191 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:32:43.193 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:34:29.826 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 17:34:48.609 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:34:48.610 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:34:48.611 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 17:34:48.612 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:34:48.612 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:36:25.706 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:36:25.707 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:36:25.707 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 17:36:25.708 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:36:25.709 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:36:25.711 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:36:25.712 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:36:25.716 [p: default-threadpool; w: Idle] montreal - Map Size is : 1
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:36:25.719 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:36:25.721 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:36:25.722 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:36:25.728 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:39:13.407 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 17:39:29.216 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:39:29.217 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:39:29.218 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 17:39:29.219 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:39:29.220 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:39:29.221 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:39:29.222 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:39:29.223 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 17:39:29.224 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:39:29.225 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:39:29.226 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:39:29.227 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:39:29.228 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:39:29.229 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:39:29.231 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:39:29.232 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:39:29.238 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:39:29.239 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:39:29.240 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:39:29.241 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLE100519
+city  eventId :MTLE100519
+[INFO ] 2019-07-08 17:39:29.242 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: C
+event ID : MTLE100519
+[INFO ] 2019-07-08 17:39:29.243 [p: default-threadpool; w: Idle] montreal - {MTLE100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:39:29.245 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:39:29.245 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:39:53.117 [p: default-threadpool; w: Idle] montreal - Request Type: List Event Availability
+[INFO ] 2019-07-08 17:39:53.119 [p: default-threadpool; w: Idle] montreal - Request Parameter: Event Type
+[INFO ] 2019-07-08 17:39:53.123 [Thread-3] montreal - Reuqest Type for server to server communication is :listEventAvailability
+[INFO ] 2019-07-08 17:39:53.130 [Thread-4] montreal - Message is : S,listEventAvailability
+[INFO ] 2019-07-08 17:39:53.131 [Thread-4] montreal - Request message sent from the client is : S,listEventAvailability
+[INFO ] 2019-07-08 17:39:53.136 [p: default-threadpool; w: Idle] montreal - Event id is                  :MTLM100519
+[INFO ] 2019-07-08 17:39:53.137 [p: default-threadpool; w: Idle] montreal - Event booking capacity is   :10
+[INFO ] 2019-07-08 17:39:53.138 [p: default-threadpool; w: Idle] montreal - Event booking seat left is   :9
+[INFO ] 2019-07-08 17:39:53.139 [p: default-threadpool; w: Idle] montreal - Event booking seat booked is :9
+[INFO ] 2019-07-08 17:39:53.140 [p: default-threadpool; w: Idle] montreal -  The List of event for Event Type : S: MTLM100519 9,
+[INFO ] 2019-07-08 17:40:21.054 [p: default-threadpool; w: Idle] montreal - Request Type: List Event Availability
+[INFO ] 2019-07-08 17:40:21.055 [p: default-threadpool; w: Idle] montreal - Request Parameter: Event Type
+[INFO ] 2019-07-08 17:40:21.056 [Thread-5] montreal - Reuqest Type for server to server communication is :listEventAvailability
+[INFO ] 2019-07-08 17:40:21.069 [Thread-6] montreal - Message is : C,listEventAvailability
+[INFO ] 2019-07-08 17:40:21.070 [Thread-6] montreal - Request message sent from the client is : C,listEventAvailability
+[INFO ] 2019-07-08 17:40:21.075 [p: default-threadpool; w: Idle] montreal - Event id is                  :MTLE100519
+[INFO ] 2019-07-08 17:40:21.076 [p: default-threadpool; w: Idle] montreal - Event booking capacity is   :10
+[INFO ] 2019-07-08 17:40:21.077 [p: default-threadpool; w: Idle] montreal - Event booking seat left is   :9
+[INFO ] 2019-07-08 17:40:21.077 [p: default-threadpool; w: Idle] montreal - Event booking seat booked is :9
+[INFO ] 2019-07-08 17:40:21.078 [p: default-threadpool; w: Idle] montreal -  The List of event for Event Type : C: MTLE100519 9,
+[INFO ] 2019-07-08 17:41:22.041 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:41:22.042 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:41:22.043 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :2
+[INFO ] 2019-07-08 17:41:22.044 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:41:22.045 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:41:22.046 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:41:22.047 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:41:22.048 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :2
+[INFO ] 2019-07-08 17:41:22.048 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLM100519
+Booking capacity 5
+[INFO ] 2019-07-08 17:41:22.049 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:41:22.050 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:41:22.051 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:41:22.052 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:41:22.053 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:41:22.054 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:41:22.055 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:41:22.056 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:41:22.056 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:41:22.057 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:41:22.058 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:41:22.059 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: C
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:41:22.060 [p: default-threadpool; w: Idle] montreal - {MTLE100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]], MTLM100519=EventsData [capacityOfBooking=5, seatsFilled=1, seatsLeft=4, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:41:22.061 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:41:22.062 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:42:08.124 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:42:08.125 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:42:08.126 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :2
+[INFO ] 2019-07-08 17:42:08.127 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 5
+[INFO ] 2019-07-08 17:42:08.128 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:42:08.129 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:42:08.130 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:42:08.131 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :2
+[INFO ] 2019-07-08 17:42:08.132 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:42:08.132 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:42:08.133 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:42:08.134 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:42:08.135 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:42:08.136 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:42:08.137 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:42:08.138 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:42:08.138 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:42:08.139 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:42:08.140 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:42:08.141 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:42:08.142 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:42:08.143 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=2, seatsLeft=8, bookingCity=, registerdCustomer=[MTLM123456, MTLM123456]]}
+[INFO ] 2019-07-08 17:42:08.143 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:42:08.144 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:43:07.797 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 17:43:24.721 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:43:24.722 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:43:24.723 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 17:43:24.724 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 5
+[INFO ] 2019-07-08 17:43:24.725 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:43:24.726 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:43:24.727 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:43:24.727 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 17:43:24.728 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:43:24.729 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:43:24.730 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:43:24.731 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:43:24.732 [p: default-threadpool; w: Idle] montreal - Map Size is : 1
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:43:24.733 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:43:24.735 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:43:24.736 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:43:24.742 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:43:24.743 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:43:24.744 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:43:24.745 [p: default-threadpool; w: Idle] montreal - Map Size is : 1
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:43:24.746 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:43:24.747 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=2, seatsLeft=8, bookingCity=, registerdCustomer=[MTLM123456, MTLM123456]]}
+[INFO ] 2019-07-08 17:43:24.748 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:43:24.749 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:47:40.414 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 17:48:08.428 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:48:08.429 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:48:08.430 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 17:48:08.431 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:48:08.432 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:48:08.433 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:48:08.434 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:48:08.435 [p: default-threadpool; w: Idle] montreal - Map Size is : 1
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:48:08.436 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:48:08.438 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:48:08.439 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:48:08.445 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:48:08.446 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:48:08.447 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:48:08.451 [p: default-threadpool; w: Idle] montreal - Map Size is : 1
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:48:08.452 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:48:08.453 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=2, seatsLeft=8, bookingCity=, registerdCustomer=[MTLM123456, MTLM123456]]}
+[INFO ] 2019-07-08 17:48:08.453 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:48:08.454 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:48:08.456 [p: default-threadpool; w: Idle] montreal - Request Type: Remove Event
+[INFO ] 2019-07-08 17:48:08.457 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType
+[INFO ] 2019-07-08 17:48:08.458 [p: default-threadpool; w: Idle] montreal - EventType :S
+ with Event ID : MTLM100519
+
+[INFO ] 2019-07-08 17:48:08.459 [p: default-threadpool; w: Idle] montreal - Removed Successfully from Montreal Server
+[INFO ] 2019-07-08 17:48:50.985 [p: default-threadpool; w: Idle] montreal - Request Type: List Event Availability
+[INFO ] 2019-07-08 17:48:50.986 [p: default-threadpool; w: Idle] montreal - Request Parameter: Event Type
+[INFO ] 2019-07-08 17:48:50.990 [Thread-3] montreal - Reuqest Type for server to server communication is :listEventAvailability
+[INFO ] 2019-07-08 17:48:50.997 [Thread-4] montreal - Message is : S,listEventAvailability
+[INFO ] 2019-07-08 17:48:50.998 [Thread-4] montreal - Request message sent from the client is : S,listEventAvailability
+[INFO ] 2019-07-08 17:48:51.002 [p: default-threadpool; w: Idle] montreal -  The List of event for Event Type : S: 
+[INFO ] 2019-07-08 17:54:51.223 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 17:55:07.111 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:55:07.112 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:55:07.113 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 17:55:07.114 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:55:07.114 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:55:07.115 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 17:55:07.116 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 17:55:07.117 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 17:55:07.118 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 17:55:07.119 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 17:55:07.120 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 17:55:07.121 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 17:55:07.122 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 17:55:07.122 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 17:55:07.128 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 17:55:07.129 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 17:55:07.135 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 17:56:41.285 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 17:57:59.243 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 17:57:59.244 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 18:04:18.856 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 18:04:39.314 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 18:04:58.160 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 18:04:58.161 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 18:04:58.162 [p: default-threadpool; w: Idle] montreal - No data is exist to cancel in the hash map
+[INFO ] 2019-07-08 18:04:58.163 [p: default-threadpool; w: Idle] montreal - Event is couldn't able to swap because the event IdMTLM100519and event typeSdoesnot exist
+[INFO ] 2019-07-08 18:05:03.167 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 18:05:03.168 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 18:05:03.169 [p: default-threadpool; w: Idle] montreal - No data is exist to cancel in the hash map
+[INFO ] 2019-07-08 18:05:03.169 [p: default-threadpool; w: Idle] montreal - Event is couldn't able to swap because the event IdMTLM100519and event typeSdoesnot exist
+[INFO ] 2019-07-08 18:17:52.016 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 18:18:11.594 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 18:18:11.595 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 18:18:11.596 [p: default-threadpool; w: Idle] montreal - No data is exist to cancel in the hash map
+[INFO ] 2019-07-08 18:18:11.597 [p: default-threadpool; w: Idle] montreal - Event is couldn't able to swap because the event IdMTLM100519and event typeSdoesnot exist
+[INFO ] 2019-07-08 18:18:16.601 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 18:18:16.602 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 18:18:16.602 [p: default-threadpool; w: Idle] montreal - No data is exist to cancel in the hash map
+[INFO ] 2019-07-08 18:18:16.603 [p: default-threadpool; w: Idle] montreal - Event is couldn't able to swap because the event IdMTLM100519and event typeSdoesnot exist
+[INFO ] 2019-07-08 18:22:59.080 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 18:23:00.223 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 18:23:14.015 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 18:23:37.006 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 18:23:37.007 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 18:23:37.008 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 18:23:37.009 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM121212
+Booking capacity 2
+[INFO ] 2019-07-08 18:23:37.010 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 18:23:37.014 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 18:23:37.015 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 18:23:37.016 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM121212
+[INFO ] 2019-07-08 18:23:37.017 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 18:23:37.018 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 18:23:37.019 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 18:25:07.577 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 18:25:07.578 [Thread-1] montreal - Request Type :bookEvent
+[INFO ] 2019-07-08 18:25:07.579 [Thread-1] montreal - Book Event: Inter server communication
+[INFO ] 2019-07-08 18:25:07.580 [Thread-1] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 18:25:07.580 [Thread-1] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 18:25:07.581 [Thread-1] montreal - Map Size is : 1
+city  eventId :MTLM121212
+city  eventId :MTLM121212
+[INFO ] 2019-07-08 18:25:07.585 [Thread-1] montreal - Customer:  customer ID  :TORM123456
+ event type: S
+event ID : MTLM121212
+[INFO ] 2019-07-08 18:25:07.588 [Thread-1] montreal - {MTLM121212=EventsData [capacityOfBooking=2, seatsFilled=1, seatsLeft=1, bookingCity=, registerdCustomer=[TORM123456]]}
+[INFO ] 2019-07-08 18:25:07.589 [Thread-1] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 18:25:07.595 [Thread-1] montreal - Book event ends
+[INFO ] 2019-07-08 18:25:25.804 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 18:25:25.805 [Thread-1] montreal - Request Type :getBooking
+[INFO ] 2019-07-08 18:25:25.806 [Thread-1] montreal - Get booking Schedule: Inter server communication
+[INFO ] 2019-07-08 18:28:39.836 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 18:28:52.956 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 18:28:52.957 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 18:28:52.958 [p: default-threadpool; w: Idle] montreal - No data is exist to cancel in the hash map
+[INFO ] 2019-07-08 18:28:52.959 [p: default-threadpool; w: Idle] montreal - Event is couldn't able to swap because the event Id MTLM100519 and event type S doesnot exist
+[INFO ] 2019-07-08 18:28:52.961 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 18:28:52.962 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 18:28:52.963 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 18:28:52.964 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM100519
+Booking capacity 10
+[INFO ] 2019-07-08 18:28:52.965 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 18:28:52.966 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 18:28:52.967 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 18:28:52.968 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 18:28:52.968 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLE100519
+Booking capacity 10
+[INFO ] 2019-07-08 18:28:52.969 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 18:28:52.970 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 18:28:52.971 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 18:28:52.972 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLM100519
+city  eventId :MTLM100519
+[INFO ] 2019-07-08 18:28:52.973 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: S
+event ID : MTLM100519
+[INFO ] 2019-07-08 18:28:52.975 [p: default-threadpool; w: Idle] montreal - {MTLM100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 18:28:52.976 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 18:28:52.982 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 18:28:52.982 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 18:28:52.983 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 18:28:52.984 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLE100519
+city  eventId :MTLE100519
+[INFO ] 2019-07-08 18:28:52.985 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: C
+event ID : MTLE100519
+[INFO ] 2019-07-08 18:28:52.986 [p: default-threadpool; w: Idle] montreal - {MTLE100519=EventsData [capacityOfBooking=10, seatsFilled=1, seatsLeft=9, bookingCity=, registerdCustomer=[MTLM123456]]}
+[INFO ] 2019-07-08 18:28:52.987 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 18:28:52.987 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 18:28:57.963 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 18:28:57.964 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 18:28:57.965 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM100519
+[INFO ] 2019-07-08 18:28:57.965 [p: default-threadpool; w: Idle] montreal - Customer with customer ID : MTLM123456cancelled the event with ID : MTLM100519
+[INFO ] 2019-07-08 18:28:57.966 [p: default-threadpool; w: Idle] montreal - Successfully cancelled the event
+[INFO ] 2019-07-08 18:28:57.967 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :10
+[INFO ] 2019-07-08 18:28:57.968 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :10
+[INFO ] 2019-07-08 18:28:57.969 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 18:28:57.970 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 18:28:57.971 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 18:28:57.971 [p: default-threadpool; w: Idle] montreal - Map Size is : 2
+city  eventId :MTLE100519
+city  eventId :MTLE100519
+[INFO ] 2019-07-08 18:28:57.972 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLM123456
+ event type: C
+event ID : MTLE100519
+[INFO ] 2019-07-08 18:28:57.973 [p: default-threadpool; w: Idle] montreal - {MTLE100519=EventsData [capacityOfBooking=10, seatsFilled=2, seatsLeft=8, bookingCity=, registerdCustomer=[MTLM123456, MTLM123456]]}
+[INFO ] 2019-07-08 18:28:57.974 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 18:28:57.975 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 18:28:57.976 [p: default-threadpool; w: Idle] montreal - Event is successfully swapped
+[INFO ] 2019-07-08 18:45:02.940 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 18:45:15.813 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 18:45:15.814 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 18:45:15.815 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 18:45:15.816 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM101010
+Booking capacity 5
+[INFO ] 2019-07-08 18:45:15.817 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 18:45:15.822 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 18:45:15.823 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 18:45:15.824 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM101010
+[INFO ] 2019-07-08 18:45:15.825 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :5
+[INFO ] 2019-07-08 18:45:15.826 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :5
+[INFO ] 2019-07-08 18:45:15.826 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 18:52:05.328 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 18:53:04.337 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 18:53:04.338 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 18:53:04.339 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 18:53:04.340 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM101010
+Booking capacity 2
+[INFO ] 2019-07-08 18:53:04.341 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 18:53:04.346 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 18:53:04.346 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 18:53:04.347 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM101010
+[INFO ] 2019-07-08 18:53:04.348 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 18:53:04.349 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 18:53:04.350 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 18:58:50.160 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 18:58:50.161 [Thread-1] montreal - Request Type :bookEvent
+[INFO ] 2019-07-08 18:58:50.165 [Thread-1] montreal - Book Event: Inter server communication
+[INFO ] 2019-07-08 18:58:50.166 [Thread-1] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 18:58:50.167 [Thread-1] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 18:58:50.168 [Thread-1] montreal - Map Size is : 1
+city  eventId :MTLM101010
+city  eventId :MTLM101010
+[INFO ] 2019-07-08 18:58:50.169 [Thread-1] montreal - Customer:  customer ID  :TORM123456
+ event type: S
+event ID : MTLM101010
+[INFO ] 2019-07-08 18:58:50.171 [Thread-1] montreal - {MTLM101010=EventsData [capacityOfBooking=2, seatsFilled=1, seatsLeft=1, bookingCity=, registerdCustomer=[TORM123456]]}
+[INFO ] 2019-07-08 18:58:50.172 [Thread-1] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 18:58:50.178 [Thread-1] montreal - Book event ends
+[INFO ] 2019-07-08 19:06:42.009 [main] montreal - In montreal server is up
+[INFO ] 2019-07-08 19:12:06.547 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 19:12:06.549 [Thread-1] montreal - Request Type :getBooking
+[INFO ] 2019-07-08 19:12:06.550 [Thread-1] montreal - Get booking Schedule: Inter server communication
+[INFO ] 2019-07-08 19:12:06.550 [Thread-1] montreal - no registered customers
+[INFO ] 2019-07-08 19:12:27.507 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 19:12:27.508 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 19:12:27.509 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :0
+[INFO ] 2019-07-08 19:12:27.510 [p: default-threadpool; w: Idle] montreal - Event Type : S
+Event ID : MTLM110519
+Booking capacity 2
+[INFO ] 2019-07-08 19:12:27.511 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 19:12:27.516 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 19:12:27.517 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 19:12:27.518 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 19:12:27.519 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:12:27.520 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:12:27.521 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:12:44.788 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 19:12:44.789 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 19:12:44.790 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :1
+[INFO ] 2019-07-08 19:12:44.791 [p: default-threadpool; w: Idle] montreal - Event Type : C
+Event ID : MTLA110519
+Booking capacity 2
+[INFO ] 2019-07-08 19:12:44.792 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 19:12:44.796 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 19:12:44.797 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 19:12:44.798 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 19:12:44.798 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:12:44.799 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:12:44.800 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:12:44.801 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 19:12:44.802 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 19:12:44.803 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:12:44.804 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:12:44.804 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:12:54.588 [p: default-threadpool; w: Idle] montreal - Request Type: Add Event
+[INFO ] 2019-07-08 19:12:54.589 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType , Booking Capacity
+[INFO ] 2019-07-08 19:12:54.590 [p: default-threadpool; w: Idle] montreal - Montral Hashmap size :2
+[INFO ] 2019-07-08 19:12:54.591 [p: default-threadpool; w: Idle] montreal - Event Type : T
+Event ID : MTLE110519
+Booking capacity 2
+[INFO ] 2019-07-08 19:12:54.592 [p: default-threadpool; w: Idle] montreal - Montreal Server: Successfully Added
+[INFO ] 2019-07-08 19:12:54.596 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 19:12:54.597 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 19:12:54.598 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 19:12:54.598 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:12:54.599 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:12:54.600 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:12:54.601 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 19:12:54.602 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 19:12:54.602 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:12:54.603 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:12:54.604 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:12:54.605 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 19:12:54.606 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 19:12:54.607 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:12:54.607 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:12:54.608 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:13:25.621 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 19:13:25.622 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 19:13:25.623 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :MTLM110519
+city  eventId :MTLM110519
+[INFO ] 2019-07-08 19:13:25.624 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLC123456
+ event type: S
+event ID : MTLM110519
+[INFO ] 2019-07-08 19:13:25.627 [p: default-threadpool; w: Idle] montreal - {MTLM110519=EventsData [capacityOfBooking=2, seatsFilled=1, seatsLeft=1, bookingCity=, registerdCustomer=[MTLC123456]]}
+[INFO ] 2019-07-08 19:13:25.628 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 19:13:25.634 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 19:13:25.641 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 19:13:25.642 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 19:13:25.645 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 19:13:25.646 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:13:25.646 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 19:13:25.647 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 19:13:25.648 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 19:13:25.649 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 19:13:25.650 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:13:25.651 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:13:25.651 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:13:25.652 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 19:13:25.653 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 19:13:25.654 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:13:25.655 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:13:25.655 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:13:42.628 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 19:13:42.629 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 19:13:42.630 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :MTLA110519
+city  eventId :MTLA110519
+[INFO ] 2019-07-08 19:13:42.631 [p: default-threadpool; w: Idle] montreal - Customer:  customer ID  :MTLC123456
+ event type: C
+event ID : MTLA110519
+[INFO ] 2019-07-08 19:13:42.632 [p: default-threadpool; w: Idle] montreal - {MTLA110519=EventsData [capacityOfBooking=2, seatsFilled=1, seatsLeft=1, bookingCity=, registerdCustomer=[MTLC123456]]}
+[INFO ] 2019-07-08 19:13:42.633 [p: default-threadpool; w: Idle] montreal - Event booked Successfully in Montreal Location
+[INFO ] 2019-07-08 19:13:42.634 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 19:13:42.637 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 19:13:42.637 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 19:13:42.638 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 19:13:42.639 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:13:42.640 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 19:13:42.641 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 19:13:42.642 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 19:13:42.642 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 19:13:42.643 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:13:42.644 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 19:13:42.645 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 19:13:42.646 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 19:13:42.647 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 19:13:42.648 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:13:42.649 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:13:42.650 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:14:12.748 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 19:14:12.749 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 19:14:12.750 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :OTWM120319
+city  eventId :OTWM120319
+[INFO ] 2019-07-08 19:14:12.751 [p: default-threadpool; w: Idle] montreal - Calling Ottawa Book Event from Montreal Location
+[INFO ] 2019-07-08 19:14:12.753 [p: default-threadpool; w: Idle] montreal - Request message sent from the client is : MTLC123456,OTWM120319,C,bookEvent
+[INFO ] 2019-07-08 19:14:12.761 [p: default-threadpool; w: Idle] montreal -  Oustide city count is : 1
+[INFO ] 2019-07-08 19:14:12.762 [p: default-threadpool; w: Idle] montreal - success
+[INFO ] 2019-07-08 19:14:12.763 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 19:14:12.766 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 19:14:12.767 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 19:14:12.767 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 19:14:12.768 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:14:12.769 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 19:14:12.770 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 19:14:12.771 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 19:14:12.771 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 19:14:12.772 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:14:12.773 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 19:14:12.774 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 19:14:12.775 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 19:14:12.775 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 19:14:12.776 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:14:12.777 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:14:12.778 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:15:25.837 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 19:15:25.838 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 19:15:25.838 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :OTWA120319
+city  eventId :OTWA120319
+[INFO ] 2019-07-08 19:15:25.839 [p: default-threadpool; w: Idle] montreal - Calling Ottawa Book Event from Montreal Location
+[INFO ] 2019-07-08 19:15:25.841 [p: default-threadpool; w: Idle] montreal - Request message sent from the client is : MTLC123456,OTWA120319,T,bookEvent
+[INFO ] 2019-07-08 19:15:25.849 [p: default-threadpool; w: Idle] montreal -  Oustide city count is : 2
+[INFO ] 2019-07-08 19:15:25.850 [p: default-threadpool; w: Idle] montreal - success
+[INFO ] 2019-07-08 19:15:25.851 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 19:15:25.854 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 19:15:25.855 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 19:15:25.856 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 19:15:25.856 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:15:25.857 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 19:15:25.858 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 19:15:25.859 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 19:15:25.860 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 19:15:25.860 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:15:25.861 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 19:15:25.862 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 19:15:25.863 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 19:15:25.864 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 19:15:25.865 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:15:25.865 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:15:25.866 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:15:41.708 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 19:15:41.709 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 19:15:41.710 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :OTWE110319
+city  eventId :OTWE110319
+[INFO ] 2019-07-08 19:15:41.710 [p: default-threadpool; w: Idle] montreal - Calling Ottawa Book Event from Montreal Location
+[INFO ] 2019-07-08 19:15:41.712 [p: default-threadpool; w: Idle] montreal - Request message sent from the client is : MTLC123456,OTWE110319,T,bookEvent
+[INFO ] 2019-07-08 19:15:41.719 [p: default-threadpool; w: Idle] montreal -  Oustide city count is : 3
+[INFO ] 2019-07-08 19:15:41.720 [p: default-threadpool; w: Idle] montreal - success
+[INFO ] 2019-07-08 19:15:41.721 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 19:15:41.724 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 19:15:41.725 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 19:15:41.726 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLM110519
+[INFO ] 2019-07-08 19:15:41.727 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:15:41.727 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 19:15:41.728 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 19:15:41.729 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 19:15:41.730 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 19:15:41.731 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:15:41.731 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 19:15:41.732 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 19:15:41.733 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 19:15:41.734 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 19:15:41.735 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:15:41.735 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:15:41.736 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:17:50.875 [p: default-threadpool; w: Idle] montreal - Request Type: Cancel Event
+[INFO ] 2019-07-08 19:17:50.876 [p: default-threadpool; w: Idle] montreal - Request Parameters: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 19:17:50.877 [p: default-threadpool; w: Idle] montreal -  Calling Ottawa Book Event from Montreal Server
+[INFO ] 2019-07-08 19:17:50.879 [p: default-threadpool; w: Idle] montreal - Request message sent : MTLC123456,OTWA120319,cancelEvent
+[INFO ] 2019-07-08 19:17:50.892 [p: default-threadpool; w: Idle] montreal - Request Type: Book Event
+[INFO ] 2019-07-08 19:17:50.893 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID, Event ID, Event Type
+[INFO ] 2019-07-08 19:17:50.894 [p: default-threadpool; w: Idle] montreal - Map Size is : 3
+city  eventId :TORA120419
+city  eventId :TORA120419
+[INFO ] 2019-07-08 19:17:50.894 [p: default-threadpool; w: Idle] montreal -  Calling Tornoto Book Event from Montreal Server
+[INFO ] 2019-07-08 19:17:50.904 [p: default-threadpool; w: Idle] montreal - Request message received by the client is : t                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+[INFO ] 2019-07-08 19:17:50.905 [p: default-threadpool; w: Idle] montreal -  Oustide city count is : 1
+[INFO ] 2019-07-08 19:17:50.906 [p: default-threadpool; w: Idle] montreal - Book event ends
+[INFO ] 2019-07-08 19:17:50.907 [p: default-threadpool; w: Idle] montreal - Event is successfully swapped
+[INFO ] 2019-07-08 19:18:14.692 [p: default-threadpool; w: Idle] montreal - Request Type: Remove Event
+[INFO ] 2019-07-08 19:18:14.693 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType
+[INFO ] 2019-07-08 19:18:14.694 [p: default-threadpool; w: Idle] montreal - EventType :S
+ with Event ID : MTLM110519
+
+[INFO ] 2019-07-08 19:18:14.695 [p: default-threadpool; w: Idle] montreal - Removed Successfully from Montreal Server
+[INFO ] 2019-07-08 19:18:14.699 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 19:18:14.700 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 19:18:14.701 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 19:18:14.701 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 19:18:14.702 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:18:14.703 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 19:18:14.704 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 19:18:14.705 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 19:18:14.706 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 19:18:14.707 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:18:14.708 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:18:14.709 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:19:33.860 [p: default-threadpool; w: Idle] montreal - Request Type: Get booking Schedule
+[INFO ] 2019-07-08 19:19:33.861 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID
+[INFO ] 2019-07-08 19:19:33.865 [Thread-4] montreal - Request message sent from the client is : MTLM123456,getBooking
+[INFO ] 2019-07-08 19:19:33.868 [Thread-3] montreal - Message is : MTLM123456,getBooking
+[INFO ] 2019-07-08 19:19:33.874 [p: default-threadpool; w: Idle] montreal -  The List of event for Customer ID : MTLM123456: 
+[INFO ] 2019-07-08 19:20:04.444 [p: default-threadpool; w: Idle] montreal - Request Type: Get booking Schedule
+[INFO ] 2019-07-08 19:20:04.445 [p: default-threadpool; w: Idle] montreal - Request Parameter: Customer ID
+[INFO ] 2019-07-08 19:20:04.447 [Thread-5] montreal - Message is : MTLC123456,getBooking
+[INFO ] 2019-07-08 19:20:04.451 [Thread-6] montreal - Request message sent from the client is : MTLC123456,getBooking
+[INFO ] 2019-07-08 19:20:04.454 [p: default-threadpool; w: Idle] montreal -  The List of event for Customer ID : MTLC123456: MTLC123456 C OTWM120319,MTLC123456 T OTWE110319,MTLC123456 S TORA120419,MTLC123456 S MTLM110519,MTLC123456 C MTLA110519,
+[INFO ] 2019-07-08 19:20:29.752 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 19:20:29.752 [Thread-1] montreal - Request Type :getBooking
+[INFO ] 2019-07-08 19:20:29.754 [Thread-1] montreal - Get booking Schedule: Inter server communication
+[INFO ] 2019-07-08 19:21:00.668 [p: default-threadpool; w: Idle] montreal - Request Type: Remove Event
+[INFO ] 2019-07-08 19:21:00.669 [p: default-threadpool; w: Idle] montreal - Parameter: EventID, EventType
+[INFO ] 2019-07-08 19:21:00.673 [p: default-threadpool; w: Idle] montreal -  Printing Hash Map Details
+[INFO ] 2019-07-08 19:21:00.674 [p: default-threadpool; w: Idle] montreal - The event type              :S
+[INFO ] 2019-07-08 19:21:00.675 [p: default-threadpool; w: Idle] montreal - The event type              :C
+[INFO ] 2019-07-08 19:21:00.676 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLA110519
+[INFO ] 2019-07-08 19:21:00.679 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:21:00.679 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :1
+[INFO ] 2019-07-08 19:21:00.680 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :1
+[INFO ] 2019-07-08 19:21:00.681 [p: default-threadpool; w: Idle] montreal - The event type              :T
+[INFO ] 2019-07-08 19:21:00.682 [p: default-threadpool; w: Idle] montreal - The event id                  :MTLE110519
+[INFO ] 2019-07-08 19:21:00.683 [p: default-threadpool; w: Idle] montreal - Event booking capacity   :2
+[INFO ] 2019-07-08 19:21:00.683 [p: default-threadpool; w: Idle] montreal - Event booking seat left   :2
+[INFO ] 2019-07-08 19:21:00.684 [p: default-threadpool; w: Idle] montreal - Event booking seat booked :0
+[INFO ] 2019-07-08 19:21:41.839 [Thread-1] montreal -  Recieved message :
+[INFO ] 2019-07-08 19:21:41.840 [Thread-1] montreal - Request Type :getBooking
+[INFO ] 2019-07-08 19:21:41.841 [Thread-1] montreal - Get booking Schedule: Inter server communication

@@ -1,0 +1,28 @@
+module ClientIDLInterfaceModule
+{
+
+	interface ClientIDLInterface
+	{
+
+
+	 string AddEvent(in string eventId, in string eventType, in long bookingCapactiy);
+
+     string RemoveEvent(in string eventId, in string eventType); 
+     
+     string ListEventAvailability(in string eventType); 
+     
+ 	 string BookEvent(in string customerId, in string eventId, in string eventType); 
+
+     string GetBookingSchedule(in string customerId);
+
+     boolean CancelEvent(in string cutomerId, in string eventId, in string eventType); 
+     
+     string SwapEvent(in string  customerID, in string newEventID, in string newEventType, in string oldEventID, in string oldEventType);
+    
+     void ResultHashMap();
+	
+	oneway void shutdown();
+
+	};
+
+};
